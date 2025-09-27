@@ -2101,15 +2101,15 @@ function parseQuestions(text) {
       continue;
     }
     // Múltipla escolha e VF
-    const qMatch = block.match(/^Q:\s*([\s\S]+?)(?=^([A-E]\)|G:))/m);
+    const qMatch = block.match(/^Q:\s*([\s\S]+?)(?=^([A-Z]\)|G:))/m);
     if (!qMatch) continue;
     const enunciado = autoEmbedImages(qMatch[1].trim());
-    const gMatch = block.match(/^G:\s*([A-EVF])$/m);
+    const gMatch = block.match(/^G:\s*([A-Z]|V|F)$/m);
     if (!gMatch) continue;
     const gabarito = gMatch[1];
     const cmtMatch = block.match(/^C:\s*([\s\S]+)$/m);
     const comentario = cmtMatch ? autoEmbedImages(cmtMatch[1].trim()) : null;
-    const altRegex = /^([A-E])\)\s*([\s\S]+?)(?=^[A-E]\)|^G:|^C:|^$)/gm;
+    const altRegex = /^([A-Z])\)\s*([\s\S]+?)(?=^[A-Z]\)|^G:|^C:|^$)/gm;
     const alternativas = [];
     let mAlt;
     altRegex.lastIndex = 0; // Reset lastIndex
@@ -2119,7 +2119,7 @@ function parseQuestions(text) {
         texto: mAlt[2].trim()
       });
     }
-    if (alternativas.length >= 3 && alternativas.length <= 5) {
+    if (alternativas.length >= 3) {
       questions.push({
         tipo: 'me',
         enunciado,
