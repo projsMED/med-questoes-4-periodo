@@ -1,0 +1,150 @@
+Q: Uma criança de 5 anos de idade tem história de infecções bacterianas recorrentes, incluindo pneumonia e otite média. A análise dos leucócitos coletados do sangue periférico indicou uma deficiência de mieloperoxidase. Qual das seguintes alternativas corresponde à causa provável da maior suscetibilidade da criança a infecções?
+A) Defeito na degranulação neutrofílica
+B) Defeito na produção de prostaglandinas
+C) Falha na produção de radicais hidroxi-halidos (HOCl)
+D) Diminuição do consumo de oxigênio após a fagocitose
+E) Falha na produção de peróxido de hidrogênio
+G: C
+C: A mieloperoxidase é encontrada nos grânulos azurofílicos dos neutrófilos. Ela converte H2O2 em HOCl , um poderoso agente oxidante e antimicrobiano. A degranulação ocorre quando os fagolisossomas são formados com bactérias internalizadas em vacúolos fagocíticos no citoplasma do neutrófilo. Em contraste, a produção de prostaglandina depende do funcionamento da via de metabolização do ácido araquidônico pela ciclo-oxigenase. O consumo de oxigênio que ocorre com a explosão oxidativa ou respiratória após a fagocitose é favorecido pela oxidação de glicose e pela ativação da NADPH oxidase neutrofílica, resultando na produção de superóxido que é convertido em H2O2 pela dismutação espontânea.
+
+Q: Uma mulher de 78 anos de idade sofreu ausência de consciência repentina, com perda dos movimentos no lado direito do corpo. A angiografia cerebral mostrou uma oclusão da artéria cerebral média esquerda. Para evitar o aparecimento de novas lesões isquêmicas no córtex cerebral, qual dos seguintes mediadores produziria efeitos mais benéficos?
+A) Tromboxano A2
+B) Bradicinina
+C) Óxido nítrico
+D) Fator ativador de plaquetas
+E) Leucotrieno E4
+G: C
+C: As células endoteliais podem liberar óxido nítrico para promover vasodilatação. O óxido nítrico também pode ser administrado a pacientes para favorecer a vasodilatação em áreas de lesão isquêmica. O tromboxano A2, o fator ativador de plaquetas e o leucotrieno E4 apresentam propriedades vasoconstritoras. Os efeitos da bradicinina consistem principalmente em aumentar a permeabilidade vascular e causar dor.
+
+Q: Um homem de 50 anos de idade apresentou uma dor na região abdominal intermediária que durou várias semanas. No momento, está com febre. A apalpação indica uma suave sensibilidade na região abdominal intermediária, ao mesmo tempo em que os sons intestinais estão presentes. O resultado do exame de sangue oculto nas fezes foi positivo. Realizou-se uma endoscopia do trato gastrintestinal superior, e amostras de biópsia foram obtidas. A figura mostra o exame microscópico de uma amostra de biópsia de uma lesão duodenal. Qual dos seguintes termos melhor descreve a lesão?
+A) Abscesso
+B) Granuloma caseoso
+C) Inflamação crônica
+D) Exsudato purulento
+E) Efusão serosa
+F) Ulceração
+G: F
+C: A inflamação que envolve a superfície epitelial pode causar uma necrose tão extensa que a superfície pode passar a apresentar erosão, resultando no aparecimento de uma úlcera. Se a inflamação persistir, a úlcera pode continuar a penetração descendente nas camadas submucosa e muscular. Como alternativa, a úlcera pode curar ou permanecer cronicamente inflamada. Um abscesso é um conjunto localizado de neutrófilos nos tecidos. Um granuloma caseoso consiste em uma inflamação granulomatosa com necrose central; a necrose contém elementos de necrose de coagulação e de liquefação. A inflamação crônica ocorre quando há preponderância de células mononucleares, tais como linfócitos, macrófagos e plasmócitos, em um processo que se tem mantido por um período maior que apenas alguns dias – provavelmente semanas ou meses – ou que acompanha ataques repetitivos de inflamação aguda. Pus, ou exsudato purulento, apresenta um aspecto semilíquido e amarelado devido ao grande número de granulócitos presentes. Uma efusão serosa é um transudato de aspecto aquoso que se assemelha a um ultrafiltrado de plasma sanguíneo com baixo conteúdo de células e proteínas.
+
+Q: Um homem de 72 anos de idade com enfisema severo vem apresentado piora de uma insuficiência ventricular direita nos últimos 5 anos. Nos últimos 4 dias, apresentou febre e aumento da dispneia. Uma radiografia torácica mostrou acúmulo de fluidos nos espaços pleurais. O fluido obtido por toracocentese tinha uma gravidade específica de 1,030 e continha neutrófilos degenerados. A causa mais provável do acúmulo desses fluidos é a intensificação de qual dos seguintes mecanismos?
+A) Pressão coloidosmótica
+B) Pressão linfática
+C) Permeabilidade vascular
+D) Retenção renal de sódio e água
+E) Diapedese leucocitária
+G: C
+C: A formação de um exsudato contendo uma quantidade significativa de proteínas e células depende da permeabilidade dos vasos sanguíneos, principalmente das vênulas. A pressão coloidosmótica extravascular cresce após a exsudação, ao mesmo tempo em que o conteúdo proteico do espaço extravascular também aumenta, levando ao acúmulo extracelular de líquidos. Os vasos linfáticos varrem o líquido exsudado com proteínas e reduzem a quantidade de líquidos extravascular e extracelular. A retenção de sódio e água ajuda a conduzir a transudação dos líquidos. Apenas a leucocitose não é suficiente para causar exsudação, uma vez que os leucócitos devem ser levados a deixarem os vasos por ação de fatores quimiotáticos.
+
+Q: Um homem de 43 anos de idade tem apresentado tosse e febre nos últimos 2 meses. Uma radiografia do tórax apontou a presença de densidades nodulares bilaterais com alguma calcificação, localizadas principalmente nos lobos superiores dos pulmões. Realizou-se uma biópsia pulmonar transbronquial, na qual foi obtida uma amostra cujo aspecto microscópico é mostrado na figura. Qual dos seguintes mediadores químicos é o mais importante na patogenia dessa lesão?
+A) Molécula C5a do complemento
+B) Interferon γ
+C) Bradicinina
+D) Óxido nítrico
+E) Prostaglandina
+G: B
+C: A figura mostra um granuloma com muitas células epitelioides e grandes células gigantes de Langhans. A estimulação de macrófagos e sua transformação em células epitelioides e células gigantes são características da formação de um granuloma. O interferon γ promove a formação de células epitelioides e células gigantes. A molécula de complemento C5a é quimiotática para neutrófilos. Apesar de serem encontrados neutrófilos ocasionalmente nos granulomas, tais células não constituem o principal componente da inflamação granulomatosa. A bradicinina, liberada em respostas de inflamação aguda, causa dor. Os macrófagos podem liberar óxido nítrico para destruir outras células, porém o óxido nítrico não estimula macrófagos a gerarem uma resposta granulomatosa. As prostaglandinas são as principais moléculas envolvidas na promoção da vasodilatação e da dor nas respostas de inflamação aguda.
+
+Q: Um homem de 43 anos de idade apresenta um defeito ventricular septal e está com tosse e febre nos últimos 2 dias. Ao exame, sua temperatura estava em 37,6oC e foi observado um murmúrio cardíaco. Na cultura sanguínea realizada, houve crescimento de Streptococcus, do grupo viridans. Sua taxa de sedimentação eritrocitária (TSE) aumentou. Células microbianas estão sendo opsonizadas e eliminadas. Qual dos seguintes mediadores químicos é o mais importante na produção de tais achados?
+A) Bradicinina
+B) Proteína C reativa
+C) Interferon γ
+D) Óxido nítrico
+E) Prostaglandina
+F) Fator de necrose tumoral
+G: B
+C: Este processo inflamatório agudo leva à produção de reagentes de fase aguda, tais como a proteína C reativa (PCR), o fibrinogênio e a proteína amiloide sérica A (SAA). Tais proteínas, em particular o fibrinogênio, e as imunoglobulinas aumentam a formação do pilhos (rouleaux) de células sanguíneas vermelhas para aumentar a sedimentação, a qual é um indicador inespecífico de inflamação. A produção de PCR é regulada positivamente pela interleucina-6, enquanto o fibrinogênio e a SAA são regulados positivamente principalmente pelo fator de necrose tumoral e pela interleucina-1. O interferon γ é um potente estimulador de macrófagos. O óxido nítrico pode induzir vasodilatação ou auxiliar a destruição de micro-organismos por macrófagos. As prostaglandinas são vasodilatadores.
+
+Q: Em um experimento, foram coletados linfócitos T do sangue periférico e transferidos para um meio que preserva sua função. Os linfócitos foram ativados por contato com antígeno e incubados por várias horas. O líquido do sobrenadante foi coletado e descobriu-se que continha uma substância que é um dos principais estimuladores de monócitos e macrófagos. Qual das seguintes substâncias estimula tais células?
+A) Leucotrieno B4
+B) Histamina
+C) Interferon γ
+D) Interleucina-1
+E) Óxido nítrico
+F) Fosfolipase C
+G) Fator de necrose tumoral
+G: C
+C: O interferon γ secretado por linfócitos estimula monócitos e macrófagos, os quais secretam suas próprias citocinas para maior ativação dos linfócitos. O interferon γ também é importante na transformação de macrófagos em células epitelioides na resposta inflamatória granulomatosa. O leucotrieno B4, gerado na via de metabolização do ácido araquidônico pela lipoxigenase, é um potente agente quimiotático de neutrófilos. A histamina liberada por mastócitos é um potente agente vasodilatador, aumentando a permeabilidade vascular. A interleucina-1 e o fator de necrose tumoral, ambos produzidos por macrófagos ativados, modulam muitos efeitos sistêmicos, incluindo febre, gasto metabólico e hipotensão. O óxido nítrico gerado por macrófagos auxilia na destruição de micro-organismos; o óxido nítrico gerado pelo endotélio modula a vasodilatação e inibe a ativação de plaquetas. A ligação de agonistas, tais como epinefrina, colágeno ou trombina, a receptores de superfície nas plaquetas ativa a fosfolipase C, a qual catalisa a liberação de ácido araquidônico de dois dos principais fosfolipídios de membrana, o fosfatidilinositol e a fosfatidilcolina.
+
+Q: Uma mulher de 90 anos de idade foi diagnosticada com pneumonia por Staphylococcus aureus e foi tratada com antibioticoterapia. Após 2 semanas, a paciente não mais apresentava tosse produtiva, mas sua temperatura ainda estava em 38,1oC. Uma radiografia do tórax revelou a existência de uma densidade arredondada medindo 3 cm, localizada no lobo pulmonar inferior direito, cujo conteúdo liquefeito formava uma região central de ar-líquido. Não havia infiltrações circundantes. Qual dos seguintes termos melhor descreve o resultado da pneumonia nessa paciente?
+A) Resolução completa
+B) Regeneração
+C) Fibrose
+D) Formação de abscesso
+E) Progressão para inflamação crônica
+G: D
+C: A formação de uma cavidade preenchida com líquidos após a infecção por Staphylococcus aureus sugere que houve necrose de liquefação. A cavidade é preenchida com debris celulares e neutrófilos viáveis e mortos (pus). Cavidades localizadas e cheias de pus são chamadas de abscessos. Alguns organismos bacterianos, como o S. aureus, são mais propensos a ser piogênicos ou formadores de pus. Com uma resolução completa, a estrutura do pulmão permanece praticamente inalterada. O tecido pulmonar, em contraste com o fígado, não é capaz de regeneração. Seguindo-se à inflamação aguda, é possível que ocorra um processo de cicatrização, ou fibrose, à medida que o tecido lesado for substituído por tecido conjuntivo fibroso. A maioria das pneumonias bacterianas se resolve, sendo que a progressão para inflamação crônica não é comum.
+
+Q: Uma mulher de 30 anos de idade, com história de defeito ventricular septal congênito, tem apresentado, nas últimas 3 semanas, temperatura constante de 38,6oC e dor de cabeça. Uma varredura da cabeça por TC apontou a existência de uma lesão em forma de anel, medindo 3 cm, em crescimento e localizada no lobo parietal direito. Qual das seguintes ações realizadas por células inflamatórias é a que provavelmente produziu tal achado de TC?
+A) Formação de óxido nítrico por macrófagos
+B) Produção de interferon γ por linfócitos
+C) Formação de fator de transformação do crescimento β por macrófagos
+D) Produção de prostaglandina pelo endotélio
+E) Liberação de enzimas lisossomais de neutrófilos
+G: E
+C: Essa paciente apresenta uma endocardite infecciosa com embolização séptica, que gera um abscesso cerebral. A destruição tecidual que acompanha a formação do abscesso como parte dos processos de inflamação aguda ocorre a partir da ação destrutiva de enzimas lisossômicas, auxiliada pela liberação de espécies reativas de oxigênio. O óxido nítrico produzido por macrófagos auxilia na destruição de agentes infecciosos. O interferon γ liberado por linfócitos exerce o principal papel nas respostas inflamatórias crônicas e granulomatosas. O fator transformador do crescimento β produzido por macrófagos promove fibrose. As prostaglandinas produzidas pelo endotélio favorecem a vasodilatação.
+
+Q: Um homem de 35 anos de idade tem apresentado dispneia crescente nas últimas 24 horas. Uma radiografia do tórax revelou a existência de grandes efusões pleurais bilaterais. A toracocentese rendeu 500 mL de um fluido discretamente turvo e amarelado proveniente da cavidade pleural direita. O exame citológico do fluido mostra a presença de muitos neutrófilos, mas nenhum linfócito nem hemácias. Qual dos seguintes mecanismos é o que mais contribui para o acúmulo de líquidos no espaço pleural?
+A) Vasoconstrição arteriolar
+B) Liberação de lisossomas neutrofílicos
+C) Contração endotelial
+D) Inibição da aderência de plaquetas
+E) Obstrução linfática
+G: C
+C: A exsudação de líquidos a partir de vênulas e capilares é o componente principal do processo de inflamação aguda. Vários mecanismos de aumento da permeabilidade vascular foram propostos, incluindo a formação de espaços interendoteliais pela contração do endotélio. Esta seria causada por mediadores, tais como histamina e leucotrienos. Os vasos, então, se tornariam mais “extravasáveis” permitindo que os líquidos deixassem o espaço intravascular e se acumulassem no meio extravascular, formando efusões nas cavidades corpóreas ou edema nos tecidos. A vasoconstrição arteriolar é uma resposta transiente à lesão e que diminui a perda de sangue. Os neutrófilos liberam enzimas lisossômicas após terem alcançado a área de lesão tecidual, fora do território vascular. Plaquetas aderem ao endotélio lesionado e promovem hemostasia. Uma obstrução linfática resulta em acúmulo de linfa rica em proteínas e de linfócitos, produzindo uma efusão quilosa.
+
+Q: Um garoto de 12 anos de idade, com história de 6 meses de infecções repetitivas, tem apresentado febre e tosse há 3 dias. A coloração de Gram de amostra de escarro revelou a presença de muitos cocos gram-positivos formando cadeias. A CCS indicou neutrofilia. Análises laboratoriais mostraram que os neutrófilos do paciente fagocitam e matam micro-organismos normalmente em presença de soro humano normal, mas não na presença de seu próprio soro. Os neutrófilos apresentaram migração normal em um ensaio de quimiotaxia. Qual das seguintes alternativas contém a causa mais provável do aumento da suscetibilidade da criança a infecções?
+A) Deficiência de integrinas
+B) Defeito na proteína microtubular de neutrófilos
+C) Deficiência de imunoglobulina
+D) Produção defeituosa de peróxido de hidrogênio por neutrófilos
+E) Deficiência de selectinas
+G: C
+C: O paciente apresenta uma deficiência de imunoglobulinas que impede a opsonização e a fagocitose de micro-organismos. A deficiência de integrinas e selectinas, ou um defeito nos microtúbulos, evitaria a adesão e locomoção dos neutrófilos. A produção de H2O2 é parte do mecanismo de destruição dependente de oxigênio. Tal mecanismo permanece intacto nesse paciente, uma vez que seus neutrófilos são capazes de matar bactérias quando as imunoglobulinas presentes no soro normal possibilitarem a fagocitose.
+
+Q: Uma mulher de 35 anos de idade faz uso de ácido acetilsalicílico (aspirina) para artrite. Embora sua dor articular seja reduzida com essa terapia, o processo inflamatório continua. A terapia com aspirina alivia sua dor principalmente pela redução da síntese de qual dos seguintes mediadores?
+A) Molécula C1q do complemento
+B) Prostaglandinas
+C) Leucotrieno E4
+D) Histamina
+E) Óxido nítrico
+G: B
+C: As prostaglandinas são produzidas por intermédio da via de metabolização do ácido araquidônico pela ciclo-oxigenase. A aspirina e outras drogas anti-inflamatórias não esteroidais bloqueiam a síntese de prostaglandinas, as quais podem causar dor. A molécula do complemento C1q é produzida no estágio inicial da ativação do complemento, podendo levar eventualmente à lise celular. Os leucotrienos são gerados na via da lipoxigenase, a qual não é bloqueada pela aspirina. A histamina é principalmente um vasodilatador. O óxido nítrico liberado pelo endotélio é um vasodilatador.
+
+Q: Uma mulher de 70 anos de idade tem apresentado falta de ar que vem piorando há 1 semana. Ao exame físico, sua temperatura foi de 38,3oC. No exame de percussão, observou-se um embotamento sobre os campos pulmonares esquerdos. A toracocentese rendeu 800 mL de um fluido turvo e amarelado proveniente da cavidade pleural esquerda. A análise do fluido revelou uma contagem de leucócitos de 2.500 células/mm3, das quais 98% eram neutrófilos e 2% eram linfócitos. Uma coloração Gram desses líquidos mostrou a presença de agrupamentos de cocos gram-positivos. Qual dos seguintes termos melhor descreve o processo que está ocorrendo na cavidade pleural?
+A) Abscesso
+B) Inflamação crônica
+C) Edema
+D) Inflamação fibrinosa
+E) Exsudato purulento
+F) Efusão serosa
+G: E
+C: As infecções bacterianas muitas vezes evocam uma resposta inflamatória aguda dominada por neutrófilos. Os neutrófilos extravasados tentam fagocitar e destruir as bactérias. Nesse processo, alguns neutrófilos morrem e a liberação de seu conteúdo de enzimas lisossômicas pode causar necrose liquefativa no tecido. Os debris do tecido liquefeito e os neutrófilos vivos e mortos compõem o pus, ou exsudato purulento. Esse exsudato é típico de infecções bacterianas que envolvem cavidades corporais. Outro termo para um exsudato purulento ocorrendo no espaço pleural é empiema. Um abscesso é um conjunto localizado de neutrófilos nos tecidos. A inflamação crônica ocorre quando há preponderância de células mononucleares, tais como linfócitos, macrófagos e plasmócitos, em um processo com duração maior que apenas alguns dias – em geral semanas ou meses – ou que acompanha ataques repetitivos de inflamação aguda. O edema refere-se a um conjunto aumentado de líquidos nos tecidos que leva à tumefação tecidual. Na inflamação fibrinosa, a exsudação das proteínas do sangue (incluindo o fibrinogênio que se polimeriza em fibrina) confere um aspecto grosseiramente eriçado às superfícies sobrejacentes à inflamação. Uma efusão serosa é um exsudato de aparência aquosa semelhante a um ultrafiltrado de plasma sanguíneo, apresentando baixa concentração de células e proteínas.
+
+Q: Um garoto de 5 anos de idade tem uma história de infecções recorrentes causadas por bactérias gram-positivas, incluindo Staphylococcus aureus. Testes genéticos apontaram um defeito que ocasiona ausência de produção de integrina β2. Qual das seguintes anormalidades de função neutrofílica é responsável por tais sintomas clínicos?
+A) O rolamento de neutrófilos está normal porém a fixação às células endoteliais ativadas por citocinas é inadequada
+B) Falha na migração dos neutrófilos para o sítio de infecção após terem deixado a vasculatura
+C) Diminuição da explosão respiratória nos neutrófilos após a fagocitose de bactérias
+D) Diminuição da fagocitose de bactérias opsonizadas com IgG
+E) Falha na produção de radicais hidroxi-halidos (HOCl)
+G: A
+C: Em uma inflamação aguda, os neutrófilos extravasam a partir dos vasos sanguíneos. Esse processo depende de moléculas de adesão expressas em neutrófilos e células endoteliais. O primeiro estágio do extravasamento é a “rolagem” dos neutrófilos sobre o endotélio. Nessa etapa, a adesão entre os neutrófilos e as células endoteliais é fraca. A rolagem é mediada pela ligação de selectinas a olissacarídeos sialilados. A etapa seguinte, de adesão firme, é mediada pela ligação das integrinas dos neutrófilos a seus receptores nas células endoteliais, os quais são a molécula de adesão intracelular-1 ou molécula de adesão celular vascular-1 (VCAM-1). As integrinas têm duas cadeias, α e β. A ausência genética de cadeias b impede que ocorra uma adesão firme dos leucócitos às células endoteliais. A migração dos neutrófilos para o local de infecção depende da presença de fatores quimiotáticos que se ligam a eles e ativam a fosfolipase C para iniciar uma série de eventos que culmina no influxo de cálcio, ativando proteínas contráteis. A explosão respiratória que destrói os organismos fagocitados depende da NADPH oxidase, de modo que uma deficiência dessa enzima leva à doença granulomatosa crônica. A fagocitose de organismos opsonizados depende da internalização, a qual requer a presença de proteínas contráteis no citoplasma dos neutrófilos. A formação de HOCl necessita da mieloperoxidase liberada dos grânulos neutrofílicos.
+
+Q: Em um experimento, células do sangue periférico foram isoladas em meio de cultura que preserva sua atividade metabólica. Foi adicionado interferon γ à cultura, e as células foram incubadas. Em seguida, o sobrenadante livre de células dessa cultura foi acrescentado ao meio de uma segunda cultura contendo organismos de Escherichia coli. Qual dos seguintes tipos celulares é a fonte mais provável da atividade bactericida contra E. coli?
+A) Basófílo
+B) Linfócito B
+C) Linfócito CD4
+D) Linfócito CD8
+E) Macrófago
+F) Neutrófilo
+G) Célula natural killer
+G: E
+C: Os macrófagos contêm óxido nítrico sintase induzível por citocinas (iNOS), que produz óxido nítrico. O óxido nítrico, isolado ou interagindo com outras espécies reativas de oxigênio, apresenta atividade antimicrobiana. Os linfócitos CD4 ou CD8 podem ser fontes de interferon γ (INF γ), o qual estimula a produção de NOS por macrófagos. As células endoteliais apresentam um tipo de NOS (eNOS) que atua promovendo vasodilatação. Os linfócitos B produzem imunoglobulinas que podem opsonizar bactérias. Os basófilos liberam histamina e metabólitos do ácido araquidônico, os quais participam do processo inflamatório agudo. Os neutrófilos podem fagocitar micróbios, porém utilizam a NADPH oxidase e outras enzimas além da NOS para destruir os micro-organismos. As células natural killer detêm receptores Fc e podem lisar células-alvo recobertas com IgG; elas também podem produzir INF γ.
+
+Q: Pacientes com vasta lesão endotelial produzida na sepse por Escherichia coli apresentam consumo de fatores de coagulação, bem como uma extensa resposta inflamatória. A administração de proteína C ativada diminui essa resposta inflamatória, ao reduzir a quantidade da substância que normalmente se liga aos receptores ativados por proteases, e desencadeia a expressão de moléculas de adesão, citocinas e quimiocinas. Qual seria essa substância?
+A) Complemento
+B) Fibrina
+C) Calicreína
+D) Plasmina
+E) Trombina
+G: E
+C: Na ativação da coagulação, gera-se uma resposta inflamatória que amplia a coagulação, criando um círculo vicioso. A proteína C antagoniza o fator de coagulação V, o qual catalisa a ativação da protrombina em trombina, quebrando, assim, o ciclo de produção de trombina. Componentes do sistema complemento podem ser ativados pela plasmina (C3) e pela calicreína (C5), formando anafilotoxinas (C3a e C5a) que promovem inflamação. A fibrina é o produto final das vias de coagulação, criando uma rede de plaquetas aprisionadas e um tampão. A calicreína é gerada pela ativação do fator de Hageman (XII) e leva à formação de bradicinina. A plasmina é produzida a partir do plasminogênio ativado por trombose para promoção da lise do tampão.
