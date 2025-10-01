@@ -1922,43 +1922,40 @@ function setupQuiz() {
   }
 
 
-  /*  ----------  randomização / manutenção de grupos  --------- */
-  if (shuffleQuestionsChk.checked) {
-    const allIdx   = [...Array(n).keys()];
-    const movable  = allIdx.filter(i =>
-      !groups.some(g => i >= g.start && i < g.start + g.length)
-    );
-    const shuffledMovable = shuffleArray(movable);
+/*  ----------  randomização / manutenção de grupos  --------- */
+if (shuffleQuestionsChk.checked) {
+  const n = originalQuestions.length;
 
-    let result = [];
-    let movPtr = 0;
-    for (let pos = 0; pos < n; pos++) {
-      const grp = groups.find(g => g.start === pos);
-      if (grp) {
-        for (let k = 0; k < grp.length; k++) result.push(pos + k);
-        pos += grp.length - 1;
-      } else {
-        if (movPtr < shuffledMovable.length) { // Check bounds
-           result.push(shuffledMovable[movPtr++]);
-        } else {
-            // This case shouldn't happen if logic is correct, but as a fallback:
-            // Find the next index not already in result and not part of a group that hasn't started
-            let fallbackIndex = -1;
-            for (let potentialIdx = 0; potentialIdx < n; potentialIdx++) {
-                if (!result.includes(potentialIdx) && !groups.some(g => potentialIdx >= g.start && potentialIdx < g.start + g.length && !result.includes(g.start))) {
-                    fallbackIndex = potentialIdx;
-                    break;
-                }
-            }
-            if(fallbackIndex !== -1) result.push(fallbackIndex);
-             // else console.error("Could not find a fallback index for shuffling");
-        }
-      }
+  // Mapa de início -> grupo para lookup O(1)
+  const groupByStart = new Map(groups.map(g => [g.start, g]));
+
+  // 1) Quebra o quiz em "unidades": grupos viram blocos; questões soltas viram blocos unitários.
+  const units = [];
+  for (let i = 0; i < n; ) {
+    const g = groupByStart.get(i);
+    if (g) {
+      // bloco preserva a ordem interna [i, i+1, ..., i+g.length-1]
+      const block = Array.from({ length: g.length }, (_, k) => i + k);
+      units.push(block);
+      i += g.length;
+    } else {
+      units.push([i]); // questão avulsa
+      i += 1;
     }
-    shuffledQuestionsOrder = result;
-  } else {
-    shuffledQuestionsOrder = [...Array(n).keys()];
   }
+
+  // 2) Embaralha apenas as unidades (não mexe na ordem interna de cada bloco)
+  const shuffledUnits = shuffleArray(units);
+
+  // 3) Achata para obter a ordem final dos índices de questões
+  shuffledQuestionsOrder = shuffledUnits.flat();
+
+} else {
+  // sem embaralhar: ordem original
+  shuffledQuestionsOrder = [...Array(originalQuestions.length).keys()];
+}
+
+
 
   /*  ----------  randomização de alternativas/check‑box  ---------- */
   shuffledAlternativesOrders = [];

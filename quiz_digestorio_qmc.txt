@@ -1,0 +1,100 @@
+INFO: Quiz sobre Sistema Digestório
+TAGS: Fisiologia; Digestão
+
+Q: Observe o esquema do sistema digestório humano e responda:
+Q1: Qual órgão é responsável pela produção de bile?
+A) Estômago
+B) Fígado
+C) Pâncreas
+D) Intestino delgado
+G: B
+C: O fígado produz a bile, essencial para emulsificação de gorduras.
+
+Q2: Em qual parte ocorre a maior absorção de nutrientes?
+A) Boca
+B) Estômago
+C) Intestino delgado
+D) Intestino grosso
+G: C
+C: O intestino delgado possui vilosidades que aumentam a absorção.
+
+Q3: Qual é a principal função do estômago?
+A) Absorver água
+B) Produzir bile
+C) Armazenar e digerir proteínas
+D) Neutralizar ácido
+G: C
+C: O estômago mistura e inicia a digestão de proteínas com a pepsina.
+
+---
+
+Q: Considere o processo digestivo e responda:
+Q1: Qual enzima da saliva inicia a digestão do amido?
+A) Pepsina
+B) Amilase salivar
+C) Lipase
+D) Tripsina
+G: B
+C: A amilase salivar quebra o amido em maltose.
+
+Q2: Qual estrutura impede o alimento de entrar na traqueia durante a deglutição?
+A) Epiglote
+B) Glote
+C) Laringe
+D) Faringe
+G: A
+C: A epiglote fecha a traqueia para evitar engasgos.
+
+---
+
+Q: Analise a frase: "O pâncreas produz enzimas digestivas e insulina". Sobre isso:
+Q1: A insulina é um hormônio que regula o quê?
+A) Absorção de água
+B) Níveis de glicose no sangue
+C) Produção de bile
+D) Digestão de proteínas
+G: B
+C: A insulina controla os níveis de glicose no sangue.
+
+---
+
+Q: Leia e responda:
+Q1: Qual órgão conecta o estômago ao intestino delgado?
+A) Duodeno
+B) Esôfago
+C) Jejuno
+D) Íleo
+G: A
+C: O duodeno é a primeira porção do intestino delgado.
+
+Q2: Qual parte do sistema digestório é responsável pela absorção de água e sais minerais?
+A) Intestino grosso
+B) Estômago
+C) Duodeno
+D) Esôfago
+G: A
+C: O intestino grosso reabsorve água e forma as fezes.
+
+Q3: Qual estrutura impede o refluxo do alimento do estômago para o esôfago?
+A) Válvula ileocecal
+B) Esfíncter esofágico inferior
+C) Piloro
+D) Epiglote
+G: B
+C: O esfíncter esofágico inferior evita o refluxo ácido.
+
+Q4: Qual vitamina é absorvida no estômago em associação com o fator intrínseco?
+A) Vitamina C
+B) Vitamina B12
+C) Vitamina D
+D) Vitamina K
+G: B
+C: A vitamina B12 depende do fator intrínseco para absorção.
+
+Q5: O suco pancreático é liberado em qual região?
+A) Estômago
+B) Duodeno
+C) Jejuno
+D) Íleo
+G: B
+C: O pâncreas libera enzimas no duodeno para digestão de gorduras, carboidratos e proteínas.

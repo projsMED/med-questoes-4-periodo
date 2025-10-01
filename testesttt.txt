@@ -1,0 +1,32 @@
+Q: A insuficiência cardíaca é sempre causada por um infarto agudo do miocárdio.
+G: F
+
+Q: A insuficiência cardíaca pode ser consequência de hipertensão arterial crônica.
+G: V
+
+Q: Na insuficiência cardíaca direita, os sintomas mais comuns são dispneia e congestão pulmonar.
+G: F
+
+Q: A fração de ejeção reduzida é um critério diagnóstico de insuficiência cardíaca sistólica.
+G: V
+
+Q: A insuficiência cardíaca nunca afeta a função renal.
+G: F
+
+Q: O uso de diuréticos pode auxiliar no alívio dos sintomas da insuficiência cardíaca.
+G: V
+
+<juntas>
+Q: Sobre a insuficiência, julgue os três itens a seguir:
+Item A)A insuficiência cardíaca não pode ser causada por doenças das válvulas cardíacas.
+G: F
+
+Q: Item B) O remodelamento cardíaco é uma característica presente na evolução da insuficiência cardíaca crônica.
+G: V
+
+Q: Item C)A insuficiência cardíaca acomete apenas pessoas idosas e nunca jovens.
+G: F
+</juntas>
+
+Q: O tratamento da insuficiência cardíaca pode incluir betabloqueadores e inibidores da ECA.
+G: V
