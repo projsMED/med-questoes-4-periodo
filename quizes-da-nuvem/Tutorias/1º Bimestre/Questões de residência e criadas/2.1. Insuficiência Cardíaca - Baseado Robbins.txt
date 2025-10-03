@@ -1,0 +1,197 @@
+INFO: Baseadas no Robbins. Ative sempre embaralhar questões.
+
+Q: Homem de 68 anos com hipertensão de longa data evolui há meses com cansaço aos esforços, hoje acorda à noite “ofegante” e precisa dormir com dois travesseiros. Exame: estertores finos bibasais, bulha acessória compatível com terceira bulha, leve edema maleolar. BNP elevado. Qual o tipo de insuficiência cardíaca predominante neste quadro?
+A) Insuficiência cardíaca direita isolada por congestão sistêmica
+B) Insuficiência cardíaca esquerda com disfunção sistólica predominante
+C) Insuficiência cardíaca esquerda com disfunção diastólica predominante
+D) Insuficiência cardíaca biventricular sem congestão pulmonar
+G: B
+C: Dispneia, ortopneia, DPN e estertores sugerem IC esquerda. A presença de S3 e evolução com dilatação/volume favorece disfunção sistólica
+
+Q: Mulher de 74 anos, hipertensa e obesa, relata piora de falta de ar ao subir uma ladeira; nega infarto prévio. Exame: PA 160/90 mmHg, ictus não desviado, bulha com quarta bulha (S4), sem sopros importantes; crepitações discretas em bases; eco prévio mostrava espessamento concêntrico de VE com FE preservada. Qual o tipo de insuficiência cardíaca provável?
+A) Insuficiência cardíaca esquerda com disfunção diastólica
+B) Insuficiência cardíaca esquerda com disfunção sistólica pós-IAM
+C) Insuficiência cardíaca direita isolada (cor pulmonale)
+D) Insuficiência cardíaca biventricular por dilatação global
+G: A
+C: Idosa hipertensa e obesa, com eco prévio mostrando hipertrofia concêntrica do VE e fração de ejeção preservada, além de presença de quarta bulha (S4), quadro típico de insuficiência cardíaca com fração de ejeção preservada (ICFEp), isto é, disfunção diastólica do VE; a dispneia aos esforços e os estertores basais reforçam congestão pulmonar de origem esquerda. A alternativa {B} é improvável porque ela nega IAM e a FE está preservada (na sistólica costuma estar reduzida). {C} não explica os estertores pulmonares nem o S4 do VE. {D} não condiz com achados de dilatação global ou disfunção sistólica, ausentes no caso.
+
+Q: Homem de 62 anos, tabagista com DPOC avançada, apresenta edema de membros inferiores, distensão abdominal e cansaço ao deitar; relata pouca tosse/escassa expectoração. Exame: turgência jugular aumentada, hepatomegalia dolorosa, ascite moderada, sem estertores significativos. Qual é o tipo de insuficiência cardíaca predominante?
+A) Insuficiência cardíaca direita isolada (cor pulmonale)
+B) Insuficiência cardíaca esquerda por sobrecarga de pressão
+C) Insuficiência cardíaca esquerda com FE reduzida
+D) Insuficiência cardíaca biventricular com edema pulmonar
+G: A
+C: Em paciente com DPOC avançada, os achados de congestão venosa sistêmica (edema, ascite, hepatomegalia, turgência jugular) sem estertores pulmonares indicam falha isolada do VD por hipertensão pulmonar. Sintomas mínimos respiratórios descartam IC esquerda ou biventricular. Cor pulmonale é o diagnóstico clássico, confirmado clinicamente sem contradições.
+
+Q: Um paciente com hipertensão arterial crônica desenvolve hipertrofia ventricular esquerda por sobrecarga de pressão. Qual padrão de organização dos sarcômeros caracteriza esse tipo de hipertrofia?
+A) Montagem em série
+B) Montagem em paralelo
+C) Montagem aleatória
+D) Montagem circular
+E) Montagem diagonal
+G: B
+C: Na hipertrofia por sobrecarga de pressão (como na hipertensão ou estenose aórtica), os novos sarcômeros são montados predominantemente em paralelo aos eixos longos das células, expandindo a área transversal dos miócitos e causando aumento concêntrico na espessura da parede ventricular. A montagem em série é característica da hipertrofia por sobrecarga de volume. As demais alternativas não correspondem a padrões reais de organização sarcomérica.
+
+Q: Paciente com insuficiência cardíaca apresenta níveis elevados de peptídeo natriurético atrial. Qual é a principal função desse peptídeo no contexto dos mecanismos compensatórios da insuficiência cardíaca?
+A) Promove vasoconstrição sistêmica e aumenta a contratilidade miocárdica para melhorar o débito cardíaco
+B) Estimula a liberação de norepinefrina pelos nervos adrenérgicos para elevar a frequência cardíaca
+C) Contrabalança o sistema renina-angiotensina-aldosterona através de diurese e relaxamento do músculo liso vascular
+D) Ativa mecanismos de retenção de sódio e água para expandir o volume circulatório
+E) Intensifica o tônus vascular periférico e aumenta a resistência ao enchimento ventricular
+G: C
+C: O peptídeo natriurético atrial age como um mecanismo compensatório que contrabalança o sistema renina-angiotensina-aldosterona por meio de diurese e relaxamento do músculo liso vascular, ajudando a reduzir a sobrecarga de volume.
+
+Q: Na progressão da insuficiência cardíaca, qual alteração histológica é especialmente importante por aumentar a resistência ao enchimento diastólico?
+A) Atrofia miocárdica
+B) Fibrose intersticial
+C) Calcificação valvar
+D) Necrose coagulativa
+E) Metaplasia escamosa
+G: B
+C: A hipertrofia cardíaca é frequentemente acompanhada por deposição de tecido fibroso (fibrose intersticial), que causa aumento da resistência ao enchimento diastólico, contribuindo para a disfunção cardíaca. A atrofia não é característica da ICC, a calcificação valvar não afeta diretamente o enchimento miocárdico, a necrose coagulativa é um evento agudo e a metaplasia escamosa não ocorre no miocárdio.
+
+Q: Um paciente desenvolve insuficiência cardíaca após infarto do miocárdio extenso. Qual mecanismo fisiológico compensatório relaciona diretamente o aumento dos volumes de enchimento com a intensificação da contratilidade?
+A) Sistema renina-angiotensina-aldosterona que promove expansão do volume intravascular e melhora a perfusão coronariana
+B) Ativação simpática que libera norepinefrina e aumenta tanto a frequência quanto a força de contração
+C) Mecanismo de Frank-Starling que dilata o coração e aumenta a formação de pontes cruzadas actina-miosina
+D) Liberação de peptídeos natriuréticos que reduzem a pré-carga e otimizam o trabalho cardíaco
+E) Remodelação ventricular que reorganiza os sarcômeros para maximizar a eficiência contrátil
+G: C
+C: O mecanismo de Frank-Starling é o mecanismo compensatório que relaciona diretamente volumes de enchimento aumentados com maior contratilidade: a dilatação cardíaca aumenta a formação de pontes cruzadas de actina-miosina, intensificando a contratilidade e o volume sistólico. 
+
+Q: Qual é a causa mais comum de insuficiência cardíaca direita isolada?
+A) Cardiomiopatia dilatada
+B) Estenose mitral
+C) Doença pulmonar
+D) Hipertensão sistêmica
+E) Infarto do miocárdio
+G: C
+C: A insuficiência cardíaca direita isolada é rara e costuma ocorrer em pacientes com distúrbios que afetam os pulmões (cor pulmonale), incluindo doenças do parênquima pulmonar, hipertensão pulmonar primária, tromboembolismo pulmonar recorrente ou condições que causam vasoconstrição pulmonar.
+
+Q: Um paciente idoso apresenta insuficiência cardíaca com fração de ejeção preservada, mas é incapaz de aumentar o débito cardíaco durante exercício e desenvolve edema pulmonar com pequenos aumentos na pressão de enchimento. Qual tipo de disfunção melhor caracteriza esse quadro?
+A) Disfunção sistólica com falência da bomba por lesão isquêmica extensa e necrose dos cardiomiócitos
+B) Disfunção combinada sistólica e valvar secundária a regurgitação mitral grave com dilatação atrial
+C) Disfunção diastólica com ventrículo esquerdo anormalmente rígido e incapaz de relaxar adequadamente
+D) Disfunção por sobrecarga de volume com dilatação ventricular progressiva e insuficiência valvar funcional
+E) Disfunção neuro-hormonal primária com ativação excessiva do sistema renina-angiotensina sem alterações estruturais
+G: C
+C: O quadro descrito caracteriza insuficiência diastólica, na qual o ventrículo esquerdo está anormalmente rígido e não relaxa durante a diástole. Embora a função cardíaca esteja preservada em repouso (fração de ejeção preservada), o coração é incapaz de aumentar seu débito com aumento das demandas e desenvolve edema pulmonar rapidamente com aumentos na pressão de enchimento, pois não consegue se expandir normalmente.
+
+Q: Qual alteração morfológica hepática caracteriza a congestão passiva crônica na insuficiência cardíaca direita?
+A) Cirrose biliar primária
+B) Esteatose macrovesicular
+C) Fígado em noz-moscada
+D) Necrose maciça hepática
+E) Hemangioma cavernoso
+G: C
+C: Na insuficiência cardíaca direita, a congestão passiva do fígado produz a aparência característica de "fígado em noz-moscada", com zonas pericentrais vermelho-acastanhadas congestionadas e regiões periportais castanhas relativamente normais. A cirrose biliar, esteatose, necrose maciça e hemangioma são processos patológicos diferentes que não estão diretamente relacionados à congestão passiva por insuficiência cardíaca direita.
+
+Q: Qual bulha cardíaca está especificamente associada ao aumento da rigidez miocárdica na insuficiência cardíaca?
+A) Primeira bulha (S1)
+B) Segunda bulha (S2)
+C) Terceira bulha (S3)
+D) Quarta bulha (S4)
+G: D
+C: A quarta bulha cardíaca (S4) está associada ao aumento da rigidez miocárdica, enquanto a terceira bulha (S3) está relacionada à sobrecarga de volume.
+
+Q: Um paciente com insuficiência cardíaca direita grave desenvolve ascite volumosa e edema de membros inferiores. Qual mecanismo fisiopatológico explica diretamente a formação desses derrames e edema?
+A) Hipertensão venosa sistêmica que causa aumento da pressão hidrostática nos capilares periféricos e cavidades serosas
+B) Diminuição da produção hepática de albumina levando à redução da pressão oncótica plasmática
+C) Vasculite sistêmica secundária à inflamação crônica que aumenta a permeabilidade capilar difusamente
+D) Obstrução linfática generalizada por trombose que impede a drenagem adequada do líquido intersticial
+E) Ativação de mediadores inflamatórios cardíacos que circulam sistemicamente causando lesão endotelial
+G: A
+C: Na insuficiência cardíaca direita, a congestão venosa sistêmica leva diretamente ao acúmulo de líquido nos espaços pleural, pericárdico e peritoneal (ascite), bem como edema periférico, devido ao aumento da pressão hidrostática. Embora a função hepática possa ser afetada cronicamente (cirrose cardíaca), o mecanismo direto é a hipertensão venosa. 
+
+Q: Qual é o tipo de insuficiência cardíaca mais comum após um infarto agudo do miocárdio extenso?
+A) Insuficiência cardíaca esquerda com fração de ejeção preservada (diastólica)
+B) Insuficiência cardíaca esquerda com fração de ejeção reduzida (sistólica)
+C) Insuficiência cardíaca direita com fração de ejeção preservada
+D) Insuficiência cardíaca global com fração de ejeção preservada
+G: B
+C: O infarto causa necrose miocárdica e perda de contratilidade, levando a remodelamento excêntrico do ventrículo esquerdo e queda da fração de ejeção → típica disfunção sistólica.
+
+Q: Qual é o tipo mais comum de insuficiência cardíaca em pacientes com hipertensão arterial sistêmica crônica?
+A) IC esquerda sistólica com FE reduzida
+B) IC esquerda diastólica com FE preservada
+C) IC direita com FE preservada
+D) IC global com FE intermediária
+G: B
+C: A hipertensão arterial impõe sobrecarga de pressão ao ventrículo esquerdo. Em resposta, o coração desenvolve hipertrofia concêntrica, o que aumenta a espessura da parede, mas reduz a complacência ventricular. Assim, a cavidade fica rígida, dificultando o enchimento na diástole. O débito cardíaco pode até estar normal em repouso, mas a pressão de enchimento se eleva, levando à congestão pulmonar. Por isso, a forma mais comum é a insuficiência cardíaca com fração de ejeção preservada (ICFEP), de mecanismo diastólico.
+
+Q: Qual é o tipo mais comum de insuficiência cardíaca em pacientes com doença pulmonar obstrutiva crônica (DPOC) avançada?
+A) IC esquerda diastólica com FE preservada
+B) IC direita com FE preservada (cor pulmonale)
+C) IC esquerda sistólica com FE reduzida
+D) IC global com FE reduzida
+G: B
+C: A DPOC promove hipertensão pulmonar crônica devido à hipóxia alveolar persistente, que leva à vasoconstrição das arteríolas pulmonares. Isso gera sobrecarga de pressão sobre o ventrículo direito, que responde com hipertrofia e depois dilatação. Como o problema está no lado direito, os sintomas predominam na congestão sistêmica (edema periférico, hepatomegalia, ascite), sem congestão pulmonar significativa. A função contrátil do ventrículo direito pode se manter inicialmente, portanto a fração de ejeção global pode estar preservada, caracterizando o cor pulmonale crônico.
+
+Q: Qual é o tipo mais comum de insuficiência cardíaca em pacientes com cardiopatia valvar por estenose aórtica severa?
+A) IC esquerda diastólica com FE preservada e hipertrofia concêntrica
+B) IC esquerda sistólica com FE reduzida e dilatação excêntrica
+C) IC direita secundária à hipertensão pulmonar causada pela sobrecarga retrógrada do ventrículo esquerdo
+D) IC global, com comprometimento biventricular progressivo e queda da função de ambos os ventrículos em fases avançadas
+G: A
+C: A estenose aórtica impõe sobrecarga de pressão ao ventrículo esquerdo. Como resposta, o miocárdio desenvolve hipertrofia concêntrica (sarcômeros em paralelo), o que aumenta a espessura da parede e mantém a contratilidade, preservando a fração de ejeção. No entanto, esse espessamento reduz a complacência ventricular, dificultando o relaxamento e o enchimento diastólico. Assim, a forma mais comum de IC nesses pacientes é a insuficiência cardíaca diastólica com FE preservada.
+
+Q: Assinale a alternativa correta sobre fração de ejeção e os mecanismos de insuficiência cardíaca:
+A) A insuficiência sistólica se relaciona com incapacidade de contração adequada, resultando em fração de ejeção reduzida e remodelamento ventricular progressivo.
+B) A insuficiência diastólica decorre de falha na contração ventricular, sendo classicamente associada a infartos extensos.
+C) A insuficiência com FE preservada é marcada por falha contrátil importante, levando a dilatação ventricular significativa e sintomas de baixo débito cardíaco.
+D) A insuficiência sistólica é mais comum em idosos hipertensos, nos quais predomina rigidez ventricular e fibrose miocárdica.
+G: A
+C: ({A}) Errada: essa é a descrição da concêntrica, mas atribuída à excêntrica.
+({C}) Errada: excêntrica é causada por sobrecarga de volume, com dilatação, não pressão.
+({D}) Errada: concêntrica = sarcômeros em paralelo; série é característica da excêntrica.
+
+Q: Assinale a alternativa correta sobre fração de ejeção e os mecanismos de insuficiência cardíaca:
+A) A insuficiência sistólica se relaciona com incapacidade de contração adequada, resultando em fração de ejeção reduzida e remodelamento ventricular progressivo.
+B) A insuficiência diastólica decorre de falha na contração ventricular, sendo classicamente associada a infartos extensos.
+C) A insuficiência com FE preservada é marcada por falha contrátil importante, levando a dilatação ventricular significativa e sintomas de baixo débito cardíaco.
+D) A insuficiência sistólica é mais comum em idosos hipertensos, nos quais predomina rigidez ventricular, fibrose miocárdica e alterações estruturais progressivas
+G: A
+C: ({B}) Errada: diastólica decorre de falha no relaxamento/enchimento, não da contração.
+({C}) Errada: FE preservada não tem dilatação acentuada, mas rigidez.
+({D}) Errada: essa é a descrição da diastólica/FE preservada.
+
+Q: Qual é a faixa de fração de ejeção (FE) considerada normal em avaliações cardiológicas?
+A) ≈30–50%
+B) ≈45–65%
+C) ≈55–75%
+D) ≈20–40%
+G: B
+
+Q: O que caracteriza a insuficiência cardíaca com fração de ejeção preservada (ICFEP)?
+A) Insuficiência cardíaca resultante de uma contração anormal e ineficaz do ventrículo esquerdo, associada a fração de ejeção significativamente reduzida e elevação persistente das pressões intracardíacas durante o ciclo.
+B) Insuficiência cardíaca decorrente de um aumento excessivo e patológico no volume ventricular, mantendo fração de ejeção dentro da normalidade e resultando em pressões sanguíneas consistentemente baixas no sistema circulatório.
+C) Insuficiência causada por relaxamento e enchimento anormais do ventrículo, com pressões elevadas apesar de fração de ejeção normal.
+D) Insuficiência causada por relaxamento excessivo do ventrículo, com fração de ejeção elevada e pressões reduzidas.
+G: C
+C: A ICFEP, também conhecida como insuficiência cardíaca diastólica, afeta principalmente a fase de relaxamento ventricular, levando a maior rigidez e aumento de pressões de enchimento, mesmo com fração de ejeção (FE) mantida acima de 50%; isso contrasta com a insuficiência sistólica, que envolve redução da FE.
+
+Q: Como o mecanismo de Frank-Starling atua na insuficiência cardíaca?
+A) A dilatação ventricular reduz o estiramento sarcomérico, inicialmente diminuindo a contratilidade e o débito cardíaco, mas previne o remodelamento prejudicial a longo prazo.
+B) A dilatação aumenta o estiramento sarcomérico, inicialmente elevando a contratilidade e o débito cardíaco, mas promove remodelamento prejudicial crônico.
+C) A dilatação ventricular estabiliza o estiramento sarcomérico, mantendo a contratilidade constante e o débito cardíaco normal, sem induzir remodelamento prejudicial ao longo do tempo.
+D) A dilatação reduz o estiramento sarcomérico, inicialmente elevando a contratilidade para compensar o débito cardíaco baixo, mas acelera o remodelamento benéfico crônico.
+E) A dilatação aumenta o estiramento sarcomérico, inicialmente diminuindo a contratilidade e o débito cardíaco, mas inibe o remodelamento prejudicial de forma progressiva.
+G: B
+C: O mecanismo de Frank-Starling, que relaciona o comprimento das fibras musculares cardíacas à força de contração, atua de forma compensatória inicial na insuficiência cardíaca por meio da dilatação, melhorando o débito; no entanto, cronicamente, essa adaptação leva a hipertrofia e fibrose ventricular, agravando a disfunção e o remodelamento patológico.
+
+Q: Como se descreve a hipertrofia concêntrica, em poucas palavras?
+A) Aumento do volume interno ventricular
+B) Aumento da espessura ventricular
+C) Redução da massa miocárdica total
+D) Diminuição da contratilidade atrial
+G: B
+C: A hipertrofia concêntrica ocorre em resposta a sobrecargas pressóricas, como na hipertensão, resultando em espessamento das paredes ventriculares sem dilatação significativa da cavidade, o que preserva o volume ejetado inicialmente, mas pode levar a rigidez diastólica.
+
+Q: Como a insuficiência ventricular esquerda afeta os pulmões?
+A) Falência ventricular esquerda causa congestão venosa sistêmica, ascite e edema periférico sem impacto pulmonar direto.
+B) Falência ventricular esquerda produz congestão pulmonar, edema alveolar, dispneia e formação de células carregadas de hemossiderina.
+C) Falência ventricular esquerda gera dilatação pulmonar aguda, hiperventilação compensatória e redução da hemoglobina sem edema.
+D) Falência ventricular esquerda induz fibrose pulmonar crônica, tosse seca persistente, aumento da capacidade vital forçada e ausência total de congestão vascular.
+G: B
+C: A insuficiência ventricular esquerda eleva as pressões nas veias pulmonares, levando a extravasamento de fluido para os alvéolos (edema pulmonar), sintomas como dispneia e, cronicamente, hemossiderose (células cardíacas com ferro), diferenciando-se da insuficiência direita, que afeta mais o sistema venoso sistêmico.

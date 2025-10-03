@@ -1,0 +1,203 @@
+INFO: Baseadas principalmente em informações da internet sobre fisiopatologia da aterosclerose. Ativar embaralhar alternativas.
+
+Q: A aterosclerose é considerada uma doença:
+A) Exclusivamente degenerativa, sem participação do sistema imunológico
+B) Inflamatória crônica da parede arterial
+C) Infecciosa de origem bacteriana
+D) Caracterizada apenas pelo acúmulo passivo de colesterol
+G: B
+C: A aterosclerose é hoje reconhecida como uma inflamação crônica da íntima arterial, envolvendo lipídios, células imunes e mediadores inflamatórios. As demais opções reduzem de forma incorreta sua fisiopatologia.
+
+Q: Qual é o evento inicial mais aceito no processo aterosclerótico?
+A) Deposição de cálcio na íntima
+B) Perda da função endotelial e disfunção endotelial
+C) Formação imediata de trombo sobre a íntima
+D) Apoptose maciça de células musculares lisas
+G: B
+C: Explicação: Disfunção endotelial (alterações em óxido nítrico, permeabilidade, e expressão de moléculas adesivas) é o passo inicial que facilita a infiltração lipídica e recrutamento de leucócitos.
+<br>
+Por que as outras estão erradas: {A} é um evento tardio; {C} é consequência de dano intenso/ruptura; {D} pode ocorrer em fases avançadas ou instáveis, não no início.
+
+Q: Qual lipoproteína tem papel central no desenvolvimento da placa aterosclerótica quando retida na íntima e modificada?
+A) HDL
+B) Quilomícrons
+C) LDL
+D) Lipoproteína(a)
+G: C
+C: Explicação: LDL, especialmente quando oxidada/modificada, é retida na íntima e induz resposta inflamatória que conduz à formação de células espumosas.
+<br>
+Por que as outras estão erradas: {A} (HDL) tem papel protetor; {B} (quilomícrons) e {D} (Lp(a)) podem contribuir em contextos específicos, mas não são os principais agentes clássicos da formação de placa.
+
+Q: Por que a LDL oxidada é patogênica na aterogênese?
+A) Reduz a expressão de moléculas de adesão no endotélio
+B) Neutraliza espécies reativas de oxigênio na íntima
+C) Inibe a diferenciação de monócitos em macrófagos
+D) Promove recrutamento/ativação de monócitos e aterogênese local
+G: D
+C: Explicação: LDL oxidada é quimioatraente e pró-inflamatória, estimulando adesão e diferenciação de monócitos em macrófagos que formam células espumosas.
+
+Q: As células espumosas nas lesões ateroscleróticas derivam principalmente de:
+A) Macrófagos que fagocitaram lipídios oxidados
+B) Plaquetas aderidas e agregadas
+C) Células endoteliais transformadas por metaplasia
+D) Fibroblastos da adventícia
+G: A
+C: Explicação: Monócitos entram na íntima, diferenciam-se em macrófagos e internalizam LDL oxidada — tornando-se células espumosas.
+
+Q: A estria gordurosa, achado inicial morfológico na aterosclerose, é caracterizada por:
+A) Deposição maciça de matriz calcificada
+B) Acúmulo de células espumosas na camada íntima
+C) Formação de trombo oclusivo na luz arterial
+D) Fibrose extensa com neoangiogênese
+G: B
+C: Explicação: Estrias gordurosas são depósitos iniciais compostos por macrófagos (células espumosas) e lipídios na íntima.
+
+Q: Qual o papel das células musculares lisas (CML) na evolução da placa aterosclerótica?
+A) Migram da média para a íntima e sintetizam matriz extracelular (colágeno)
+B) Permanecem inertes na média sem interação com a lesão
+C) São a principal fonte de LDL oxidada na íntima
+D) Fungem como células apresentadoras de antígeno, substituindo macrófagos
+G: A
+C: Explicação: CML migram para a íntima, proliferam e produzem colágeno e outros componentes da matriz, formando a capa fibrosa.
+
+Q: A composição predominante da capa fibrosa que recobre o núcleo lipídico é:
+A) Lipídios extracelulares organizados em matriz amorfa extracelular
+B) Células espumosas organizadas em lamelas
+C) Depósitos cálcicos rígidos formando estruturas mineralizadas na placa
+D) Colágeno produzido por células musculares lisas
+G: D
+C: Explicação: A capa fibrosa é rica em colágeno (tipo I/III) sintetizado por CML, conferindo resistência mecânica.
+
+Q: Quando uma placa aterosclerótica se rompe, o evento agudo mais provável é:
+A) Regressão espontânea da lesão com restauração do fluxo sanguíneo normal
+B) Proliferação endotelial reparadora formando nova camada protetora íntegra
+C) Exposição de conteúdo trombogênico levando à formação de trombo
+D) Calcificação acelerada da lesão estabilizando mecanicamente a placa rota
+E) Migração de células musculares lisas para reorganização estrutural da capa
+G: C
+C: Explicação: A ruptura da placa expõe o núcleo lipídico altamente trombogênico (rico em fator tecidual e colágeno subendotelial) ao sangue circulante, desencadeando ativação plaquetária e cascata de coagulação, resultando em trombose arterial aguda. Este é o mecanismo fisiopatológico das síndromes coronarianas agudas (infarto e angina instável) e AVC isquêmico.
+
+Q: O estresse oxidativo contribui para a aterosclerose principalmente porque:
+A) Aumenta a biodisponibilidade de óxido nítrico saudável
+B) Reduz a retenção de lipídios na íntima
+C) Estimula a fibrinólise local
+D) Promove oxidação da LDL e dano ao endotélio
+G: D
+C: Explicação: Espécies reativas de oxigênio oxidam LDL (tornando-a mais aterogênica) e lesionam o endotélio, amplificando a resposta inflamatória.
+
+Q: As manifestações clínicas graves da aterosclerose (ex.: IAM, AVC isquêmico) resultam tipicamente de:
+A) Vasodilatação paradoxal com redistribuição inadequada do fluxo sanguíneo regional
+B) Obstrução progressiva do lúmen e/ou trombose aguda secundária à ruptura de placa
+C) Compressão extrínseca vascular por infiltrado inflamatório perivascular organizado
+D) Espasmo arterial prolongado induzido por disfunção autonômica simpática exacerbada
+E) Hemorragia intraplaca volumosa causando expansão súbita e oclusão mecânica
+G: B
+C: Explicação: As complicações graves da aterosclerose ocorrem por dois mecanismos principais: (1) estenose progressiva crítica (>70-80%) causando isquemia crônica, ou (2) mais comumente, trombose aguda sobre placa rota/erosada, levando à oclusão arterial súbita. A ruptura de placas vulneráveis (capa fina, núcleo lipídico volumoso, inflamação intensa) expõe material trombogênico, precipitando eventos isquêmicos agudos como IAM e AVC.
+
+Q: Homem, 62 anos, hipertenso, desenvolve dor torácica dois dias após quadro gripal febril. Troponina levemente elevada, coronárias com placa de aspecto vulnerável. Qual mecanismo liga a infecção aguda ao evento?
+A) Citocinas pró-inflamatórias ativam macrófagos e MMPs, afinando a cápsula fibrosa
+B) Predomínio de T regulatórios reduzindo proteólise e estabilizando a placa
+C) Aumento de prostaciclina e NO com menor adesão plaquetária sustentada
+D) Redução do fator tecidual intraplaca pela ação antiviral sistêmica
+E) Expansão de colágeno na cápsula por estímulo fibroblástico imediato pós-infecção
+G: A
+C: A inflamação sistêmica intensifica a atividade proteolítica e fragiliza a cápsula, favorecendo ruptura e trombose.
+
+Q: A ruptura tende a ocorrer preferencialmente na região denominada:
+A) Centro fibroso
+B) Adventícia
+C) Ombro da placa
+D) Lâmina elástica
+E) Vasa vasorum
+G: C
+C: O “ombro” concentra estresse mecânico e inflamação, tornando-se o ponto mais vulnerável.
+
+Q: A quimiotaxia de monócitos para a íntima é impulsionada por:
+A) Insulina
+B) MCP-1
+C) Glucagon
+D) Leptina
+E) Somatostatina
+G: B
+C: MCP-1 (CCL2) atrai monócitos ao sítio lesional, favorecendo diferenciação em macrófagos.
+
+Q: A fragilização da cápsula fibrosa relaciona-se à ação de:
+A) Catecolaminas
+B) Endotelina-1
+C) Angiotensina II
+D) Metaloproteinases
+E) Prostaciclina
+G: D
+C: MMPs degradam matriz extracelular, afinam a cápsula e aumentam risco de ruptura.
+
+Q: Lipoproteína associada a efeito antiaterogênico:
+A) IDL
+B) VLDL
+C) HDL
+D) Lp(a)
+E) LDL
+G: C
+C: O HDL participa do transporte reverso de colesterol e modula a inflamação local.
+
+Q: Na aterosclerose, a lesão inicial macroscópica típica é denominada:
+A) Hematoma
+B) Trombo
+C) Aneurisma
+D) Placa fibrosa
+E) Estria gordurosa
+G: E
+C: A estria gordurosa reflete acúmulo de células espumosas na íntima arterial.
+
+Q: As “células espumosas” originam-se sobretudo de:
+A) Macrófagos
+B) Fibroblastos
+C) Neutrófilos
+D) Plaquetas
+E) Linfócitos B
+G: A
+C: Macrófagos captam LDL modificada por receptores “scavenger” e acumulam ésteres de colesterol.
+
+Q: Um paciente de 55 anos, hipertenso e tabagista, apresenta doença aterosclerótica coronariana. Considerando a fisiopatologia, qual mecanismo explica como a hipertensão arterial contribui para a lesão endotelial?
+A) Aumento da viscosidade sanguínea com formação de microtrombos
+B) Fluxo sanguíneo turbulento causando estresse mecânico (shear stress)
+C) Redução da síntese de óxido nítrico pelos rins
+D) Hiperatividade do sistema complemento com deposição de imunocomplexos
+E) Aumento da produção hepática de lipoproteínas aterogênicas
+G: B
+C: A hipertensão arterial causa fluxo sanguíneo turbulento, gerando estresse mecânico (shear stress) no endotélio, o que contribui para sua lesão e ativação. A alternativa {A} está incorreta porque a hipertensão não aumenta significativamente a viscosidade sanguínea como mecanismo primário de lesão endotelial. A alternativa {C}, embora o óxido nítrico seja importante na função endotelial, a lesão pela hipertensão é primariamente mecânica. As alternativas {D} e {E} não descrevem mecanismos pelos quais a hipertensão causa lesão endotelial direta.
+
+Q: Qual citocina pró-inflamatória está diretamente envolvida na estimulação da produção de moléculas de adesão pelo endotélio ativado durante a aterogênese?
+A) IL-10 (interleucina-10)
+B) IL-4 (interleucina-4)
+C) TGF-β (fator transformador de crescimento beta)
+D) IL-13 (interleucina-13)
+E) IL-5 (interleucina-5)
+G: B
+C: A IL-4 é uma das citocinas que estimula a produção de moléculas de adesão pelo endotélio ativado. Junto com IL-1, TNF-α e IFN-γ, a IL-4 promove a expressão de moléculas de adesão, favorecendo o recrutamento e adesão de monócitos à superfície endotelial. A alternativa {A} (IL-10) é uma citocina anti-inflamatória, não pró-inflamatória. A alternativa {C} (TGF-β) tem múltiplas funções, incluindo inibição da proliferação endotelial e indução de síntese de tecido conjuntivo, mas não é a principal citocina estimuladora de moléculas de adesão. As alternativas {D} e {E} não estão diretamente relacionadas à estimulação de moléculas de adesão na aterosclerose.
+
+Q: Um estudante de medicina está analisando uma lâmina histológica de artéria coronária com aterosclerose. Ele observa acúmulo de material lipídico e células inflamatórias. Entre quais túnicas da parede arterial esse acúmulo característico da aterosclerose ocorre predominantemente?
+A) Entre a túnica adventícia e a túnica média
+B) No interior da túnica média, entre as células musculares lisas
+C) Entre a túnica íntima e a túnica média
+D) Na superfície luminal do endotélio
+E) Na túnica adventícia, próximo aos vasa vasorum
+G: C
+C: A aterosclerose caracteriza-se pelo acúmulo de lipídios, células inflamatórias e tecido conjuntivo entre a túnica íntima e a túnica média de artérias de grande e médio calibre. O LDL atravessa a camada endotelial (parte da túnica íntima) e se acumula entre a íntima e a média. As demais alternativas indicam localizações incorretas para o processo aterosclerótico primário.
+
+Q: Em relação ao papel dos linfócitos T na aterosclerose, qual afirmação está correta?
+A) São as principais células formadoras de células espumosas no ateroma
+B) Estão ausentes na placa aterosclerótica, não participando do processo
+C) Participam do processo inflamatório crônico juntamente com macrófagos
+D) Produzem exclusivamente citocinas anti-inflamatórias que protegem o endotélio
+E) Transformam-se em células musculares lisas na túnica íntima
+G: C
+C: Os linfócitos T participam ativamente do processo aterosclerótico como parte da resposta inflamatória, interagindo com macrófagos, células endoteliais e células musculares lisas.
+
+Q: Placas ateroscleróticas grandes podem desenvolver neovascularização no seu interior. Qual é a principal consequência dessa neovascularização para a estabilidade da placa?
+A) Estabilização da placa através do aumento do aporte de oxigênio e nutrientes essenciais para o metabolismo das células endoteliais e musculares lisas
+B) Formação de vasos frágeis que podem se romper, favorecendo hemorragia intraplaca e trombose
+C) Redução do núcleo lipídico por metabolização local dos lipídios
+D) Aumento da espessura da capa fibrosa devido à maior síntese de colágeno estimulada pela proliferação vascular e influxo de fatores de crescimento
+E) Proteção contra a ruptura da placa pela formação de uma rede vascular densa e altamente resistente que reforça a estrutura tecidual subjacente
+G: B
+C: Em placas grandes, ocorre liberação de fatores angiogênicos que promovem proliferação de vasos sanguíneos no interior das placas, porém esses vasos são muito frágeis e podem se romper. Quando ocorre o rompimento, ativa-se a cascata de coagulação com recrutamento de plaquetas, formando trombos que podem ocluir totalmente o vaso. As alternativas {A}, {C}, {D} e {E} apresentam consequências que não correspondem ao efeito real da neovascularização nas placas ateroscleróticas.

@@ -1,0 +1,87 @@
+Info: Questões do Estratégia Med e Qconcursos.
+
+Q: Insuficiência cardíaca é uma síndrome em que o coração não é capaz de ofertar oxigênio aos tecidos em taxa adequada às demandas ou o faz à custa de elevação de sua pressão de enchimento (pré-carga). Geralmente resulta de disfunção estrutural ou funcional. Assinale a alternativa que contempla uma causa de insuficiência cardíaca diastólica.
+A) Sepse.
+B) Doença de Chagas.
+C) Estenose valvar aórtica.
+D) Síndrome de Takotsubo.
+E) Miocardiopatia periparto.
+G: C
+C: A insuficiência cardíaca (IC) é uma síndrome clínica complexa causada por alterações estruturais e/ou funcionais cardíacas e caracteriza-se por sinais e sintomas característicos, que resultam da redução do débito cardíaco e/ou da elevação das pressões de enchimento cardíacas.
+Pode ser causada por anormalidade na função sistólica, produzindo redução do débito cardíaco (IC de fração de ejeção reduzida - ICFEr) ou por anormalidade na função diastólica, levando à dificuldade no enchimento ventricular (IC de fração de ejeção preservada).
+A IC de causa diastólica está relacionada à restrição no enchimento ventricular (cardiopatias restritivas, hipertensão, cardiopatias de depósito) em que a hipertrofia e a disfunção diastólica com elevadas pressões de enchimento serão as principais características.
+
+Q: A insuficiência cardíaca é uma síndrome clínica decorrente da incapacidade do coração de bombear o sangue adequadamente, secundária, em boa parte dos casos, a um controle pressórico inadequado, por longos períodos de tempo. Para seu diagnóstico, além do amparo de exames complementares, é necessário se basear nos sinais e nos sintomas clínicos, boa parte englobados nos chamados critérios de Framingham para o diagnóstico da insuficiência cardíaca. Entre os critérios maiores, encontra-se o(a)
+A) dispneia a esforços ordinários.
+B) diminuição da capacidade funcional em um terço da máxima registrada previamente.
+C) refluxo hepatojugular.
+D) hepatomegalia.
+E) derrame pleural.
+G: C
+C: A insuficiência cardíaca (IC) é uma síndrome clínica complexa causada por alterações estruturais e/ou funcionais cardíacas e caracteriza-se por sinais e sintomas característicos, que resultam da redução do débito cardíaco e/ou da elevação das pressões de enchimento cardíacas.
+Pode ser causada por anormalidade na função sistólica, produzindo redução do débito cardíaco (IC de fração de ejeção reduzida - ICFEr) ou por anormalidade na função diastólica, levando à dificuldade no enchimento ventricular (IC de fração de ejeção preservada).
+O diagnóstico é CLÍNICO. Uma boa história clínica e um bom exame físico serão suficientes para o diagnóstico sindrômico de insuficiência cardíaca, na maioria das vezes. Os exames complementares auxiliarão nos casos duvidosos, na investigação da etiologia e identificação de complicações e causa da descompensação. 
+O critério mais utilizado, e cobrado em prova, é o de Framingham. Dessa vez não foi diferente! Para fechar o diagnóstico é necessário a presença de dois critérios maiores SIMULTÂNEOS ou um critério maior e dois menores. Uma maneira bem simples de memorizar esses critérios: os critérios maiores são específicos (são menos frequentes, mas, se estiverem presentes, aumentam a chance de IC) e os menores são sensíveis (são muito frequentes, mas estão presentes em várias outras condições).
+
+Q: A Insuficiência cardíaca (IC) é uma síndrome clínica complexa, na qual o coração é incapaz de bombear sangue de forma a atender às necessidades metabólicas tissulares, ou pode fazê-lo somente com elevadas pressões de enchimento. Em relação a IC assinale a alternativa CORRETA.
+A) São causas de IC de baixo débito: cardiopatia isquêmica, miocardiopatia dilatada, anemia e gravidez.
+B) IC crônica: pacientes com diagnóstico estabelecido de IC ou ocorrência dos sintomas de forma súbita.
+C) IC com fração de ejeção reduzida (ICFER): FE ≤ 40%.
+D) A insuficiência cardíaca diastólica é definida como IC em pacientes com fração de ejeção acima de 25%.
+G: C
+C: Antigamente, classificávamos os pacientes, baseado na fração de ejeção, em dois grupos: IC diastólica ou ICFEN (IC com fração de ejeção normal, onde a fração de ejeção era superior a 50%) e IC sistólica ou ICFER (IC com fração de ejeção reduzida, onde a fração de ejeção era inferior a 50%).  Em 2016, a Sociedade Europeia de Cardiologia publicou uma nova diretriz que modificou a classificação conforme a fração de ejeção (FE), incluindo o conceito de IC com fração de ejeção intermediária (fração de ejeção entre 40 a 49%). Em 2018, a Sociedade Brasileira de Cardiologia também adotou essa classificação. Em 2021, essa classificação foi modificada novamente, onde o grupo de IC com FE intermediária foi rebatizado em IC com FE levemente reduzida (ICFELR). Com isso, segue a classificação atual conforme fração de ejeção:
+- IC com FE preservada: FE ≥ 50 %
+- IC com FE levemente reduzida: FE entre 40 e 49%
+- IC com FE reduzida: FE  ≤ 40%
+
+Q: A Insuficiência Cardíaca (IC) corresponde à incapacidade do coração em bombear o sangue adequadamente devido à disfunção sistólica, diastólica ou ambas, de um ou dos dois ventrículos. A respeito do assunto, é CORRETO afirmar:
+A) No estágio A da doença, embora o paciente tenha o risco de desenvolvimento da insuficiência cardíaca, ainda não existem sinais de comprometimento estrutural cardíaco, ou sintomas da doença.
+B) A presença de 2 critérios maiores ou 1 critério maior e 1 critério menor (critérios de Framingham) confirmam o diagnóstico de insuficiência cardíaca.
+C) Diuréticos tiazídicos aumentam a sobrevida do paciente com IC.
+D) A hipertensão arterial é a principal causa de insuficiência cardíaca, superando a obstrução das artérias do coração.
+G: A
+
+Q: A insuficiência cardíaca é uma doença de elevada prevalência em todo o mundo. Qual das associações de classe medicamentosa a seguir reduz a mortalidade nesse grupo de pacientes?
+A) Digital e diurético.
+B) Inibidor da ECA e diurético.
+C) Betabloqueador e digital.
+D) Inibidor da ECA e betabloqueador.
+G: D
+
+Q: A insuficiência cardíaca é causa importante de morbimortalidade na população adulta.
+Dentre as classes ou medicações a seguir, qual não se mostrou eficaz na redução da mortalidade nos grandes estudos?
+A) Diuréticos de alça.
+B) Inibidores da enzima conversora de angiotensina.
+C) Betabloqueadores.
+D) Hidralazina associada a nitrato.
+G: A
+C: O diurético é uma peça importante no tratamento da IC aguda. Como promove a diurese, reduzirá a sobrecarga hídrica do paciente, com consequente redução da hipervolemia. Portanto, essa droga está indicada nas situações de congestão (pulmonar e/ou sistêmica). Apesar de seu amplo benefício no tratamento da IC aguda, essa classe não altera mortalidade.
+
+Q: O termo “Insuficiência Cardíaca Crônica” reflete a natureza progressiva e persistente da doença. Embora a maioria das doenças que levam à Insuficiência Cardíaca (IC) caracterizem-se pela presença de baixo débito cardíaco (muitas vezes compensado) no repouso ou no esforço (IC de baixo débito), algumas situações clínicas de alto débito também podem levar a Insuficiência Cardíaca entre elas:
+A) Insuficiência Coronariana
+B) D. de Chagas
+C) Anemia
+D) Miocardite Viral
+G: C
+
+Q: Dispneia é um termo que indica uma experiência subjetiva de dificuldade ou desconforto respiratório, que consiste em sensações qualitativamente distintas, de intensidade variável, e é traduzida por diferentes sinais semiológicos. Podem acontecer manifestações de dispneia quando o paciente assume uma posição reclinada, comum em portadores de Insuficiência Cardíaca Congestiva (ICC). Esta afirmação refere-se a:
+A) Ortopneia.
+B) Trepopneia.
+C) Platipneia.
+D) Disparapneia.
+G: A
+
+Q: A insuficiência cardíaca é uma síndrome de disfunção ventricular, em que um ambos os ventrículos podem ser afetados. Qual das alternativas não corresponde aos sinais e sintomas da insuficiência do ventrículo direito? 
+A) Extravasamento de líquido e edema, principalmente nos tecidos dependentes (pés e tornozelos de pacientes ambulatoriais) e vísceras abdominais.
+B) O fígado é mais gravemente afetado, mas o estômago e intestino também se tornam congestionados; podendo ocorrer acúmulo de líquidos na cavidade peritoneal
+C) Anorexia, má absorção de nutrientes e fármacos, bem como enteropatia perdedora de proteína (caracterizada por diarreia e hipoalbuminemia profunda), perda de sangue gastrintestinal crônica e, raramente, infarto intestinal isquêmico.
+D) O acúmulo intenso de líquido nos alvéolos altera significativamente a relação V/Q: o sangue arterial pulmonar desoxigenado passa através dos alvéolos pouco ventilados, diminuindo a oxigenação arterial sistêmica (PaO2) e desencadeando dispneia.
+E) Disfunção hepática moderada. O fígado comprometido metaboliza menos aldosterona, contribuindo ainda mais para o acúmulo de líquido.
+G: D
+C: A insuficiência cardíaca é uma síndrome complexa que pode afetar tanto o ventrículo direito quanto o ventrículo esquerdo do coração, resultando em uma série de sinais e sintomas específicos para cada caso. Entender as diferenças entre os sinais e sintomas de insuficiência do ventrículo direito e do ventrículo esquerdo é crucial para os profissionais de saúde, especialmente para aqueles se preparando para concursos públicos na área de Fisioterapia Cardiovascular.
+A alternativa {D} está correta ao não corresponder aos sinais e sintomas de insuficiência do ventrículo direito. Vamos analisar os motivos pelos quais as outras alternativas estão incorretas:
+Alternativa {A}: Extravasamento de líquido e edema são sinais típicos de insuficiência do ventrículo direito. Esse fenômeno ocorre porque o ventrículo direito é responsável por bombear sangue para os pulmões. Quando ele falha, o sangue se acumula na circulação sistêmica, levando a edema nos tecidos dependentes e vísceras abdominais.
+Alternativa {B}: O fígado, estômago e intestino congestionados são outra característica da insuficiência do ventrículo direito. O sangue acumulado causa congestão nos órgãos abdominais, podendo levar ao acúmulo de líquidos na cavidade peritoneal, conhecida como ascite.
+Alternativa {C}: Anorexia, má absorção de nutrientes e fármacos também são sintomas relacionados à insuficiência do ventrículo direito. A congestão dos órgãos abdominais interfere na digestão e absorção, e a enteropatia perdedora de proteína pode causar diarreia e hipoalbuminemia profunda.
+Alternativa {E}: A disfunção hepática moderada é consequência da insuficiência do ventrículo direito. O fígado comprometido metaboliza menos aldosterona, o que agrava o acúmulo de líquido no corpo.
+Por outro lado, a alternativa {D} descreve sinais e sintomas principalmente associados à insuficiência do ventrículo esquerdo. O acúmulo de líquido nos alvéolos e a alteração da relação ventilação/perfusão (V/Q) são características da insuficiência do ventrículo esquerdo, que leva a congestão pulmonar e dispneia.

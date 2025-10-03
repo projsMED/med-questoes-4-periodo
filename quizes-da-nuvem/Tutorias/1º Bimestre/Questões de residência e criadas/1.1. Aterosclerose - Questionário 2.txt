@@ -1,0 +1,237 @@
+INFO: Baseadas principalmente no livro Robbins sobre fisiopatologia da aterosclerose. Ativar embaralhar alternativas.
+
+Q: A morfologia típica da placa aterosclerótica inclui:
+A) Adventícia espessada por músculo estriado e deposição de glicogênio.
+B) Capa fibrosa sobre cerne necrótico rico em lipídios e restos celulares.
+C) Camada íntima pobre em colágeno e matriz extracelular escassa.
+D) Substituição difusa da média por trombo mural estabilizado.
+E) Luz ampliada por remodelamento elástico e neovascularização uniforme.
+G: B
+C: A placa apresenta capa fibrosa (colágeno, CML) recobrindo núcleo lipídico/ necrótico. As demais opções não refletem a arquitetura clássica.
+
+Q: A distribuição preferencial das placas relaciona-se a:
+A) Regiões de fluxo laminar sustentado com ativação aumentada de KLF2.
+B) Segmentos contínuos de artérias de membros superiores com alto tônus basal.
+C) Óstios, bifurcações e parede posterior da aorta abdominal onde há fluxo desordenado.
+D) Áreas uniformes da adventícia com colágeno denso e baixo cisalhamento.
+E) Territórios mesentéricos distais com turbulência mínima e HDL elevado.
+G: C
+C: Placas tendem a surgir em locais de fluxo não laminar; fluxo laminar aumenta KLF2 e é ateroprotetor.
+
+Q: A aterosclerose é caracterizada fundamentalmente como um processo que acomete preferencialmente qual camada da parede arterial?
+A) Adventícia
+B) Íntima
+C) Média
+D) Endocárdio
+E) Pericárdio
+G: B
+C: A aterosclerose é um processo basicamente da túnica íntima, com complexa interação entre células e materiais extracelulares. As placas ateromatosas consistem em lesões elevadas que fazem protrusão na luz dos vasos, localizando-se primariamente na camada íntima. Embora possam ter efeitos secundários sobre a média subjacente, incluindo redução das células musculares lisas, o processo inicial e principal ocorre na íntima.
+
+Q: Qual é o principal componente lipídico encontrado no cerne das placas ateroscleróticas?
+A) Triglicerídeos e ácidos graxos livres
+B) Fosfolipídios e esfingomielina
+C) Colesterol e ésteres de colesterol
+D) Quilomícrons e VLDL
+E) Lipoproteína(a) e ceramidas
+G: C
+C: O cerne necrótico das placas ateroscleróticas contém principalmente colesterol e ésteres de colesterol. Uma placa ateromatosa típica consiste em uma lesão elevada com um cerne mole e grumoso de lipídios, predominantemente colesterol e ésteres de colesterol, recoberta por uma capa fibrosa. O colesterol frequentemente está presente como agregados cristalinos.
+
+Q: As estrias gordurosas, lesões iniciais da aterosclerose, são compostas principalmente por quais células?
+A) Linfócitos T citotóxicos
+B) Células musculares lisas proliferadas
+C) Macrófagos espumosos repletos de lipídios
+D) Células endoteliais ativadas
+E) Fibroblastos secretores de colágeno
+G: C
+C: As estrias gordurosas são compostas principalmente por macrófagos espumosos repletos de lipídios. Essas lesões surgem como pequenas máculas amarelas e planas que podem coalescer formando estrias alongadas. Os macrófagos acumulam lipídios modificados através de receptores de depuração, transformando-se em células espumosas
+
+Q: Em relação à distribuição das placas ateroscleróticas, qual característica morfológica é mais comum quando observada em corte transversal?
+A) Distribuição circunferencial uniforme
+B) Lesão excêntrica acometendo parte da parede
+C) Acometimento exclusivo da adventícia
+D) Espessamento simétrico bilateral
+E) Envolvimento transmural completo
+G: B
+C: As lesões ateroscleróticas são focais e raramente circunferenciais, acometendo geralmente apenas parte da parede arterial, aparecendo excêntricas em corte transversal. O caráter focal dessas lesões, apesar da exposição uniforme das paredes vasculares aos fatores de risco, é atribuível às variações da hemodinâmica vascular. Os distúrbios locais do fluxo tornam certas porções da parede do vaso mais suscetíveis à formação de placa
+
+Q: A lipoproteína de baixa densidade (LDL) desempenha papel central na aterogênese. Qual processo sofrido pela LDL na parede arterial é considerado especialmente aterogênico?
+A) Hidrólise enzimática completa
+B) Conjugação com albumina
+C) Oxidação por radicais livres
+D) Fosforilação reversível
+E) Acetilação nuclear
+G: C
+C: Na presença de hiperlipidemia crônica, as lipoproteínas acumulam-se na íntima onde podem sofrer oxidação por radicais livres produzidos pelas células inflamatórias. As LDLs modificadas (oxidadas) são então acumuladas por macrófagos através de receptores de depuração, levando à formação de células espumosas. As lipoproteínas modificadas são tóxicas e sua captação estimula liberação de fatores pró-inflamatórios.
+
+Q: Qual tipo celular é o principal responsável pela produção do colágeno que compõe a capa fibrosa das placas ateroscleróticas?
+A) Macrófagos ativados
+B) Linfócitos T helper
+C) Células musculares lisas
+D) Células endoteliais
+E) Fibroblastos adventícios
+G: C
+C: O colágeno na placa aterosclerótica é produzido principalmente pelas células musculares lisas (CMLs). A proliferação de CML na íntima e a deposição de matriz extracelular convertem a estria gordurosa em ateroma maduro. As CMLs sintetizam a matriz extracelular, notavelmente o colágeno, que estabiliza as placas ateroscleróticas.
+
+Q: Um homem de 62 anos apresenta infarto agudo do miocárdio. O estudo anatomopatológico da artéria coronária revela ruptura de placa aterosclerótica com trombose sobreposta. Qual característica estrutural da placa está mais associada à sua vulnerabilidade e propensão à ruptura?
+A) Capa fibrosa espessa com abundante colágeno denso
+B) Cerne necrótico pequeno com poucas células espumosas
+C) Capa fibrosa fina com células inflamatórias ativas
+D) Calcificação extensa e uniforme da matriz
+E) Ausência de neovascularização periférica
+G: C
+C: As placas com capas fibrosas finas e células inflamatórias ativas sobre um cerne necrótico têm mais tendência a sofrer ruptura e são designadas como "placas vulneráveis". A inflamação da placa resulta em aumento da degradação do colágeno e redução de sua síntese, desestabilizando a integridade mecânica da capa fibrosa. Em contraste, placas estáveis apresentam capas fibrosas espessas e densamente colagenosas com inflamação mínima.
+
+Q: O fluxo laminar não turbulento nos vasos sanguíneos exerce efeito protetor contra a aterosclerose através da ativação de fatores de transcrição específicos. Qual fator de transcrição é ativado pelo fluxo laminar e promove efeitos ateroprotetores?
+A) NF-κB (fator nuclear kappa B)
+B) KLF2 (fator tipo Krüppel 2)
+C) AP-1 (proteína ativadora 1)
+D) STAT3 (transdutor de sinal e ativador de transcrição 3)
+E) HIF-1α (fator induzível por hipóxia 1-alfa)
+G: B
+C: O fluxo laminar não turbulento aumenta a produção do fator tipo Krüppel 2 (KLF2), que ativa genes ateroprotetores e desativa a transcrição de genes inflamatórios.
+
+Q: A ativação do inflamassomo nas placas ateroscleróticas desempenha papel importante na progressão da doença. Qual substância acumulada nos macrófagos é responsável por desencadear a ativação do inflamassomo NLRP3?
+A) Triglicerídeos não modificados
+B) Cristais de colesterol
+C) Lipoproteína de alta densidade (HDL)
+D) Ácido hialurônico
+E) Fosfolipídios de membrana
+G: B
+C: A inflamação crônica na aterosclerose é desencadeada pelo acúmulo de cristais de colesterol e ácidos graxos livres nos macrófagos. As células detectam esses materiais anormais através de receptores imunes inatos citosólicos, componentes do inflamassomo.
+
+Q: Em relação à estenose aterosclerótica coronariana, qual é o grau aproximado de redução da área de corte transversal da luz necessário para causar isquemia tecidual e sintomas de angina estável?
+A) 30 a 40%
+B) 45 a 55%
+C) 70 a 75%
+D) 85 a 90%
+E) 95 a 100%
+G: C
+C: A estenose crítica, que causa isquemia tecidual, ocorre normalmente quando a oclusão produz uma redução de 70 a 75% na área de corte transversal da luz. Com esse grau de estenose, pode ocorrer dor torácica com o esforço, denominada angina estável. Nos estágios iniciais da estenose, o remodelamento da túnica média do vaso tende a preservar o tamanho da luz, mas eventualmente o ateroma em expansão invade a luz comprometendo o fluxo
+
+Q: A hipótese de "resposta à lesão" é a principal teoria contemporânea para explicar a patogênese da aterosclerose. Segundo esse modelo, qual é a sequência correta de eventos na formação inicial da placa aterosclerótica?
+A) Proliferação de células musculares lisas → Disfunção endotelial → Acúmulo de LDL oxidada → Formação de células espumosas
+B) Disfunção endotelial → Acúmulo de lipoproteínas → Adesão e migração de monócitos → Transformação em células espumosas
+C) Adesão plaquetária → Liberação de fatores de crescimento → Disfunção endotelial → Acúmulo lipídico
+D) Acúmulo de LDL oxidada → Ativação do inflamassomo → Disfunção endotelial → Migração de monócitos
+E) Transformação de células musculares lisas → Síntese de matriz extracelular → Lesão endotelial → Trombose
+G: B
+C: Segundo a hipótese de "resposta à lesão", a aterosclerose progride nesta sequência: lesão e disfunção endoteliais (causando aumento da permeabilidade vascular e adesão leucocitária), acúmulo de lipoproteínas (principalmente LDL e suas formas oxidadas) na parede do vaso, adesão dos monócitos ao endotélio seguida de migração na túnica íntima e transformação em macrófagos e células espumosas. Posteriormente ocorrem adesão plaquetária, liberação de fatores, recrutamento e proliferação de células musculares lisas, e acúmulo adicional de lipídios
+
+Q: Sobre a formação das placas ateroscleróticas, analise as assertivas:
+I. As placas ateroscleróticas apresentam três componentes principais: células (incluindo células musculares lisas, macrófagos e linfócitos T), matriz extracelular e lipídios intracelulares e extracelulares.
+II. As placas ateroscleróticas distribuem-se de forma circunferencial uniforme ao redor da luz arterial, acometendo toda a circunferência da parede vascular de maneira simétrica.
+III. As estrias gordurosas são lesões irreversíveis que sempre evoluem para placas ateroscleróticas complexas, independentemente do controle dos fatores de risco.
+IV. A capa fibrosa superficial das placas ateroscleróticas é composta principalmente por células musculares lisas e colágeno relativamente denso.
+Estão corretas:
+A) Apenas I e II
+B) Apenas I e IV
+C) Apenas II e III
+D) Apenas III e IV
+E) I, II e III
+G: B
+C: A assertiva I está correta, pois as placas ateroscleróticas apresentam três componentes principais: células (incluindo CML, macrófagos e linfócitos T), matriz extracelular (colágeno, fibras elásticas e proteoglicanos) e lipídios. A assertiva IV está correta, pois há uma capa fibrosa superficial composta de CML e colágeno relativamente denso. A assertiva II está incorreta porque as lesões ateroscleróticas são focais e raramente circunferenciais, acometendo apenas parte da parede arterial, aparecendo excêntricas em corte transversal. A assertiva III está incorreta porque, embora as estrias gordurosas possam evoluir para placas, nem todas se transformam em lesões avançadas.
+
+Q: Em relação aos fatores de risco modificáveis para aterosclerose, avalie as afirmações:
+I. A idade avançada é o principal fator de risco modificável, podendo ser controlada através de intervenções farmacológicas que retardam o envelhecimento celular.
+II. O diabetes melito induz hipercolesterolemia e aumenta acentuadamente o risco de aterosclerose, sendo a incidência de infarto do miocárdio duas vezes maior em pacientes diabéticos.
+III. O tabagismo prolongado duplica a taxa de mortalidade por doença cardíaca isquêmica, mas o abandono do tabagismo reduz substancialmente esse risco.
+IV. A hipercolesterolemia isoladamente não é suficiente para iniciar o desenvolvimento de lesões ateroscleróticas, necessitando sempre da presença de outros fatores de risco associados.
+Estão corretas:
+A) Apenas I e II
+B) Apenas I e IV
+C) Apenas II e III
+D) Apenas II e IV
+E) Apenas I, II e III
+G: C
+C: A assertiva II está correta porque o diabetes melito induz hipercolesterolemia e aumenta acentuadamente o risco de aterosclerose, sendo a incidência de infarto duas vezes maior em pacientes diabéticos comparado a indivíduos normoglicêmicos. A assertiva III está correta pois o tabagismo, particularmente seu uso prolongado, duplica a taxa de mortalidade por doença cardíaca isquêmica, e o abandono reduz substancialmente esse risco. A assertiva I está incorreta porque a idade avançada é fator de risco constitucional NÃO modificável. A assertiva IV está incorreta pois mesmo na ausência de outros fatores de risco, a hipercolesterolemia é suficiente para iniciar o desenvolvimento de lesão
+
+Q: Sobre a hipótese de "resposta à lesão" na patogênese da aterosclerose, analise:
+I. A lesão e disfunção endotelial causam aumento da permeabilidade vascular, adesão dos leucócitos e trombose.
+II. O acúmulo de lipoproteínas, principalmente LDL e suas formas oxidadas, ocorre na parede do vaso após a disfunção endotelial.
+III. A adesão dos monócitos ao endotélio é seguida de migração na túnica íntima e transformação em macrófagos e células espumosas.
+IV. A proliferação de células musculares lisas, produção da matriz extracelular e recrutamento de células T fazem parte da sequência de eventos da aterogênese.
+Estão corretas:
+A) Apenas I e II
+B) Apenas I, II e III
+C) Apenas II, III e IV
+D) Apenas I, III e IV
+E) I, II, III e IV
+G: E
+C: Todas as assertivas estão corretas. A hipótese de "resposta à lesão" considera a aterosclerose uma resposta inflamatória crônica e reparadora da parede arterial, progredindo nesta sequência: lesão e disfunção endoteliais causando aumento da permeabilidade vascular, adesão dos leucócitos e trombose (I); acúmulo de lipoproteínas principalmente LDL e suas formas oxidadas na parede do vaso (II); adesão dos monócitos ao endotélio seguida de migração na túnica íntima e transformação em macrófagos e células espumosas (III); proliferação de CML, produção da MEC e recrutamento de células T (IV)
+
+Q: Em relação aos distúrbios hemodinâmicos e sua relação com a aterosclerose, analise:
+I. As placas ateroscleróticas tendem a se localizar nos óstios de saída dos vasos, pontos de ramificação e ao longo da parede posterior da aorta abdominal, onde há padrões de fluxo desordenado e não laminar.
+II. O fluxo laminar não turbulento aumenta a produção do fator tipo Krüppel 2 (KLF2), que ativa genes ateroprotetores e desativa a transcrição de genes inflamatórios.
+III. O fluxo turbulento não laminar promove a produção de óxido nítrico (NO) e aumenta a atividade vasodilatadora, protegendo contra a formação de placas.
+IV. As estatinas exercem efeitos ateroprotetores exclusivamente através da redução dos níveis circulantes de colesterol, sem qualquer impacto sobre processos inflamatórios.
+Estão corretas:
+A) Apenas I e II
+B) Apenas I e III
+C) Apenas II e III
+D) Apenas II e IV
+E) Apenas III e IV
+G: A
+C: A assertiva I está correta porque as placas tendem a se localizar nos óstios de saída dos vasos, pontos de ramificação e ao longo da parede posterior da parte abdominal da aorta, onde há padrões de fluxo desordenado e não laminar. A assertiva II está correta pois o fluxo laminar não turbulento aumenta a produção do fator tipo Krüppel 2 (KLF2), que ativa genes ateroprotetores e desativa a transcrição de genes inflamatórios. A assertiva III está incorreta porque é o fluxo laminar (não o turbulento) que é protetor; a hiperlipidemia crônica aumenta a produção de radicais livres de oxigênio que aceleram a decomposição do NO, reduzindo sua atividade vasodilatadora. A assertiva IV está incorreta pois parte do benefício das estatinas pode ser devida a efeitos sobre a redução da inflamação, além da redução do colesterol.
+
+<juntas>
+Q: "Na presença de hiperlipidemia crônica, as lipoproteínas acumulam-se dentro da íntima onde podem sofrer __________ (LACUNA 1) por radicais livres produzidos pelas células inflamatórias. Essas lipoproteínas modificadas são então acumuladas por macrófagos através de receptores de depuração, levando à formação de __________ (LACUNA 2), que são macrófagos preenchidos de lipídios."
+<br>Qual processo completa corretamente a LACUNA 1?
+A) Acetilação
+B) Fosforilação
+C) Oxidação
+D) Metilação
+E) Glicosilação
+G: C
+C: Na presença de hiperlipidemia crônica, as lipoproteínas acumulam-se dentro da íntima onde podem se agregar ou podem sofrer oxidação por radicais livres produzidos pelas células inflamatórias. As LDLs modificadas (oxidadas) são então acumuladas por macrófagos através de receptores de depuração distintos do receptor de LDL. As lipoproteínas modificadas não apenas são tóxicas para as células endoteliais, musculares lisas e macrófagos, como também estimulam a liberação de fatores pró-inflamatórios.
+
+Q: Qual tipo celular completa corretamente a LACUNA 2 da questão anterior?
+A) Células gigantes multinucleadas
+B) Células espumosas
+C) Células de Langerhans
+D) Células dendríticas foliculares
+E) Células plasmáticas secretoras
+G: B
+C: A ingestão crônica de lipoproteínas modificadas pelos macrófagos, através de receptores de depuração, leva à formação de macrófagos preenchidos de lipídios denominados células espumosas. Como as lipoproteínas modificadas não podem ser degradadas por completo, elas se acumulam no citoplasma dos macrófagos, dando-lhes aparência espumosa. As lesões iniciais que contêm macrófagos repletos de lipídios são denominadas estrias gordurosas.
+</juntas>
+
+<juntas>
+Q: "Acredita-se que a inflamação seja desencadeada pelo acúmulo de [...3...] e ácidos graxos livres nos macrófagos e em outras células. A consequente ativação do inflamassomo leva à produção da citocina pró-inflamatória, a [...4...], que recruta e ativa células mononucleares."
+<br>A lacuna [...3...] é corretamente preenchida por:
+A) Proteínas plasmáticas
+B) Agregados de fibrina
+C) Cristais de colesterol
+D) Complexos imunes
+E) Hemossiderina
+G: C
+C: A inflamação crônica contribui para o início e a progressão das lesões ateroscleróticas e acredita-se que seja desencadeada pelo acúmulo de cristais de colesterol e ácidos graxos livres nos macrófagos e em outras células.
+
+Q: A lacuna [...4...] da questão anterior é corretamente preenchida por:
+A) Fator de necrose tumoral alfa (TNF-α)
+B) Interferona-gama (IFN-γ)
+C) Interleucina-10 (IL-10)
+D) Interleucina-1 (IL-1)
+E) Fator de crescimento transformador beta (TGF-β)
+G: D
+C: A ativação do inflamassomo, desencadeada pelos cristais de colesterol, leva à produção da citocina pró-inflamatória, a interleucina (IL)-1, que por sua vez recruta e ativa células mononucleares, como macrófagos e linfócitos T.
+</juntas>
+
+<juntas>
+Q: "A proliferação de CML (células musculares lisas) na íntima e a deposição de [...5...] convertem a estria gordurosa em um ateroma maduro e contribuem para o crescimento progressivo das lesões. Em contrapartida, as células inflamatórias ativadas nos ateromas podem aumentar a degradação de componentes da MEC, resultando em placas [...6...]."
+<br>A lacuna [...5...] é corretamente preenchida por:
+A) Matriz extracelular
+B) Cristais de urato
+C) Agregados plaquetários
+D) Imunoglobulinas
+E) Amiloide
+G: A
+C: A proliferação de células musculares lisas (CML) na íntima e a deposição de matriz extracelular (MEC) convertem a estria gordurosa em um ateroma maduro e contribuem para o crescimento progressivo das lesões ateroscleróticas.
+
+Q: <br>A lacuna [...6...] da questão anterior é corretamente preenchida por:
+A) Calcificadas
+B) Fibróticas
+C) Estáveis
+D) Resilientes
+E) Instáveis
+G: E
+C: As células inflamatórias ativadas nos ateromas podem aumentar a degradação de componentes da matriz extracelular (MEC), o que resulta em placas instáveis, mais propensas à ruptura.
+</juntas>

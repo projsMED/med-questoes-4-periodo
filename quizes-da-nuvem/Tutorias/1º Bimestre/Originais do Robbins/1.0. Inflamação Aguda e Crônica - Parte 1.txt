@@ -1,0 +1,151 @@
+INFO: Questões e comentários originais do livro Robbins Perguntas e Respostas.
+
+Q: Em uma triagem randomizada de um agente farmacológico durante 6 meses, um grupo de pacientes recebeu um inibidor de ciclo-oxigenase-2 (COX-2) enquanto o grupo controle não recebeu tratamento. Avaliações laboratoriais realizadas durante a triagem não indicaram diferenças significativas entre os grupos quanto à quantificação de leucócitos, plaquetas, hemoglobina e creatinina. Entretanto, o grupo tratado com a droga registrou achados subjetivos diferentes dos registrados pelo grupo controle. Qual dos seguintes achados provavelmente foi registrado pelo grupo que recebeu a droga?
+A) Inchaço do tornozelo
+B) Mais crises de asma
+C) Ocorrência de equimoses com facilidade
+D) Diminuição da urticária
+E) Aumento do número de episódios febris
+F) Diminuição da intensidade da dor de artrite
+G: F
+C: A enzima COX-2 é induzida em reações de inflamação aguda, particularly por neutrófilos, na sinóvia e no sistema nervoso central. A via de metabolismo do ácido araquidônico pela ciclo-oxigenase gera prostaglandinas, as quais modulam dor, febre e vasodilatação. O inchaço do tornozelo provavelmente é resultante de um edema secundário à insuficiência cardíaca congestiva. A asma resulta da broncoconstrição mediada por leucotrienos que são produzidos na via de metabolismo do ácido araquidônico pela lipoxigenase. Equimoses que ocorrem com facilidade resultam da administração prolongada de glicocorticoides, que também causa leucopenia. A inibição da histamina liberada por mastócitos ajuda a reduzir a urticária. A febre pode ser mediada pela liberação de prostaglandinas, mas não pela inibição.
+
+Q: Em dado experimento, bactérias são introduzidas em uma preparação de tecido perfundida. Os leucócitos deixam a vasculatura e migram para o sítio de inoculação das bactérias. A movimentação desses leucócitos provavelmente é mediada por qual das seguintes substâncias?
+A) Bradicinina
+B) Quimiocinas
+C) Histamina
+D) Prostaglandinas
+E) Molécula C3a do complemento
+G: B
+C: As quimiocinas abrangem muitas moléculas com efeito quimiotático para neutrófilos, eosinófilos, linfócitos, monócitos e basófilos. A bradicinina provoca dor e aumento da permeabilidade vascular. A histamina causa extravasamento vascular, enquanto as prostaglandinas exercem várias ações sem, contudo, ser quimiotáticas . A molécula C3a do complemento aumenta a permeabilidade vascular ao fazer com que os mastócitos liberem histamina.
+
+Q: Uma mulher de 53 anos de idade tem apresentado febre alta e tosse produtiva com produção de secreção amarelada há 2 dias. Seus sinais vitais indicam uma temperatura de 37,8oC, 83 pulsos/min, 17 respirações/min e pressão sanguínea de 100/60 mmHg. Durante a auscultação do tórax, crepitações são audíveis nas bases de ambos os pulmões. Uma radiografia do tórax mostrou infiltrados pulmonares desiguais e presença de líquido na cavidade pleural direita. A toracocentese rendeu 500 mL de um fluido amarelo e turvo. Qual dos seguintes tipos de célula inflamatória será encontrado em concentrações aumentadas em uma amostra de escarro?
+A) Macrófagos
+B) Neutrófilos
+C) Mastócitos
+D) Pequenos linfócitos
+E) Células gigantes de Langhans
+G: B
+C: Os sinais e sintomas da paciente sugerem uma pneumonia bacteriana aguda. Esse tipo de infecção induz a inflamação aguda com predominância de neutrófilos, conferindo ao escarro sua aparência amarelada e purulenta. Os macrófagos passam a ser mais numerosos após eventos agudos, limpando debris teciduais e bacterianos por meio da fagocitose. Os mastócitos são mais conhecidos por sua participação nas respostas alérgicas e anafiláticas. A presença de linfócitos é característica da inflamação crônica. As células gigantes de Langhans são encontradas em respostas inflamatórias granulomatosas.
+
+Q: Um homem de 63 anos de idade desenvolveu piora de um quadro de insuficiência cardíaca congestiva 2 semanas após ter sofrido um infarto agudo do miocárdio. O ecocardiograma apontou uma diminuição marcante da fração de ejeção. Na necropsia, um corte da área infartada mostrou que o miocárdio necrosado havia sido amplamente substituído por capilares, fibroblastos e colágeno. Várias células inflamatórias estavam presentes. Qual dos seguintes tipos de células inflamatórias presentes nessa lesão desempenha o papel mais importante no processo de cura?
+A) Macrófagos
+B) Plasmócitos
+C) Neutrófilos
+D) Eosinófilos
+E) Células epitelioides
+G: A
+C: Os macrófagos presentes em tais lesões exercem papel importante no processo de cura. Os macrófagos ativados podem secretar várias citocinas promotoras de angiogênese e fibrose, incluindo fator de crescimento derivado de plaquetas, interleucina-1 e fator de necrose tumoral. Os plasmócitos podem secretar imunoglobulinas e não têm utilidade na cura de uma área de lesão tecidual. Os neutrófilos são encontrados em maior número nas primeiras 48 horas após o infarto, mas já não são numerosos na semana seguinte. Os eosinófilos são mais proeminentes em inflamações alérgicas e infecções parasitárias. As células epitelioides, que constituem agregados de macrófagos ativados, normalmente são encontradas na inflamação granulomatosa. A cura de processos inflamatórios agudos não envolve a inflamação granulomatosa.
+
+Q: Uma criança de 10 anos de idade desenvolveu dor de garganta e febre em 24 horas. O exame físico mostrou eritema e inchaço da faringe. Os achados laboratoriais implicavam leucocitose. A criança foi tratada com ácido acetilsalicílico (aspirina). Qual das seguintes características da resposta inflamatória foi a mais afetada por essa droga?
+A) Vasodilatação
+B) Quimiotaxia
+C) Fagocitose
+D) Emigração de leucócitos
+E) Liberação de leucócitos a partir da medula óssea
+G: A
+C: A aspirina (ácido acetilsalicílico) bloqueia a via de metabolização do ácido araquidônico pela ciclo-oxigenase, levando à diminuição da síntese de prostaglandinas. Estas promovem vasodilatação nos sítios de inflamação. A quimiotaxia é uma função de várias quimiocinas, e a molécula C3b promove fagocitose, porém nenhuma delas é afetada pela aspirina. A emigração leucocitária é auxiliada por várias moléculas de adesão. A liberação de leucócitos a partir da medula pode ser conduzida pelas citocinas interleucina-1 e pelo fator de necrose tumoral.
+
+Q: Uma mulher alérgica a gatos foi à casa de sua vizinha que tem vários deles. Durante a visita, inalou caspas de gato e, em poucos minutos, desenvolveu congestão nasal com secreção nasal abundante. Qual das seguintes substâncias provavelmente foi a que produziu tais achados?
+A) Bradicinina
+B) Molécula C5a do complemento
+C) Histamina
+D) Interleucina-1
+E) Fosfolipase C
+F) Fator ativador de plaquetas
+G) Fator de necrose tumoral
+G: C
+C: A histamina é observada em abundância em mastócitos, os quais normalmente são encontrados em tecidos conjuntivos nas proximidades de vasos sanguíneos, abaixo das superfícies mucosas das vias aéreas. A ligação de um antígeno (alérgeno) a anticorpos IgE previamente vinculados a receptores da porção de Fc na superfície dos mastócitos desencadeia a degranulação dessas células e a consequente liberação de histamina. Tal resposta aumenta a permeabilidade vascular e as secreções mucosas. A bradicinina, produzida pelo sistema de cininas durante o contato de superfície do fator de Hageman com colágeno e membrana basal em uma lesão vascular, promove permeabilidade vascular, contração do músculo liso e dor. A molécula C5a do complemento é um potente agente quimiotático para neutrófilos. A interleucina-1 e o fator de necrose tumoral, ambos produzidos por macrófagos ativados, modulam muitos efeitos sistêmicos, entre os quais febre, desgaste metabólico e hipotensão. A fosfolipase C, que catalisa a liberação do ácido araquidônico, é produzida na ativação plaquetária. O fator ativador de plaquetas (PAF) pode ser liberado por neutrófilos, mastócitos, monócitos, macrófagos, células endoteliais e plaquetas. O PAF promove permeabilidade vascular, agregação neutrofílica e ativação de plaquetas.
+
+Q: Uma mulher de 32 anos de idade está com tosse crônica e febre há 1 mês. Apresentou temperatura de 37,5oC ao exame físico, sendo ouvidas crepitações em todos os campos pulmonares durante a auscultação do tórax. Uma radiografia dessa região revelou a presença de muitas opacidades nodulares pequenas e mal definidas em todos os campos pulmonares. Uma amostra de biópsia transbronquial mostrou infiltrados intersticiais contendo linfócitos, plasmócitos e macrófagos epitelioides. Qual dos seguintes agentes infecciosos pode ser o responsável por tal aspecto?
+A) Staphylococcus aureus
+B) Plasmodium falciparum
+C) Candida albicans
+D) Mycobacterium tuberculosis
+E) Klebsiella pneumoniae
+F) Citomegalovírus
+G: D
+C: Esses achados sugerem uma inflamação granulomatosa, sendo que a tuberculose é uma causa comum. Bactérias como Staphylococcus e Klebsiella são mais propensas a produzirem inflamação aguda. O Plasmodium causa malária, uma infecção parasitária sem um grau significativo de envolvimento pulmonar. A Candida muitas vezes é um organismo comensal encontrado na região orofaríngea e raramente causa pneumonia em indivíduos sadios (sem imunossupressão). Infecções virais tendem a produzir uma resposta celular inflamatória intersticial mononuclear.
+
+Q: Um homem de 36 anos de idade sofre de dor abdominal na região epigástrica média nos últimos 3 meses. Uma endoscopia gastrintestinal superior apontou a existência de uma ulceração superficial e bem delimitada, medindo 2 cm, no antro gástrico. Uma amostra de biópsia da base desta úlcera mostrou angiogênese, fibrose e infiltração de células mononucleares contendo linfócitos, macrófagos e plasmócitos. Qual dos seguintes termos melhor descreve esse processo patológico?
+A) Inflamação aguda
+B) Inflamação serosa
+C) Inflamação granulomatosa
+D) Inflamação fibrinosa
+E) Inflamação crônica
+G: E
+C: Um dos resultados de uma inflamação aguda com ulceração é a inflamação crônica. Isso é particularmente válido quando o processo inflamatório persiste de semanas a meses. A inflamação crônica é caracterizada por destruição tecidual, infiltração de células mononucleares e reparo. Na inflamação aguda, o processo de cura por fibrose e angiogênese ainda não foi iniciado. A inflamação serosa é um processo inflamatório envolvendo uma superfície mesotelial (p. ex., revestimento da cavidade pericárdica), com derramamento de fluidos de pouco conteúdo proteico ou celular. A inflamação granulomatosa é uma forma de inflamação crônica na qual macrófagos epitelioides formam agregados. Na inflamação fibrinosa, que normalmente envolve uma superfície mesotelial, há extravasamento de um líquido rico em proteínas que resulta em precipitação de fibrina.
+
+Q: Uma criança de 5 anos de idade subiu até o fogão e tocou uma panela contendo sopa fervente. Em algumas horas, observaram-se o aparecimento de um eritema marcante na pele dos dedos da mão direita da criança e a formação de pequenas bolhas no coxim dos dedos. Qual dos seguintes termos melhor descreve esse processo?
+A) Inflamação fibrinosa
+B) Inflamação purulenta
+C) Inflamação serosa
+D) Ulceração
+E) Inflamação granulomatosa
+G: C
+C: A inflamação serosa é a forma mais branda de inflamação aguda. Uma bolha é um bom exemplo de inflamação serosa. Está associada principalmente à exsudação de líquido no espaço subcórneo ou subepidérmico. Como a lesão é discreta, o fluido é relativamente pobre em proteínas. Um exsudato rico em proteínas resulta do acúmulo de fibrina. Células inflamatórias agudas, principalmente neutrófilos, obtidas de uma cavidade ou espaço corporal, produzem um exsudato purulento (supurativo), tipicamente associado à necrose liquefativa. A perda do epitélio causa ulceração. A inflamação granulomatosa é caracterizada por coleções de macrófagos transformados denominados células epitelioides.
+
+Q: Nos últimos 2 dias, um homem de 41 anos de idade tem apresentado forte dor de cabeça e sua temperatura atual é de 39,2oC. Realizou-se uma punção lombar, e o líquido cefalorraquidiáceo obtido apresentou uma contagem de leucócitos igual a 910 células/mm3, com constituição de 94% de neutrófilos e 6% de linfócitos. Qual das seguintes substâncias é o mediador mais provável da febre observada nesse paciente?
+A) Bradicinina
+B) Leucotrieno B4
+C) Histamina
+D) Mieloperoxidase
+E) Óxido nítrico
+F) Fosfolipase C
+G) Fator de necrose tumoral
+G: G
+C: A febre é ocasionada por vários mediadores inflamatórios, porém as principais citocinas geradoras de febre são a interleucina-1 (IL-1) e o fator de necrose tumoral (TNF), as quais são produzidas por macrófagos e outros tipos celulares. A IL-1 e o TNF podem exercer efeito autócrino, parácrino e endócrino. Ambos modulam as respostas de fase aguda, como febre, náusea e liberação de neutrófilos a partir da medula óssea. A bradicinina, gerada do sistema de cininas durante o contato de superfície do fator de Hageman com o colágeno e a membrana basal na lesão vascular, promove permeabilidade vascular, contração do músculo liso e dor. O leucotrieno B4, produzido na via de metabolização do ácido araquidônico pela lipoxigenase, é um potente fator de quimiotaxia de neutrófilos. A histamina liberada por mastócitos é um potente vasodilatador, aumentando a permeabilidade vascular. A enzima mieloperoxidase está contida nos grânulos azurofílicos dos neutrófilos e, na presença de halidos, converte o peróxido de hidrogênio a HOCl , o qual destrói organismos fagocitados por halogenação. O óxido nítrico gerado por macrófagos auxilia na destruição de micro-organismos, enquanto o óxido nítrico liberado pelo endotélio modula a vasodilatação e inibe a ativação plaquetária. A fosfolipase C, que catalisa a liberação de ácido araquidônico, é produzida na ativação de plaquetas.
+
+Q: Uma criança de 6 anos de idade tem história de infecções recorrentes causadas por bactéria piogênica, incluindo Staphylococcus aureus e Streptococcus pneumoniae. As infecções são acompanhadas de uma leucocitose neutrofílica. O exame microscópico de uma amostra de biópsia obtida de uma área de tecido mole necrótico mostrou a presença de micro-organismos, porém um número bem pequeno de neutrófilos. A maior suscetibilidade dessa criança à infecção é causada por um defeito em qual das seguintes moléculas?
+A) Selectinas
+B) Integrinas
+C) Leucotrieno B4
+D) Molécula C3b do complemento
+E) NADPH oxidase
+G: A
+C: O paciente apresenta um defeito na rolagem de leucócitos, a qual é a primeira etapa na transmigração dos neutrófilos da vasculatura para os tecidos. A rolagem depende da interação entre selectinas (P-selectina e E-selectina em células endoteliais, e L-selectina em neutrófilos) e seus ligantes sialilados (p. ex., Lewis X sialilado). As integrinas estão envolvidas na próxima etapa da transmigração, durante a qual há uma firme aderência entre neutrófilos e células endoteliais. O leucotrieno B4 é um agente quimiotático, a molécula de complemento C3b facilita a fagocitose e a NADPH oxidase está envolvida na atividade microbicida.
+
+Q: Um mês após a realização de uma apendicectomia, uma mulher de 25 anos de idade apalpou um pequeno nódulo abaixo da pele na área da incisão já cicatrizada, localizado no quadrante direito inferior. O nódulo foi extraído, e seu exame microscópico revelou a presença de macrófagos, colágeno, poucos linfócitos e células gigantes multinucleadas. Observou-se a existência de um material polarizável e refringente no nódulo. Qual das seguintes complicações cirúrgicas é a que melhor responde por tais achados?
+A) Inflamação crônica
+B) Formação de abscesso
+C) Granuloma de sutura
+D) Ulceração
+E) Edema
+G: C
+C: O material polarizável é o fio de sutura. A reação de uma célula gigante multinucleada, geralmente com células gigantes do tipo de um corpo estranho, é característica da reação granulomatosa a materiais estranhos. A inflamação crônica isolada não produz um nódulo localizado contendo células gigantes. Um abscesso, ocasionado normally por uma ferida infeccionada, apresentaria necrose liquefativa e inúmeros neutrófilos. Uma ulceração envolve perda da epiderme ou de outra camada epitelial. O edema refere-se ao acúmulo de fluidos no espaço intersticial e não produz um nódulo celular.
+
+Q: Um garoto de 3 anos de idade e outros familiares do sexo masculino têm um histórico de infecções recorrentes múltiplas, incluindo espécies de Aspergillus, Staphylococcus, Serratia, Nocardia e Pseudomonas. O exame físico apontou uma linfadenopatia mole generalizada. Os achados laboratoriais indicam números normais de leucócitos circulantes com morfologia normal. A maior suscetibilidade dessa criança à infecção é causada por um defeito em qual das seguintes etapas da resposta inflamatória?
+A) Ativação de macrófagos por interferon γ
+B) Morte de bactérias dependentes de oxigênio, pelos neutrófilos
+C) Adesão firme entre leucócitos e células endoteliais
+D) Síntese de lisozima em grânulos neutrofílicos
+E) Opsonização das bactérias por imunoglobulinas
+G: B
+C: A doença granulomatosa crônica é caracterizada por morte reduzida de micro-organismos ingeridos em decorrência de um defeito hereditário no sistema da NADPH oxidase. Em dois terços dos casos, há uma ligação com o cromossomo X, sendo que na fração restante a herança é autossômica recessiva. Esse sistema gera ânions superóxido (O2 ), essenciais à produção subsequente de produtos microbicidas, tais como H2O2, OH e HOCl . A ativação de macrófagos pelo interferon γ é um aspecto fundamental da inflamação granulomatosa, a qual é típica de infecções por micobactérias. Adesões firmes entre leucócitos e endotélio ficam prejudicadas na deficiência de adesão leucocitária de tipo I, na qual se observa uma mutação na cadeia das integrinas. A lisozima contida nos grânulos neutrofílicos é responsável pela destruição de bactérias independentemente de oxigênio. O comprometimento da opsonização pode levar a infecções em estados de deficiência de imunoglobulinas.
+
+Q: Em um experimento, os neutrófilos coletados do sangue periférico foram analisados quanto à “explosão” de consumo de oxigênio. Essa explosão respiratória é uma etapa essencial para qual dos seguintes eventos da resposta inflamatória aguda?
+A) Aumento da produção da medula óssea
+B) Fixação às células endoteliais
+C) Opsonização de bactérias
+D) Fagocitose de bactérias
+E) Produção de atividade microbicida
+G: E
+C: A explosão respiratória ou oxidativa produz espécies reativas de oxigênio (ou seja, ânion superóxido) que são importantes na destruição das bactérias internalizadas. A mielopoiese não depende da produção de superóxido. A fixação dos neutrófilos ao endotélio é auxiliada por moléculas de adesão existentes na superfície do endotélio e dos neutrófilos. Tais moléculas são as selectinas e as integrinas. As bactérias são opsonizadas por moléculas C3b do complemento e por IgG, o que permite sua pronta fagocitose.
+
+Q: Uma mulher de 20 anos de idade, sexualmente ativa, apresentou uma dor abdominal que durou 24 horas. A paciente não tinha história de dor desse tipo. Sua temperatura estava em 37,9oC e a região abdominal inferior esquerda apresentou-se bastante sensível à apalpação. Os achados laboratoriais implicavam uma contagem de leucócitos totais igual a 29.000 células/mm3, dos quais 75% eram neutrófilos segmentados, 6% eram bastões, 14% eram linfócitos e 5% eram monócitos. A laparotomia revelou que a tuba uterina esquerda estava distendida, repleta de líquidos e a ponto de se romper. Foi realizada uma salpingectomia. Qual dos seguintes achados tem maior probabilidade de ser encontrado durante o exame microscópico da tuba uterina extraída?
+A) Proliferação de fibroblastos
+B) Células gigantes de Langhans
+C) Necrose liquefativa
+D) Infiltração mononuclear
+E) Metaplasia escamosa
+G: C
+C: Essa paciente apresentou uma resposta inflamatória aguda, com edema, eritema e dor de curta duração. Os neutrófilos formam um exsudato e liberam várias proteases que podem causar necrose liquefativa, começando pela mucosa e estendendo-se pela parede do tubo. Esse mecanismo resulta em perfuração. Os fibroblastos são os participantes mais prováveis das respostas inflamatórias crônicas e das respostas de cura, geralmente surgindo na semana seguinte ao evento inicial. As células gigantes de Langhans são características da inflamação granulomatosa. Os infiltrados mononucleares são mais típicos nas inflamações crônicas da tuba uterina, em que uma ruptura é menos provável. A metaplasia epitelial tem maior probabilidade de ocorrer em cenários de irritação crônica com inflamação.
+
+Q: Um garoto de 9 anos de idade tem apresentado tosse crônica e febre há 1 mês. Uma radiografia do tórax mostrou alargamento dos linfonodos hilares e infiltração nodular intersticial pulmonar bilateral. A amostra de escarro continha bacilos acidorresistentes. Uma amostra de biópsia transbronquial indicou a ocorrência de inflamação granulomatosa no pulmão, marcada pela presença de células gigantes de Langhans. Qual dos seguintes mediadores é o que mais contribui para a formação da célula gigante?
+A) Fator de necrose tumoral
+B) Molécula C3b do complemento
+C) Leucotrieno B4
+D) Interferon γ
+E) Interleucina-1
+G: D
+C: O interferon γ é secretado por células T ativadas e é um importante mediador da inflamação granulomatosa. Ativa macrófagos e promove sua transformação em células epitelioides e, em seguida, em células gigantes. O fator de necrose tumoral pode ser secretado por macrófagos ativados e induz ativação de linfócitos e proliferação de fibroblastos, os quais constituem outro elemento do granuloma. A molécula C3b do complemento atua como opsonina em reações de inflamação aguda. O leucotrieno B4 induz quimiotaxia em processos de inflamação aguda. A interleucina-1 pode ser secretada por macrófagos e produz vários efeitos, entre os quais febre, aderência leucocitária, proliferação de fibroblastos e secreção de citocinas.
