@@ -1,0 +1,280 @@
+```
+Q: O que é hipertensão essencial e qual sua prevalência?
+A) É a hipertensão causada por doenças renais crônicas, ocorrendo em cerca de 30% dos casos.
+B) É a hipertensão resultante do envelhecimento arterial, representando aproximadamente 50% dos casos.
+C) É a hipertensão decorrente de fatores genéticos isolados, responsável por cerca de 20% dos casos.
+D) É a hipertensão idiopática sem causa identificável, representando aproximadamente 90% dos casos.
+E) É a hipertensão secundária a distúrbios endócrinos, observada em aproximadamente 40% dos casos.
+G: D
+C: A hipertensão essencial, também chamada de primária ou idiopática, corresponde à grande maioria dos casos de hipertensão (cerca de 90%) e caracteriza-se pela ausência de uma causa única ou identificável. Diferencia-se da hipertensão secundária, que resulta de condições específicas como doenças renais ou endócrinas.
+
+Q:No sistema renina-angiotensina-aldosterona, qual das seguintes opções descreve as ações diretas da angiotensina II para elevar a pressão arterial?
+A) Clivar o angiotensinogênio para formar a angiotensina I.
+B) Inibir a reabsorção de sódio e induzir a vasodilatação sistêmica.
+C) Aumentar a reabsorção de sódio nos túbulos renais distais e promover a diurese.
+D) Induzir contração vascular e estimular a secreção de aldosterona.
+G: D
+C: A angiotensina II atua diretamente nos vasos sanguíneos causando vasoconstrição e nas glândulas suprarrenais para liberar aldosterona, ambos os mecanismos aumentando a pressão.
+
+Q: Qual alteração morfológica vascular, caracterizada por um espessamento laminado em "casca de cebola", é tipicamente observada em casos de hipertensão grave?
+A) Arteriolosclerose hialina.
+B) Dissecção da aorta.
+C) Aterogênese acelerada.
+D) Arteriolosclerose hiperplásica.
+G: D
+C: A alternativa {A} está incorreta pois esta lesão envolve um espessamento homogêneo e rosado, associado à hipertensão crônica e ao diabetes, mas não exibe o padrão laminado. A alternativa {B} está incorreta pois a dissecção da aorta é uma complicação grave da hipertensão que afeta artérias de grande calibre, não uma alteração microscópica das arteríolas. A alternativa {C} está incorreta pois a hipertensão acelera a formação de ateromas, mas a morfologia em "casca de cebola" descreve uma patologia de pequenos vasos, a arteriolosclerose. A alternativa {D} está correta pois essa lesão como um espessamento concêntrico e laminado das paredes das arteríolas, consistindo em células musculares lisas com membrana basal reduplicada, característico da hipertensão grave.
+
+Q: A cardiopatia hipertensiva sistêmica (esquerda) é uma consequência da sobrecarga de pressão crônica. Qual é a principal alteração adaptativa que ocorre no coração?
+A) Dilatação acentuada do ventrículo direito sem hipertrofia.
+B) Hipertrofia concêntrica do ventrículo esquerdo.
+C) Atrofia do miocárdio e afinamento da parede ventricular.
+D) Espessamento fibroso e regurgitação da valva mitral.
+G: B
+C: A alternativa {A} está incorreta pois esta alteração é característica do cor pulmonale agudo, que resulta da sobrecarga de pressão no lado direito do coração, não do esquerdo. A alternativa {B} está correta pois para superar a alta pressão sistêmica, o músculo do ventrículo esquerdo se torna mais espesso, aumentando o peso do coração. Inicialmente, isso ocorre sem dilatação da câmara. A alternativa {C} está incorreta pois a sobrecarga de pressão crônica induz um aumento da massa muscular (hipertrofia) como resposta compensatória, e não uma diminuição (atrofia). A alternativa {D} está incorreta pois embora alterações valvares possam ocorrer em corações doentes, a resposta primária e definidora do músculo cardíaco à sobrecarga de pressão é a hipertrofia.
+
+Q: A condição conhecida como cor pulmonale é caracterizada pela sobrecarga de pressão em qual câmara cardíaca e geralmente é causada por qual tipo de distúrbio?
+A) Ventrículo esquerdo, causada por doenças das artérias coronárias.
+B) Átrio esquerdo, causada por estenose da valva mitral.
+C) Ventrículo direito, causada por distúrbios do parênquima ou dos vasos pulmonares.
+D) Átrio direito, causada por insuficiência da valva tricúspide com repercussões hemodinâmicas significativas no fluxo venoso.
+G: C
+C: O cor pulmonale corresponde a uma alteração estrutural e funcional do ventrículo direito causada por aumento da pressão pulmonar. Ele resulta, principalmente, de doenças pulmonares crônicas ou de alterações vasculares pulmonares, como DPOC, fibrose pulmonar ou tromboembolismo pulmonar. Isso distingue a condição de causas cardíacas primárias, que afetam preferencialmente o coração esquerdo.
+
+Q: Qual é o mecanismo central pelo qual a estenose da artéria renal causa hipertensão secundária (renovascular)?
+A) Aumento da filtração glomerular, levando à retenção de líquidos.
+B) Liberação de peptídeos natriuréticos, causando vasoconstrição.
+C) Diminuição do fluxo glomerular, que induz a secreção de renina.
+D) Lesão direta nos túbulos renais, impedindo a reabsorção de sódio.
+G: C
+C: A alternativa {A} está incorreta pois a estenose da artéria renal provoca uma diminuição, e não um aumento, do fluxo sanguíneo e da pressão de filtração no glomérulo. A alternativa {B} está incorreta pois os peptídeos natriuréticos causam vasodilatação e excreção de sódio, efeitos que diminuiriam a pressão arterial, além de não serem o mecanismo primário aqui. A alternativa {C} está correta pois a queda de pressão na arteríola aferente é detectada pelo rim como hipoperfusão, o que desencadeia a cascata renina-angiotensina-aldosterona para aumentar o volume e o tônus vascular. A alternativa {D} está incorreta pois a resposta fisiológica à percepção de baixo fluxo é aumentar a reabsorção de sódio para elevar o volume sanguíneo, e não diminuí-la.
+
+Q: A hipertensão maligna é uma emergência médica. Quais são as características que a definem?
+A) Pressão arterial levemente elevada, assintomática e de longa duração.
+B) Elevação rápida e grave da pressão arterial, com insuficiência renal e hemorragias na retina.
+C) Hipertrofia ventricular esquerda progressiva com risco de fibrilação atrial e formação de trombos com disseminação sistêmica.
+D) Pressão arterial que responde rapidamente a qualquer mínimo esforço físico, com insuficiência cardíaca.
+G: B
+
+Q: Além do aumento do tamanho dos miócitos, qual outra alteração microscópica é comumente encontrada em estágios avançados da cardiopatia hipertensiva sistêmica, contribuindo para a rigidez do ventrículo?
+A) Depósitos de gordura entre as fibras musculares.
+B) Infiltrado inflamatório de neutrófilos.
+C) Fibrose intersticial e perivascular.
+D) Formação de granulomas não caseosos.
+G: C
+
+Q: Qual é o papel dos peptídeos natriuréticos miocárdicos na regulação da pressão arterial?
+A) Estimular a secreção de renina para aumentar a reabsorção de sódio.
+B) Causar vasoconstrição periférica e aumentar o débito cardíaco.
+C) Ser convertidos em angiotensina II pela enzima conversora de angiotensina (ECA).
+D) Inibir a reabsorção de sódio nos rins e induzir vasodilatação sistêmica.
+G: D
+C: Os peptídeos natriuréticos miocárdicos, como o ANP (peptídeo natriurético atrial) e o BNP (peptídeo natriurético tipo B), são hormônios liberados pelo coração quando há aumento do volume sanguíneo e da pressão dentro das câmaras cardíacas. Sua principal função é reduzir a pressão arterial e o volume circulante: eles inibem a reabsorção de sódio nos túbulos renais, o que aumenta a excreção de sódio e água (natriurese e diurese), e promovem vasodilatação sistêmica, diminuindo a resistência vascular periférica. Dessa forma, ajudam a aliviar a sobrecarga cardíaca e a manter o equilíbrio da pressão arterial.
+
+Q: Como o débito cardíaco é regulado na homeostasia da pressão arterial?
+A) Pela contratilidade miocárdica e pelo retorno venoso, modulados pela atividade dos receptores barorreceptores arteriais.
+B) Pelo volume sistólico e frequência cardíaca, influenciados pelo volume sanguíneo e sistemas adrenérgicos.
+C) Pela resistência vascular periférica e pela complacência arterial, controladas por mediadores humorais circulantes.
+D) Pela perfusão coronariana e pelo consumo de oxigênio miocárdico, ajustados pelo metabolismo celular cardíaco.
+E) Pelo débito venoso central e pela pressão capilar pulmonar, regulados pelo equilíbrio hidroeletrolítico sistêmico.
+G: B
+C: O débito cardíaco depende de dois fatores principais: o volume sistólico (quantidade de sangue ejetada por batimento) e a frequência cardíaca. Estes, por sua vez, são modulados pelo volume sanguíneo e pela regulação autonômica, especialmente pelo sistema adrenérgico. Esse ajuste é essencial para manter a pressão arterial dentro de limites adequados para a perfusão dos órgãos.
+
+Q: No cor pulmonale crônico, qual é a aparência morfológica típica da parede do ventrículo direito?
+A) Acentuadamente dilatada sem hipertrofia
+B) Afinada e com fibrose difusa
+C) Espessada, podendo atingir 1 cm ou mais
+D) Normal, com dilatação apenas do átrio
+G: C
+C: A alternativa {C} está correta pois a sobrecarga de pressão crônica induz hipertrofia do músculo ventricular direito. A alternativa {A} está incorreta pois esta é a aparência do cor pulmonale agudo, onde não há tempo para o músculo se adaptar. A alternativa {B} está incorreta pois a sobrecarga de pressão leva ao espessamento (hipertrofia), não ao afinamento da parede muscular. A alternativa {D} está incorreta pois a patologia afeta primariamente o ventrículo, que trabalha contra a alta pressão pulmonar.
+
+Q: Qual é considerado um evento-chave iniciador na patogênese da hipertensão essencial?
+A) Aumento primário do débito cardíaco
+B) Excreção renal insuficiente de sódio
+C) Atividade excessiva do sistema simpático
+D) Secreção primária excessiva de renina
+G: B
+
+Q: Além da hemorragia cerebrovascular, qual outra complicação grave em artérias de grande calibre é causada pela hipertensão?
+A) Trombose venosa profunda
+B) Dissecção da aorta
+C) Embolia pulmonar
+D) Formação de varizes
+G: B
+C: Pois a alta pressão enfraquece a parede da aorta, podendo causar uma ruptura na camada íntima.
+
+Q: A enzima conversora de angiotensina (ECA), que transforma angiotensina I em angiotensina II, é produzida principalmente por qual tipo de célula?
+A) Células do endotélio vascular
+B) Células justaglomerulares renais
+C) Células do córtex suprarrenal
+D) Células miocárdicas atriais
+G: A
+
+Q: Qual é o critério patológico mínimo para o diagnóstico de cardiopatia hipertensiva sistêmica?
+A) Hipertrofia ventricular esquerda sem outra causa
+B) Presença de aterosclerose coronária sem outra causa
+C) Dilatação do átrio esquerdo não acompanhada de outra causa
+D) Hipertrofia ventricular direita sem outra causa
+G: A
+
+Q: Qual evento pode levar ao desenvolvimento de cor pulmonale agudo?
+A) Enfisema pulmonar crônico
+B) Fibrose cística
+C) Embolia pulmonar maciça
+D) Cifoescoliose grave
+G: C
+C: A alternativa {C} está correta pois a obstrução súbita e extensa da artéria pulmonar causa uma sobrecarga de pressão aguda no ventrículo direito. A alternativa {A} está incorreta pois esta é uma causa clássica de cor pulmonale crônico devido à destruição do leito vascular pulmonar. A alternativa {B} está incorreta pois esta doença genética leva a alterações pulmonares crônicas que causam cor pulmonale crônico. A alternativa {D} está incorreta pois a deformidade torácica afeta a mecânica pulmonar a longo prazo, sendo uma causa de cor pulmonale crônico.
+
+Q: O débito cardíaco é influenciado pelo volume sistólico. Qual é o principal regulador do volume sistólico?
+A) Homeostasia do sódio
+B) Níveis de catecolaminas
+C) Tônus vascular periférico
+D) pH e hipoxia tecidual
+G: A
+C: A alternativa {A} está correta pois a regulação do sódio determina o volume sanguíneo, que por sua vez define a pressão de enchimento do coração.
+
+Q: A patogênese da arteriolosclerose hialina envolve o extravasamento de proteínas plasmáticas e o(a):
+A) Infiltração de células inflamatórias
+B) Aumento da síntese de matriz pelas CMLs
+C) Deposição de cristais de colesterol
+D) Proliferação de células endoteliais
+G: B
+C: A alternativa {B} está correta pois as células musculares lisas respondem à pressão crônica produzindo mais matriz extracelular.
+
+Q: Qual é a principal ação da angiotensina II que contribui para o aumento da pressão arterial?
+A) Indução da contração vascular
+B) Inibição da secreção de aldosterona
+C) Aumento da excreção de sódio
+D) Relaxamento do músculo liso vascular
+G: A
+C: A alternativa {A} está correta pois é um potente vasoconstritor que aumenta diretamente a resistência vascular periférica.
+
+Q: Qual das seguintes condições é uma causa de hipertensão secundária de origem renal?
+A) Estenose da artéria renal
+B) Obesidade
+C) Estresse psicogênico
+D) Consumo excessivo de sal
+G: A
+C: A alternativa {A} está correta pois o estreitamento da artéria renal diminui o fluxo sanguíneo para o rim, ativando o sistema renina-angiotensina. A alternativa {B} está incorreta pois a obesidade é um fator de risco ambiental fortemente associado à hipertensão essencial. A alternativa {C} está incorreta pois o estresse é considerado um fator ambiental que contribui para a hipertensão essencial. A alternativa {D} está incorreta pois o alto consumo de sódio é um fator dietético importante na patogênese da hipertensão essencial.
+
+Q: Qual é o principal efeito dos peptídeos natriuréticos miocárdicos no organismo?
+A) Aumentar a reabsorção de sódio
+B) Induzir vasoconstrição sistêmica
+C) Estimular a secreção de renina
+D) Promover a excreção de sódio e diurese
+G: D
+C: A alternativa {D} está correta pois ao inibir a reabsorção de sódio nos rins, eles ajudam a reduzir o volume sanguíneo e a pressão.
+
+Q: Qual substância é liberada pelas células justaglomerulares do rim em resposta à diminuição da pressão arterial?
+A) Aldosterona
+B) Angiotensina II
+C) Renina
+D) Peptídeo natriurético
+G: C
+C: A alternativa {C} está correta pois esta enzima proteolítica inicia a cascata que leva ao aumento da pressão arterial. A alternativa {A} está incorreta pois é secretada pela glândula suprarrenal em resposta à angiotensina II, não diretamente pelo rim em resposta à pressão. A alternativa {B} está incorreta pois é formada na circulação a partir de um precursor, não sendo liberada diretamente pelas células renais. A alternativa {D} está incorreta pois é liberado pelo miocárdio em resposta à expansão de volume, com efeito oposto ao da renina.
+
+Q: Como é denominada a cardiopatia hipertensiva que afeta o lado direito do coração devido a distúrbios pulmonares?
+A) Cor pulmonale
+B) Cardiopatia isquêmica
+C) Miocardiopatia dilatada
+D) Insuficiência cardíaca congestiva
+G: A
+C: A alternativa {A} está correta pois este termo específico descreve a hipertrofia e dilatação do ventrículo direito secundária à hipertensão pulmonar.
+
+Q: Qual é a principal resposta adaptativa do coração à sobrecarga de pressão crônica da hipertensão sistêmica?
+A) Hipertrofia do ventrículo esquerdo
+B) Dilatação do ventrículo direito
+C) Fibrose da valva mitral
+D) Atrofia do miocárdio atrial
+G: A
+
+Q: Qual é a alteração morfológica característica da arteriolosclerose hiperplásica, observada na hipertensão grave?
+A) Espessamento hialino e rosa homogêneo
+B) Depósitos de lipídios na túnica íntima
+C) Espessamento laminado em "casca de cebola"
+D) Necrose fibrinoide da parede vascular
+G: C
+C: A alternativa {C} está correta pois esta aparência é devida à proliferação de células musculares lisas em camadas concêntricas. A alternativa {A} está incorreta pois esta descrição corresponde à arteriolosclerose hialina, associada à hipertensão crônica e diabetes. A alternativa {B} está incorreta pois esta é a característica da aterosclerose, um processo distinto que afeta artérias de maior calibre. A alternativa {D} está incorreta pois, embora possa acompanhar a arteriolosclerose hiperplásica na hipertensão maligna, não é a alteração definidora da forma hiperplásica.
+
+Q: Qual sistema desempenha um papel central na regulação da pressão arterial ao influenciar o volume sanguíneo e o tônus vascular?
+A) Sistema renina-angiotensina-aldosterona
+B) Sistema de peptídeos natriuréticos
+C) Sistema nervoso parassimpático
+D) Sistema de cininas e prostaglandinas
+G: A
+
+Q: Quais estímulos levam à liberação de renina pelas células justaglomerulares?
+A) Aumento da pressão venosa central e expansão do volume extracelular, mediados pela secreção de peptídeos natriuréticos.
+B) Pressão arterial baixa nas arteríolas aferentes, níveis elevados de catecolaminas circulantes, ou baixos níveis de sódio nos túbulos renais contorcidos distais.
+C) Elevação da osmolaridade plasmática e secreção de hormônio antidiurético, associados à retenção hídrica renal.
+D) Estímulo direto do hormônio adrenocorticotrófico sobre o córtex renal e aumento da reabsorção tubular de glicose.
+E) Redução da pressão coloidosmótica plasmática e maior filtração glomerular devido à perda de proteínas no plasma.
+G: B
+
+Q: Em quais condições a arteriolosclerose hialina é mais generalizada e grave?
+A) Em adultos com dislipidemia e tabagismo crônico, com deposição lipídica sistêmica nas arteríolas.
+B) Em vasculites imunomediadas, com destruição inflamatória difusa da parede arteriolar.
+C) Em gestantes com pré-eclâmpsia, com lesão endotelial predominantemente fibrinoide.
+D) Em insuficiência renal aguda por toxinas, com dano tubular e arteriolar transitório.
+E) Em pacientes com hipertensão e diabetes melito, com espessamento hialino difuso das arteríolas.
+G: E
+C: A arteriolosclerose hialina é classicamente mais intensa e disseminada em indivíduos com hipertensão e diabetes, em razão de estresse hemodinâmico e glicação de proteínas da parede vascular, levando a espessamento hialino e estreitamento luminal.
+
+Q: Como a hipertrofia ventricular esquerda na hipertensão pode levar à disfunção diastólica?
+A) O espessamento da parede ventricular esquerda, com aumento de tecido conjuntivo intersticial, confere rigidez e dificulta o enchimento diastólico, favorecendo hipertrofia do átrio esquerdo.
+B) A redução do pós-carga induz relaxamento rápido e enchimento facilitado, preservando a pressão de enchimento atrial.
+C) A isquemia subendocárdica, associada ao aumento da massa ventricular, compromete o relaxamento ativo e agrava a rigidez diastólica ao longo do tempo.
+D) A dilatação precoce do ventrículo esquerdo, acompanhada de remodelamento excêntrico, altera a complacência e contribui para elevação da pressão diastólica final, causando um grande aumento de rigidez da parede.
+E) O aumento do retorno venoso promove pré-carga constante e impede alterações na pressão de enchimento ventricular.
+G: A
+
+Q: O que é cor pulmonale?
+A) Insuficiência cardíaca esquerda secundária a hipertensão pulmonar, com disfunção sistólica do ventrículo esquerdo decorrente de sobrecarga de volume pulmonar crônica.
+B) Hipertrofia ventricular direita isolada por defeitos congênitos septais, levando a shunt esquerda-direita e sobrecarga de pressão progressiva nas câmaras direitas.
+C) Cardiopatia hipertensiva pulmonar (direita) por sobrecarga de pressão no ventrículo direito, com hipertrofia, dilatação e possível falência das câmaras direitas.
+D) Disfunção ventricular direita aguda por tromboembolismo pulmonar massivo, resultando em dilatação transitória e elevação abrupta da pressão pulmonar sem remodelamento crônico.
+E) Miocardiopatia restritiva pulmonar por fibrose intersticial difusa, que compromete o enchimento diastólico biventricular e induz elevação simétrica das pressões atriais.
+G: C
+
+Q:Quais são as causas típicas de cor pulmonale crônico?
+A) Estenose mitral e insuficiência aórtica, com aumento de pressão retrógrada no átrio esquerdo.
+B) Embolia pulmonar maciça aguda, que causa aumento súbito da pós-carga do ventrículo direito mas não corresponde ao quadro crônico.
+C) Miocardite viral, que gera inflamação miocárdica e falência ventricular direita sem relação direta com hipertensão pulmonar.
+D) Distúrbios pulmonares crônicos, sobretudo doenças parenquimatosas como enfisema, além de hipertensão pulmonar primária.
+E) Doenças intersticiais fibrosantes de longa evolução, que reduzem a capacidade de troca gasosa e aumentam a resistência vascular pulmonar progressivamente.
+G: D
+
+Q: O que é a cardiopatia hipertensiva?
+A) Consequência do aumento da demanda sobre o coração devido à hipertensão, causando sobrecarga de pressão.
+B) Alteração primária na contratilidade miocárdica induzida por inflamação crônica, levando a dilatação ventricular e insuficiência sistólica isolada.
+C) Sobrecarga de volume no ventrículo direito secundária a hipertensão portal, com hipertrofia concêntrica e risco de fibrilação atrial.
+D) Remodelamento excêntrico do miocárdio esquerdo por aumento do retorno venoso, resultando em disfunção diastólica e elevação progressiva da pressão atrial.
+G: A
+
+Q: Sobre cor pulmonale crônico, assinale a alternativa incorreta:
+A) Resulta frequentemente de doenças parenquimatosas crônicas, como enfisema, que aumentam a resistência vascular pulmonar e sobrecarregam o ventrículo direito.
+B) É tipicamente causado por valvulopatias aórticas isoladas sem envolvimento pulmonar, manifestando-se por remodelamento do ventrículo direito.
+C) Pode decorrer de hipertensão pulmonar primária, determinando hipertrofia e dilatação progressiva do ventrículo direito.
+D) Associa-se a redução da capacidade de troca gasosa e ao aumento sustentado da resistência vascular pulmonar em doenças pulmonares crônicas.
+G: B
+C: A opção {B} está incorreta porque valvulopatias aórticas afetam primariamente o ventrículo esquerdo e não são causa típica de cor pulmonale crônico; cor pulmonale crônico resulta de processos que elevam persistentemente a resistência pulmonar (p. ex. DPOC/enfisema ou hipertensão pulmonar primária), conforme as opções {A}, {C} e {D} indicam.
+
+Q: Sobre liberação de renina pelas células justaglomerulares, assinale a alternativa correta:
+A) Aumento da pressão nas arteríolas aferentes, baixos níveis de catecolaminas e elevada concentração de sódio no túbulo distal estimulam a secreção de renina.
+B) Supressão simpática, elevação da pressão venosa central e maior reabsorção proximal de sódio são os principais estímulos que aumentam a liberação de renina.
+C) Pressão arterial baixa nas arteríolas aferentes, níveis elevados de catecolaminas circulantes e baixos níveis de sódio nos túbulos distais estimulam a secreção de renina.
+D) Elevação da osmolaridade plasmática associada a liberação de peptídeo natriurético constitui o estímulo primário para aumento da liberação de renina.
+G: C
+
+QCH: Sobre a cardiopatia hipertensiva sistêmica, assinale todas as assertivas corretas:
+A1: A hipertrofia ventricular esquerda costuma ser concêntrica, podendo ultrapassar 2 cm de espessura na parede do ventrículo esquerdo.
+G: V
+A2: O padrão predominante de hipertrofia observado é excêntrico, associado a dilatação progressiva da cavidade ventricular.
+G: F
+C: Está incorreta porque o padrão predominante na cardiopatia hipertensiva é hipertrofia concêntrica, não excêntrica.
+A3: As alterações microscópicas incluem aumento do diâmetro transversal dos miócitos, hipertrofia nuclear aparente e fibrose intersticial difusa.
+G: V
+A4: Entre os desfechos clínicos possíveis estão insuficiência cardíaca progressiva, arritmias, doença isquêmica associada e morte súbita.
+G: V
+A5: A complicação cardíaca mais típica é o desenvolvimento de lesões valvares primárias, especialmente da valva aórtica, independentemente da pressão arterial.
+G: F
+C: Está incorreta: a doença valvar não é a complicação típica da hipertensão; as principais complicações são isquemia, arritmias, insuficiência cardíaca e morte súbita.
