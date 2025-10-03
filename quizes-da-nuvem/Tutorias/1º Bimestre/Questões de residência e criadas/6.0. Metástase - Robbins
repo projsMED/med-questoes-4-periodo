@@ -1,0 +1,258 @@
+INFO: Baseado no Robbins.
+
+Q: Qual evento marca inequivocamente um tumor como maligno, distinguindo-o de forma definitiva de uma neoplasia benigna?
+A) O crescimento rápido e descontrolado da massa tumoral, que comprime os tecidos adjacentes e causa danos por pressão.
+B) A presença de uma cápsula fibrosa que envolve o tumor, separando-o claramente do tecido normal circundante.
+C) A disseminação do tumor para áreas fisicamente descontínuas do tumor primário, através de vasos sanguíneos ou linfáticos.
+D) O alto grau de diferenciação celular, onde as células tumorais se assemelham muito às células normais do tecido de origem.
+G: C
+
+Q: Qual é a via mais comum para a disseminação inicial dos carcinomas?
+A) Disseminação hematogênica
+B) Implante em cavidades
+C) Disseminação linfática
+D) Disseminação iatrogênica
+G: C
+C: O transporte através dos vasos linfáticos é descrito como a rota mais frequente para a disseminação inicial deste tipo de câncer.
+
+Q: O que a hipótese "solo-semente" de Paget procura explicar no contexto da metástase?
+A) A ideia de que as células tumorais precisam de um ambiente favorável, ou "solo fértil", em um órgão distante para crescer e formar uma metástase.
+B) O conceito de que as metástases se formam exclusivamente no primeiro leito capilar que as células tumorais encontram após entrar na circulação.
+C) A teoria de que o crescimento do tumor primário enriquece o "solo" local com nutrientes, impedindo a migração de células para outros locais.
+D) O processo pelo qual o tumor primário envia sinais para preparar o "solo" em um local distante antes da chegada das células metastáticas.
+G: A
+C: Esta hipótese sugere que a localização da metástase não depende apenas do fluxo sanguíneo, mas da compatibilidade entre a célula tumoral ("semente") e o microambiente do órgão-alvo ("solo").
+Embora a parada no primeiro leito capilar seja comum (ex: pulmão, fígado), a hipótese "solo-semente" explica por que alguns tumores formam metástases em locais específicos, contrariando essa regra.
+
+Q: Qual enzima, superexpressa em tumores malignos, degrada o colágeno tipo IV da membrana basal?
+A) Tireoglobulina
+B) Catepsina D
+C) E-caderina
+D) MMP-9
+G: D
+C: A MMP-9, uma gelatinase, como a enzima que cliva o colágeno tipo IV encontrado na membrana basal.
+
+Q: Além do desenvolvimento de metástases, qual é a característica mais confiável para distinguir tumores malignos de benignos?
+A) O tamanho grande da massa tumoral, pois tumores malignos tendem a crescer mais do que os benignos antes de serem detectados.
+B) A capacidade de invasão progressiva e destruição do tecido circundante, desrespeitando os limites anatômicos normais.
+C) A presença de necrose central no tumor, indicando que o crescimento da neoplasia superou seu suprimento sanguíneo.
+D) A taxa de mitoses observada ao microscópio, pois um número elevado de divisões celulares é exclusivo de cânceres.
+G: B
+C: A capacidade de invasão é a característica mais confiável, além da metástase, para diferenciar tumores malignos dos benignos.
+O tamanho não é um critério confiável; tumores benignos podem atingir grandes dimensões e alguns tumores malignos podem ser pequenos.
+A necrose pode ocorrer em tumores de crescimento rápido, sejam eles benignos ou malignos, e não é um diferenciador definitivo.
+Embora um alto índice mitótico seja um sinal de alerta, alguns tecidos normais e tumores benignos podem ter alta atividade proliferativa.
+
+Q: Como são denominados os tumores malignos que surgem em tecidos mesenquimais sólidos?
+A) Carcinomas
+B) Linfomas
+C) Sarcomas
+D) Leucemias
+G: C
+C: Este termo, do grego 'sar' (carnoso), é usado para tumores malignos de tecidos mesenquimais sólidos.
+
+Q: Qual é a consequência da perda da função da E-caderina durante a primeira etapa da cascata metastática?
+A) A ativação de enzimas proteolíticas que degradam a matriz extracelular, permitindo que as células tumorais atravessem a membrana basal.
+B) A dissociação das células cancerosas umas das outras, ou "afrouxamento", o que permite que elas se separem da massa tumoral primária.
+C) O estímulo à angiogênese, com a liberação de fatores como o VEGF, que promovem a formação de novos vasos sanguíneos para nutrir o tumor.
+D) O desenvolvimento de resistência à apoptose induzida pela perda de adesão, um fenômeno conhecido como anoiquia.
+G: B
+C: A E-caderina é uma molécula de adesão que mantém as células epiteliais unidas; sua perda resulta na quebra dessas interações.
+
+Q: Quais são os dois órgãos mais frequentemente afetados pela disseminação hematogênica de metástases?
+A) Cérebro e ossos
+B) Fígado e pulmões
+C) Rins e baço
+D) Suprarrenais e pele
+G: B
+C: Devido à drenagem da área portal para o fígado e do sangue da veia cava para os pulmões, estes são os órgãos mais comuns.
+
+Q: O que é um "linfonodo sentinela" no contexto do estadiamento do câncer?
+A) Um linfonodo que se tornou resistente ao tratamento quimioterápico e atua como um reservatório para la recidiva do tumor.
+B) O maior linfonodo da cadeia linfática regional, que é sempre o primeiro a ser invadido por células tumorais metastáticas.
+C) O primeiro linfonodo de uma cadeia linfática regional que recebe o fluxo linfático proveniente do tumor primário.
+D) Qualquer linfonodo que apresenta aumento de tamanho (hiperplasia) em resposta a antígenos tumorais, indicando uma forte resposta imune.
+G: C
+
+Q: Qual processo, crucial para a metástase e controlado pelos fatores de transcrição SNAIL e TWIST, envolve a perda de características epiteliais?
+A) Anoiquia
+B) Disseminação hematogênica
+C) Transição epitelial-mesenquimal
+D) Angiogênese
+G: C
+C: Este processo (TEM) como sendo controlado por esses fatores de transcrição, resultando em um fenótipo pró-migratório.
+
+Q: Como a encapsulação de um tumor benigno geralmente se diferencia da "pseudoencapsulação" ocasionalmente vista em tumores malignos?
+A) A cápsula de tumores benignos é uma barreira intransponível, enquanto a pseudoencapsulação dos malignos permite a passagem de nutrientes para o tumor.
+B) A cápsula benigna é formada pelas próprias células tumorais, enquanto a pseudoencapsulação maligna é formada por células do estroma do hospedeiro.
+C) Tumores benignos desenvolvem uma cápsula fibrosa que os separa do tecido normal, enquanto tumores malignos pseudoencapsulados apresentam células que penetram essa margem.
+D) A pseudoencapsulação em tumores malignos é um sinal de que o tumor está regredindo, enquanto a cápsula em tumores benignos indica crescimento ativo.
+G: C
+
+Q: No sistema de estadiamento de câncer TNM, o que a letra 'N' representa?
+A) Tamanho do tumor
+B) Número de mitoses
+C) Presença de metástases
+D) Comprometimento de linfonodos
+G: D
+C: 'N' se refere ao comprometimento de linfonodos regionais.
+O tamanho do tumor primário é representado pela letra 'T'.
+O número de mitoses é um critério usado na gradação do tumor, não no estadiamento TNM.
+A presença de metástases a distância é indicada pela letra 'M'.
+
+Q: O que caracteriza o fenômeno da "dormência tumoral"?
+A) É um período em que o tumor primário para de crescer e invadir localmente devido a uma forte resposta imune do hospedeiro.
+B) É a capacidade de um tumor de se tornar invisível aos exames de imagem, mesmo continuando a se disseminar sistemicamente.
+C) É o processo pelo qual as células tumorais alteram seu metabolismo para sobreviver em ambientes com baixo teor de oxigênio (hipóxia).
+D) É uma fase em que as células metastáticas sobrevivem em tecidos distantes por um longo período, mas não conseguem crescer ou proliferar.
+G: D
+
+Q: Comparados às veias, por que as artérias são mais resistentes à penetração por células tumorais?
+A) Pelo fluxo sanguíneo
+B) Pelas suas paredes
+C) Pela ausência de válvulas
+D) Pela pressão sanguínea
+G: B
+C: As artérias, com suas paredes mais espessas, são mais resistentes à penetração.
+
+Q: O que é o "pseudomixoma peritoneal"?
+A) Uma reação inflamatória severa na cavidade peritoneal que mimetiza a presença de um câncer, mas é de origem benigna.
+B) Uma massa neoplásica gelatinosa que preenche a cavidade peritoneal, geralmente originada de carcinomas do apêndice ou ovário.
+C) O acúmulo de líquido (ascite) na cavidade peritoneal causado pela obstrução de vasos linfáticos por um tumor abdominal.
+D) Um tipo raro de sarcoma que se origina no peritônio e se espalha formando múltiplos nódulos que se assemelham a cistos de muco.
+G: B
+
+Q: Qual é o termo para a forma de morte celular que ocorre devido à perda de adesão à matriz extracelular?
+A) Apoptose
+B) Necrose
+C) Anoiquia
+D) Mitose
+G: C
+C: Este termo, que significa 'sem um lar', como a morte celular que ocorre quando as células perdem sua adesão à MEC.
+
+Q: Qual característica dos tumores malignos, além de sua capacidade de metastatizar, dificulta a ressecção cirúrgica completa?
+A) A tendência de serem pouco vascularizados, o que os torna difíceis de visualizar durante a cirurgia e resistentes a tratamentos que dependem do fluxo sanguíneo.
+B) A presença de uma cápsula fibrosa espessa e bem definida, que se adere firmemente aos tecidos saudáveis e impede a separação cirúrgica limpa.
+C) Sua natureza invasiva, com margens pouco demarcadas e fileiras de células que penetram no tecido adjacente, exigindo a remoção de uma ampla margem de segurança.
+D) A capacidade de secretar substâncias que causam necrose extensa no tecido circundante, tornando os planos de clivagem cirúrgica indistinguíveis e frágeis.
+G: C
+
+Q: A perda de função de qual molécula de adesão intercelular está associada a certos adenocarcinomas de estômago e de mama?
+A) Integrina
+B) Colágeno tipo IV
+C) CD44
+D) E-caderina
+G: D
+
+Q: Um tumor maligno que se origina em tecidos mesenquimais sólidos, como o tecido fibroso, é denominado:
+A) Carcinoma
+B) Linfoma
+C) Adenocarcinoma
+D) Sarcoma
+G: D
+
+Q: Qual é a via mais comum para a disseminação inicial da maioria dos carcinomas?
+A) Disseminação hematogênica
+B) Implante direto em cavidades corporais
+C) Disseminação linfática
+D) Disseminação iatrogênica
+G: C
+C: O material de origem afirma que o transporte através dos vasos linfáticos é a via mais comum para a disseminação inicial dos carcinomas.
+
+Q: No processo de invasão da matriz extracelular (MEC), qual é a função das metaloproteinases da matriz (MMPs)?
+A) Mediar a adesão entre as células tumorais, mantendo-as unidas.
+B) Degradar a membrana basal e o tecido conjuntivo intersticial.
+C) Manter as células em um estado polarizado e em repouso.
+D) Guiar as células tumorais para tecidos específicos através de quimiocinas.
+G: B
+
+Q: O que é um linfonodo sentinela no contexto do câncer de mama?
+A) Qualquer linfonodo aumentado na região axilar, indicando uma resposta imune.
+B) O primeiro linfonodo de uma cadeia regional que recebe o fluxo linfático do tumor primário.
+C) O último linfonodo da cadeia linfática, que atua como barreira final contra a disseminação.
+D) Um linfonodo que já está completamente tomado por células metastáticas.
+G: B
+
+Q: O sistema de estadiamento TNM é usado para avaliar a gravidade clínica de um câncer. O que o componente 'T' representa?
+A) O comprometimento de linfonodos regionais.
+B) A presença ou ausência de metástases hematogênicas.
+C) O tamanho e a extensão da lesão primária.
+D) O grau de diferenciação das células tumorais.
+G: C
+C: O 'T' refere-se ao tumor primário, com classificações de T1 a T4 baseadas no aumento do seu tamanho e extensão.
+
+Q: A disseminação hematogênica frequentemente afeta o fígado e os pulmões. Qual é a principal razão para isso?
+A) Porque esses órgãos possuem um "solo" mais favorável para o crescimento de qualquer tipo de tumor.
+B) Porque toda a drenagem da área portal flui para o fígado e todo o sangue da veia cava flui para os pulmões.
+C) Porque as células tumorais expressam moléculas de adesão específicas para as células endoteliais desses órgãos.
+D) Porque as artérias que irrigam o fígado e os pulmões são mais fáceis de serem penetradas pelas células tumorais.
+G: B
+C: Com a invasão venosa, as células param no primeiro leito capilar que encontram, e a anatomia do fluxo sanguíneo direciona o sangue portal para o fígado e o sangue venoso sistêmico para os pulmões.
+
+Q: Qual fenômeno é descrito como a sobrevivência de células metastáticas em tecidos distantes, mas sem a capacidade de crescer por um período?
+A) Anoiquia
+B) Endereçamento (homing)
+C) Dormência tumoral
+D) Colonização
+G: C
+C: Descreve este fenômeno exatamente assim: as células metastáticas criam raízes e sobrevivem, mas podem não conseguir crescer, sendo bem descrito em melanoma e cânceres de mama e próstata.
+Anoiquia é a morte celular programada (apoptose) que ocorre quando células normais perdem a adesão à MEC; as células tumorais são resistentes a ela.
+Endereçamento refere-se ao processo pelo qual as células tumorais circulantes param e se estabelecem em órgãos específicos, mas não descreve o estado de não crescimento.
+A colonização é o passo final bem-sucedido da metástase, onde as células não apenas sobrevivem, mas proliferam para formar um novo tumor, o oposto da dormência.
+
+Q: De acordo com a nomenclatura oncológica, um tumor maligno originado de células epiteliais que formam um padrão glandular é denominado:
+A) Sarcoma.
+B) Linfoma.
+C) Carcinoma de células escamosas.
+D) Adenocarcinoma.
+G: D
+C: Em um adenocarcinoma, as células epiteliais neoplásicas crescem de acordo com um padrão glandular.
+Sarcomas são tumores malignos que surgem em tecidos mesenquimais sólidos, como osso ou músculo, e não em células epiteliais.
+Linfomas são tumores malignos que se originam de linfócitos ou seus precursores, que são células do sistema sanguíneo e linfático.
+Carcinona de células escamosas se refere a um carcinoma onde as células tumorais se assemelham ao epitélio escamoso estratificado, não a um padrão glandular.
+
+Q: Qual é a via mais comum para a disseminação inicial da maioria dos carcinomas?
+A) Disseminação hematogênica.
+B) Implante direto em cavidades corporais.
+C) Disseminação linfática.
+D) Disseminação iatrogênica.
+G: C
+
+Q: O sistema de estadiamento TNM é fundamental na oncologia. Para que ele é utilizado?
+A) Para determinar o grau de diferenciação das células tumorais.
+B) Para identificar a origem primária de um tumor metastático desconhecido.
+C) Para avaliar a extensão anatômica e a disseminação de um câncer sólido.
+D) Para classificar o tipo de mutação genética que causou o tumor.
+G: C
+C: O sistema TNM baseia-se no tamanho do tumor primário (T), no comprometimento de linfonodos regionais (N) e na presença de metástases a distância (M) para determinar o estágio do câncer.
+
+Q: A perda de função da E-caderina é um evento importante na cascata metastática dos carcinomas. Qual é o principal papel dessa molécula?
+A) Degradar a matriz extracelular para abrir caminho para as células.
+B) Manter as células epiteliais firmemente aderidas umas às outras.
+C) Estimular a migração celular em direção aos vasos sanguíneos.
+D) Ativar a angiogênese para nutrir o tumor em crescimento.
+G: B
+
+Q: Alguns tumores malignos, como os gliomas e os carcinomas basocelulares da pele, apresentam uma característica peculiar. Qual é?
+A) Eles metastatizam preferencialmente pela via hematogênica.
+B) São altamente invasivos localmente, mas raramente formam metástases a distância.
+C) Eles são sempre considerados 'tumores líquidos' disseminados.
+D) Eles não invadem tecidos adjacentes, crescendo apenas por expansão estimulada por fatores de crescimento.
+G: B
+C: Embora sejam invasivos, esses tumores raramente metastatizam, ilustrando que as propriedades de invasão e metástase são distintas.
+
+Q: Por que as leucemias e os linfomas são inerentemente considerados malignos e frequentemente já estão disseminados no momento do diagnóstico?
+A) Porque suas células se dividem muito mais rápido do que as células de tumores sólidos.
+B) Porque se originam de células que normalmente têm a capacidade de circular pelo corpo.
+C) Porque são mais resistentes aos tratamentos de quimioterapia convencionais.
+D) Porque não possuem a capacidade de formar uma massa tumoral coesa.
+G: B
+C: Esses tumores se originam de células formadoras de sangue que naturalmente entram na corrente sanguínea e alcançam locais distantes, tornando-os disseminados por natureza.
+
+Q: No caso de metástases ósseas de câncer de mama, como as células tumorais manipulam o microambiente do osso para promover seu próprio crescimento?
+A) las se transformam em células semelhantes a osteoblastos por meio de reprogramação epigenética, construindo novo osso trabecular denso que cria um nicho protetor e vascularizado para a proliferação tumoral.
+B) Elas secretam PTHRP, que estimula os osteoclastos a degradar a matriz óssea e liberar fatores de crescimento.
+C) Elas formam uma barreira física densa de matriz extracelular fibrosa e colágeno alterado, que bloqueia a infiltração de linfócitos T e macrófagos.
+D) Elas competem diretamente com as células da medula óssea por nutrientes, causando sua morte.
+G: B
+C: A célula tumoral secreta PTHRP, que estimula os osteoblastos a produzirem RANKL, que por sua vez ativa os osteoclastos, cuja atividade de degradação óssea libera fatores que beneficiam o tumor.
