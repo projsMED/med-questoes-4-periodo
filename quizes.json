@@ -152,11 +152,6 @@
               },
               {
                 "type": "file",
-                "name": "3.2. Neoplasias - Parte 3.txt",
-                "path": "quizes-da-nuvem/Tutorias/1º Bimestre/Originais do Robbins/3.2. Neoplasias - Parte 3.txt"
-              },
-              {
-                "type": "file",
                 "name": "4.0. Neoplasias - Parte 1.txt",
                 "path": "quizes-da-nuvem/Tutorias/1º Bimestre/Originais do Robbins/4.0. Neoplasias - Parte 1.txt"
               },
@@ -164,6 +159,11 @@
                 "type": "file",
                 "name": "4.1. Neoplasias - Parte 2.txt",
                 "path": "quizes-da-nuvem/Tutorias/1º Bimestre/Originais do Robbins/4.1. Neoplasias - Parte 2.txt"
+              },
+              {
+                "type": "file",
+                "name": "4.2. Neoplasias - Parte 3.txt",
+                "path": "quizes-da-nuvem/Tutorias/1º Bimestre/Originais do Robbins/4.2. Neoplasias - Parte 3.txt"
               }
             ]
           },
