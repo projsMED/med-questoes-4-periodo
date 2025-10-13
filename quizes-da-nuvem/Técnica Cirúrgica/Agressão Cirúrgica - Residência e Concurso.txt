@@ -1,0 +1,109 @@
+Q: A REMIT (Resposta Metabólica e Imunológica ao Trauma) é uma tentativa de manutenção da homeostase corpórea frente a um traumatismo orgânico sistêmico. No que diz respeito a essa condição, é correto afirmar:
+A) os hormônios que promovem o catabolismo estão com níveis séricos aumentados, com destaque para a insulina.
+B) o cortisol apresenta-se aumentado, com consequente anabolismo proteico incrementado.
+C) o ADH pode se elevar até 50 vezes de seu valor basal e atua na reabsorção de água e vasoconstrição esplâncnica.
+D) essa condição gera expressivo aumento de citocinas anti-inflamatórias e consequente diminuição de citocinas pró-inflamatórias.
+E) REMIT é uma resposta a grandes insultos, como cirurgias de grande porte, politraumatismos e grandes queimaduras, não sendo recomendada a reposição volêmica inicial.
+G: C
+C: O ADH (ou vasopressina) é liberado pela neuro-hipófise e sua concentração eleva-se rapidamente após o estresse cirúrgico e costuma normalizar-se dentro de 2 a 3 dias. Para “diminuir a diurese”, o hormônio antidiurético promove a reabsorção de água livre dos túbulos distais e coletores dos rins. Além disso, em casos de hemorragia ou hipovolemia, ele promove a vasoconstrição do sistema esplâncnico. Além dos efeitos na reabsorção de água, a vasopressina estimula a gliconeogênese hepática e a glicogenólise.
+A insulina é  um dos principais hormônios anabólicos, já que promove a glicogênese e a captação de glicose pelos músculos e pela gordura. No período pós-estresse, a concentração sérica de insulina encontra-se diminuída.
+O cortisol realmente está aumentado na REMIT, mas promove catabolismo proteico.
+O cortisol promove a lipólise, com consequente catabolismo lipídico; a proteólise, com catabolismo proteico; e a gliconeogênese hepática. O cortisol também é responsável por aumentar a resistência periférica à insulina, o que favorece a hiperglicemia.
+Na REMIT há uma liberação importante das citocinas pró-inflamatórias (principais: TNF, IL-1, IL-6, IL-8 e IL-12). E as citocinas anti-inflamatórias são liberadas com o papel de regulação da duração e da magnitude da resposta inflamatória (principais: IL-4, IL-10, IL-11, IL-13 e TGF-B)
+É primordial a reposição volêmica nos grandes insultos ao organismo. Lembre-se que com a secreção aumentada do ADH, há diminuição da diurese.
+
+Q: A resposta endocrinometabólica e imunológica ao trauma (REMIT) corresponde a uma serie de alterações no organismo que tem como objetivo manter a homeostase e a vida. Com relação a esse processo, assinale a alternativa CORRETA:
+A) Inicialmente ocorre uma fase catabólica que tem como objetivo fornecer glicose para a utilização das células através da glicogenólise e gliconeogênese. Nessa fase, há um aumento de hormônios como catecolaminas, cortisol e insulina. 
+B) Essa resposta deveria ser fisiológica, porém quando as lesões são graves ou ocorre uma infecção secundária, pode haver perda maciça do tecido do organismo e disfunção de múltiplos órgãos. 
+C) A proteólise tem como objetivo a liberação de aminoácidos que serão utilizadas na glicogenólise para ser convertida em glicose.
+D) A REMIT pode ser atenuada através da via de acesso laparoscópica e da raquianestesia. 
+E) Dentre as consequências da REMIT, ocorridas no pós operatório, pode-se citar: íleo paralitico, febre, edema de ferida operatória e hipoglicemia. 
+G: B
+C:
+{A}) -> A insulina é liberada pelas células β-pancreáticas em resposta à alimentação ou aumento da glicemia. É um dos principais hormônios anabólicos, já que promove a glicogênese e a captação de glicose pelos músculos e pela gordura. 
+No período pós-estresse, a concentração sérica de insulina encontra-se diminuída. Isto se deve em parte pela ação das catecolaminas, cuja estimulação α2-adrenérgica inibe a produção da insulina nas células β-pancreáticas.
+{B}) -> A resposta ao estresse existe como um espectro de disfunção orgânica causada por uma resposta desregulada do hospedeiro à infecção. Na ausência de infecção (por exemplo, pancreatite), uma resposta exagerada ao estresse pode resultar em um grau semelhante de disfunção orgânica. 
+Assim, a disfunção orgânica (isto é, lesão renal aguda) no paciente pós-operatório pode não refletir a ressuscitação fluida inadequada; em vez disso, tal disfunção pode ser uma manifestação de uma resposta patológica ao estresse à doença subjacente ou à cirurgia.
+{C}) -> Os aminoácidos liberados na proteólise são utilizados na GLICONEOGÊNESE, que é a geração de glicose através de substratos não-carboidratos.
+{D}) -> A liberação de citocinas é reduzida em cirurgias menos invasivas, como técnicas laparoscópicas, levando a uma recuperação e alta mais rápidas. A anestesia EPIDURAL, e não a raquianestesia, pode atenuar a resposta ao estresse cirúrgico.
+{E}) -> Um dos marcos da REMIT é a HIPERGLICEMIA, necessária para o período de intenso catabolismo que se instala no período pós-operatório.
+
+Q: Quanto a fase inicial de resposta metabólica ao trauma marque a correta:
+A) Há aumento do débito cardíaco.
+B) Há aumento da perfusão tecidual.
+C) Há diminuição do metabolismo.
+D) Há aumento da temperatura corpórea.
+G: C
+
+Q: A Resposta Endócrino-Imuno-Metabólica ao Trauma Cirúrgico envolve uma série de fatores biológicos na tentativa de diminuir danos de agressão cirúrgica, combater o contato com agentes externos e restabelecer a homeostase do organismo. A resposta inflamatória é inevitável em um ato cirúrgico e, atualmente, busca-se reduzir a sua intensidade e seus efeitos para a boa recuperação pós-operatória do paciente cirúrgico. Dentro desse contexto, citocinas são pequenas proteínas ou glicoproteínas secretadas, para alterar a função das células- alvo de uma maneira endócrina (incomum), parácrina ou autócrina. Assinale a alternativa CORRETA que apresente as citocinas pró- inflamatórias, que atuam no trauma cirúrgico:
+A) INF-gama, IL-6, IL-13
+B) IL-6, IL-4, TNF-beta
+C) IL-10, TGF-beta, IL-4
+D) IL-1, IL-6, TNF
+E) lL-13, IL-12, INF-gama
+G: D
+C: A resposta sistêmica ao trauma é um conjunto de ações hormonais e metabólicas que visa manter e/ou restaurar a homeostase, principalmente a parte hemodinâmica, aporte de oxigênio aos tecidos, a mobilização de substratos visando o aporte energético, a diminuição da dor e a manutenção térmica.
+Na resposta ao trauma, temos citocinas pró-inflamatórias e citocinas anti-inflamatórias. O balanço fino entre essas duas atividades antagônicas é necessário para que haja uma resposta equilibrada. 
+• As principais citocinas anti-inflamatórias são: IL-4, IL-10, IL-11, IL-13, TGF (Fator de crescimento transformador)-β.
+• As principais citocinas inflamatórias são: IL-1, IL-6 e TNF.
+
+Q: Sobre o Metabolismo em cirurgia e seus mecanismos de resposta (REMIT), assinale a alternativa que contém um mecanismo de resposta metabólica ao trauma cirúrgico:
+A) volemia.
+B) débito cardíaco.
+C) oxigenação.
+D) neuroendócrina.
+E) escala de Coma de Glasgow abaixo de 10.
+G: D
+
+Q: Na resposta endócrino-metabólica ao trauma, o padrão hidroeletrolítico mais encontrado é:
+A) Poliúria, excreção aumentada de potássio e retenção de sódio.
+B) Oligúria, retenção de potássio e excreção aumentada de sódio.
+C) Oligúria, excreção aumentada de potássio e retenção de sódio.
+D) Oligúria, retenção de potássio e retenção de sódio. 
+E) Poliúria, retenção de potássio e excreção diminuída de sódio.
+G: C
+C: Na resposta ao estresse cirúrgico (a clássica resposta endócrino-metabólica-inflamatória ao trauma), os principais hormônios que agem na parte hidroeletrolítica são a ALDOSTERONA e o HORMÔNIO ANTI-DIURÉTICO. <br>
+A renina é secretada pelas células justaglomerulares do rim em resposta a um estímulo simpático eferente. O estímulo principal a sua secreção parece advir principalmente das alterações hemodinâmicas do que da estimulação dolorosa. Sua principal ação é a conversão da angiotensina em angiotensina II, que estimula o córtex da adrenal a produzir a ALDOSTERONA. A aldosterona é o principal mineralocorticoide e sua função consiste em promover a troca de potássio e hidrogênio plasmático por sódio. Dessa forma, há maior retenção de água e reabsorção de bicarbonato.<br> 
+Para “diminuir a diurese”, o hormônio anti-diurético promove a reabsorção de água livre dos túbulos distas e coletores dos rins. Além disso, em casos de hemorragia ou hipovolemia, ele promove a vasoconstrição do sistema esplâncnico.<br>
+Portanto, na resposta ao trauma, nós temos uma urina com baixa concentração de sódio, alta concentração de potássio e ácida, pela excreção de íons hidrogênio. Neste período, também é possível observar uma HIPOCALEMIA.
+
+Q: A reação metabólica ao trauma é caracterizada por uma série de alterações neurohormonais que têm a finalidade de iniciar o processo de regeneração orgânica. 
+
+Dos fatores abaixo, qual faz parte dessa reação?
+A) Aumento da secreção de tiroxina.
+B) Aumento da secreção de hormônio antidiurético.
+C) Redução da secreção de cortisol.
+D) Redução da secreção de catecolaminas.
+G: B
+C: O hormônio antidiurético (ADH), também conhecido como vasopressina, é um hormônio secretado pela hipófise posterior (ou neuro-hipófise). Além do seu efeito antidiurético, ele é um potente vasopressor. No período pós-operatório, a sua secreção encontra-se AUMENTADA.
+Em resposta ao trauma, os níveis circulantes de noradrenalina e adrenalina encontram-se 4 a 5 vezes mais altos que seus valores basais.
+As catecolaminas tem efeito cardiovascular importante, aumentando a frequência cardíaca, contratilidade miocárdica, velocidade de condução, pressão sanguínea (através da vasoconstrição periférica) e aumento do fluxo sanguíneo para a musculatura esquelética.
+No aparelho respiratório, as catecolaminas promovem aumento da frequência respiratória e broncodilatação, com consequente aumento do volume-minuto.
+As catecolaminas tem efeitos metabólicos importantes, sendo um dos principais hormônios catabólicos em resposta ao trauma. estimulam a glicólise hepática, a glicogenólise e a gliconeogênese e aumentam a produção de lactato a partir dos tecidos periféricos (músculo esquelético), aumentam a liberação de aminoácidos pelo tecido muscular, aumentam a atividade metabólica, estimulam a lipólise e a liberação de ácidos graxos.
+
+Q: Em relação à resposta endócrina e metabólica ao trauma, assinale a alternativa correta.
+A) O hormônio antidiurético (ADH) diminui nos estágios iniciais do trauma, contribuindo para a retenção de água e redução da diurese.
+B) A concentração de insulina no sangue tende a aumentar após o trauma, promovendo o catabolismo de glicose para garantir um suprimento contínuo de energia.
+C) A produção de hormônio do crescimento (GH) diminui após o trauma, reduzindo a síntese de proteínas e o crescimento celular.
+D) O hormônio tireoidiano (T3 e T4) permanece inalterado durante o trauma, uma vez que não é afetado por respostas ao estresse.
+E) O hormônio cortisol é liberado em resposta ao trauma, ajudando a mobilizar energia através da gliconeogênese e da lipólise.
+G: E
+C: No estado de pós-operatório, o paciente apresenta alterações hormonais referentes à resposta endócrino metabólica e imunológica ao trauma (REMIT), visando a manutenção da homeostase, o menor consumo energético inicial, e o direcionamento de nutrientes e oxigênio para tecidos mais importantes na situação, sobretudo na fase aguda (em geral , as primeiras 72 horas).
+Vamos relembrar os principais hormônios envolvidos e entender suas concentrações na resposta inflamatória ao trauma:
+- hormônio antidiurético: aumentado → objetivo: reabsorver água e aumentar o volume corrente;
+- sistema renina-angiotensina-aldosterona: aumentado → há liberação de renina, que estimula produção de angiotensina (ação vasoconstritora → aumentar retorno venoso), a qual induz liberação de aldosterona (reabsorção de água → aumentar o volume corrente);
+- cortisol: aumentado → objetivo é disponibilizar aminoácidos, a partir da degradação proteica (catabolismo proteico), para síntese de proteína na área lesada, para produção de células de defesa e para produção de citocinas; O cortisol promove a lipólise, com consequente catabolismo lipídico; a proteólise, com catabolismo proteico; e a gliconeogênese hepática. O cortisol também é responsável por aumentar a resistência periférica à insulina, o que favorece a hiperglicemia.
+- catecolaminas (adrenalina e noradrenalina): aumentadas → objetivo: vasoconstrição periférica, aumentando retorno venoso; estimula o aumento dos níveis glicêmicos, aumentar a atividade metabólica, estimular a produção de ACTH pela hipófise, além de produzir vasoconstrição e aumento do débito cardíaco
+- insulina: diminuída na fase de choque (evitar seu efeito anabólico) e normal ou aumentada na fase de fluxo (aumento do metabolismo);
+- glucagon: aumentado → objetivo: disponibilização de glicose para produção energética. O aumento da glicemia é secundário à gliconeogênese e à glicogenólise, assim como a redução na produção e aumento da resistência periférica à insulina. Esses eventos são regulados, principalmente, pela ação das catecolaminas e do glucagon.
+- GH: aumentado → objetivo: lipólise, redução da captação de glicose pela célula, glicogenólise hepática, aumento do sistema imunológico;
+- ACTH (corticotrofina): aumentado → objetivo: estimular produção de cortisol, que é responsável por mobilizar aminoácidos do músculo esquelético e estimular a gliconeogênese hepática, ao mesmo tempo que inibe a captação de aminoácidos para síntese proteica.
+- T3: tendem a diminuir, voltando a valores normais após alguns dias. 
+
+Q: Sobre resposta endócrino metabólica ao trauma, qual dos hormônios abaixo tem sua atividade reduzida:
+A) Cortisol
+B) Insulina
+C) Aldosterona
+D) Catecolaminas
+E) Todas as respostas anteriores
+G: B

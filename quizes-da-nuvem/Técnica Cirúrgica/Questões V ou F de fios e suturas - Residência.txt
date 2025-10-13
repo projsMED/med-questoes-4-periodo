@@ -1,0 +1,376 @@
+INFO: Todas as assertivas foram tiradas e adaptadas de alternativas de questões de residência/concurso.
+
+<variantes>
+Q: O fio de PDS é monofilamentar e absorvível.
+G: V
+
+Q: O fio de PDS é monofilamentar e inabsorvível.
+G: F
+C: É absorvível.
+</variantes>
+
+
+<variantes>
+Q: O fio de categute é um dos que causam grande reação tecidual.
+G: V
+C: O fio categute, por sua origem orgânica, apresenta maiores reações teciduais.
+
+Q: O fio de categute é um dos que causam menor reação tecidual.
+G: F
+C: O fio categute, por sua origem orgânica, apresenta <b>maiores reações teciduais</b>.
+</variantes>
+
+
+<variantes>
+Q: O fio de Monocryl é monofilamentar e produz reação tecidual mínima.
+G: V
+
+Q: O fio de Monocryl é monofilamentar e produz reação tecidual mínima.
+G: V
+
+Q: O fio de Monocryl é multifilamentar e produz intensa reação tecidual.
+G: F
+C: O fio de Monocryl é <b>monofilamentar</b> e produz <b>reação tecidual mínima</b>.
+
+Q: O fio de Monocryl é monofilamentar e produz intensa reação tecidual.
+G: F
+C: O fio de Monocryl é monofilamentar e produz <b>reação tecidual mínima</b>.
+</variantes>
+
+Q: O fio de Vicryl (poligleprone) permanece com sua força tênsil em mais de 50% em 5 semanas.
+G: F
+C: O Vicryl possui força tênsil de 28 a 35 dias e absorção previsível em 56 a 70 dias. É um fio de fácil manuseamento, que permite dar nós seguros e de fácil execução, com boa passagem pelos tecidos e pouco traumatismo tecidual. Além disso, por ser sintético, causa pouca reacção de corpo estranho.
+
+<variantes>
+Q: O Náilon é um fio considerado inabsorvível, porém é considerado absorvido pelo organismo em cerca de 5 anos por hidrólise; habitualmente indicado para o fechamento da pele e suturas sob tensão como nos tendões.
+G: V
+C: Devido à sua alta resistência à tração, elasticidade e à mínima reação inflamatória que provoca, o Náilon é ideal para suturas que necessitam de suporte prolongado ou que estão sob tensão.
+
+Q: O Náilon é um fio considerado inabsorvível, não sendo absorvido pelo organismo; habitualmente indicado para o fechamento da pele e suturas sob tensão como nos tendões.
+G: F
+C: O Náilon é um fio considerado inabsorvível, porém é <b>considerado absorvido pelo organismo em cerca de 5 anos por hidrólise</b>; habitualmente indicado para o fechamento da pele e suturas sob tensão como nos tendões.<br>
+Devido à sua alta resistência à tração, elasticidade e à mínima reação inflamatória que provoca, o Náilon é ideal para suturas que necessitam de suporte prolongado ou que estão sob tensão.
+</variantes>
+
+
+<variantes>
+Q: O Categute simples é obtido a partir da camada serosa do intestino delgado de bovinos considerado absorvível, e é conservado em solução própria contendo álcool isopropílico que utilizada como um agente amaciante, que mantém a maleabilidade e flexibilidade do fio.
+G: V
+
+Q: O Categute simples é obtido a partir da camada serosa do intestino delgado de bovinos considerado absorvível, e é conservado em solução própria contendo álcool isopropílico que utilizada para esterilizar o fio e mantê-lo estéril. 
+G: F
+C: A solução de conservação realmente contém álcool isopropílico. No entanto, sua função principal não é esterilizar o fio, que já passa por um processo de esterilização. <b>A solução serve como um agente amaciante, que mantém a maleabilidade e flexibilidade do fio</b>. A esterilidade é garantida pelo processo de fabricação e pela embalagem hermética.
+</variantes>
+
+
+<variantes>
+Q: O categute simples não é indicado para suturas cutâneas e intradérmicas, pois causa reatividade tissular que pode comprometer a qualidade estética da sutura.
+G: V
+
+Q: O categute simples é indicado para suturas cutâneas e intradérmicas, pois causa pouca reatividade tissular, favorecendo a qualidade estética da sutura.
+G: F
+C: O categute simples não é indicado para suturas cutâneas e intradérmicas, pois causa reatividade tissular que pode comprometer a qualidade estética da sutura.
+</variantes>
+
+Q: O categute simples é considerado um fio absorvível, tem a resistência diminuída ao final da segunda semana, e totalmente absorvida em até 60 dias por hidrólise. 
+G: F
+
+<variantes>
+Q: O fio de polipropileno é inabsorvível, monofilamentar e não sofre biodegradação pelo organismo. Tem pouca reação tissular e boa resistência à tração.
+G: V
+
+Q: O fio de polipropileno é inabsorvível, monofilamentar e não sofre biodegradação pelo organismo e, por isso, tem muita reação tissular e pouca resistência à tração.
+G: F
+C: Tem pouca reação tissular e boa resistência à tração.
+</variantes>
+
+Q: O fio de poliéster é inabsorvível, monofilamentado, que não sofre biodegradação pelo organismo, pode apresentar escorregamento na fixação dos nós e requer, no mínimo, quatro nós.
+G: F
+
+<variantes>
+Q: O fio de algodão é inabsorvível, mulfilamentar, de origem vegetal, e podem ser misturados a fibras de poliéster, ganhando assim maior maleabilidade, maior resistência à tração e menor degradação pelo organismo.
+G: V
+
+Q: O fio de algodão é absorvível, mulfilamentar, de origem vegetal, e podem ser misturados a fibras de poliéster, ganhando assim maior maleabilidade, maior resistência à tração e menor degradação pelo organismo.
+G: F
+C: O fio de algodão é <b>inabsorvível</b>.
+
+Q: O fio de algodão é absorvível, mulfilamentar, de origem vegetal, e podem ser misturados a fibras de poliéster, ganhando assim maior maleabilidade, maior resistência à tração e maior degradação pelo organismo.
+G: F
+C: O fio de algodão é <b>inabsorvível</b>, mulfilamentar, de origem vegetal, e podem ser misturados a fibras de poliéster, ganhando assim maior maleabilidade, maior resistência à tração e <b>menor</b> degradação pelo organismo.
+</variantes>
+
+<variantes>
+Q: O fio cirúrgico Poliglactina com estearato de cálcio (Vicryl®) tem tempo de absorção menor do que Polidioxanona (PDS®).
+G: V
+C: Em média a absorção do fio Polidioxanona (PDS®) inicia após 90 dias e termina após 180 dias. Vicryl cerca de 50% do fio é absorvido por hidrólise após o 28º dia pós-operatório e 100% após o 70º dia.
+
+Q: O fio cirúrgico Poliglactina com estearato de cálcio (Vicryl®) tem tempo de absorção maior do que Polidioxanona (PDS®).
+G: F
+C: O fio cirúrgico Poliglactina com estearato de cálcio (Vicryl®) tem tempo de absorção <b>menor</b> do que Polidioxanona (PDS®).<br>
+Em média a absorção do fio Polidioxanona (PDS®) inicia após 90 dias e termina após 180 dias. Vicryl cerca de 50% do fio é absorvido por hidrólise após o 28º dia pós-operatório e 100% após o 70º dia.
+</variantes>
+
+Q: Categute cromado tem tempo de absorção menor do que categute simples.
+G: F
+C: Categute cromado tem tempo de absorção <b>maior</b> do que categute simples.
+
+<variantes>
+Q: Polipropileno (Prolene) não é um fio adequado para ser usado para sutura de vias biliares ou vias urinárias.
+G: V
+C: Fios inabsorvíveis, teoricamente, não devem ser aplicados para sutura de vias biliares ou urinárias.
+
+Q: Polipropileno (Prolene) é um fio adequado para ser usado para sutura de vias biliares ou vias urinárias.
+G: F
+C: Fios inabsorvíveis, teoricamente, não devem ser aplicados para sutura de vias biliares ou urinárias.
+</variantes>
+
+Q: Poliglactina 910 (Vicryl) é um fio adequado para ser usado para sutura de vias biliares ou vias urinárias.
+G: V
+
+<variantes>
+Q: Categute simples e cromado são fios adequados para serem usados para sutura de vias biliares ou vias urinárias.
+G: V
+
+Q: Categute simples e cromado não são fios adequados para serem usados para sutura de vias biliares ou vias urinárias.
+G: F
+C: São adequados, pois são absorvíveis.
+</variantes>
+
+
+<variantes>
+Q: As fitas adesivas são opções para fechamento da pele sob baixa tensão e em feridas limpas; evitá-las em feridas contaminadas ou sob alta tensão.
+G: V
+
+Q: As fitas adesivas são opções para o fechamento da pele sob maior tração, mesmo que de feridas contaminadas.
+G: F
+C: Fitas adesivas são opções para fechamento da pele sob baixa tensão e em feridas limpas; evitá-las em feridas contaminadas ou sob alta tensão.
+</variantes>
+
+Q: O fio de nylon monofilamentar aumenta a incidência de infecção no leito cirúrgico. 
+G: F
+C: O nylon monofilamentar não aumenta a infecção; em geral reduz o risco em relação a multifilamentos.
+
+<variantes>
+Q: Os fios de seda são multifilamentares e perdem força com o tempo.
+G: V
+
+Q: Os fios de seda são multifilamentares e não perdem força com o tempo, sendo ideais para suturar enxertos.
+G: F
+C: Seda é multifilamentar, capilariza, causa mais reação e <b>perde força ao longo do tempo</b> (apesar de classificada como não absorvível). Não é ideal para suturar enxertos (p. ex., enxertos vasculares preferem polipropileno; enxertos de pele costumam usar nylon ou grampos).
+</variantes>
+
+
+<variantes>
+Q: Considerando os tipos de fios e técnicas de suturas, o material utilizado para fechamento ósseo após esternotomia é o fio de aço.
+G: V
+
+Q: Considerando os tipos de fios e técnicas de suturas, o material utilizado para fechamento ósseo após esternotomia é o fio de seda.
+G: F
+C: É o fio de aço.
+</variantes>
+
+Q: Categute simples é obtido a partir da camada submucosa de ovelhas (no caso dos países asiáticos) ou da camada serosa do intestino delgado de bovinos (no caso do categute fabricado no Brasil).
+G: V
+
+Q: O material do fio categute simples tem seu colágeno purificado várias vezes com o objetivo de eliminar proteínas indesejáveis. Esse procedimento aumenta a reação inflamatória do tecido que se submete à sutura.
+G: F
+C: Minimiza a reação inflamatória.
+
+<variantes>
+Q: Categute simples não é um fio indicado para tecidos de cicatrização demorada como parênquima pulmonar e hepático.
+G: V
+
+Q: Categute simples é um fio indicado para tecidos de cicatrização demorada como parênquima pulmonar e hepático.
+G: F
+C: Não é indicado.
+</variantes>
+
+Q: Prolipropileno é um fio adequado para reparo de tensões.
+G: V
+
+Q: Prolipropileno está indicado para anastomoses intestinais e para a realização de anastomoses vasculares.
+G: V
+
+<variantes>
+Q: O fio polipropileno pode ser utilizado em tecidos infectados.
+G: V
+
+Q: O fio polipropileno não pode ser utilizado em tecidos infectados.
+G: F
+C: O fio polipropileno <b>pode</b> ser utilizado em tecidos infectados.
+</variantes>
+
+
+<variantes>
+Q: O polipropileno é um fio de sutura de origem sintético, é monofilamentar, possui pouca reação tecidual e por ter pequeno coeficiente de atrito é um fio ideal para sutura intradérmica.
+G: V
+
+Q: O polipropileno é um fio de sutura de origem sintético, é multifilamentar, possui grande reação tecidual e por ter pequeno coeficiente de atrito é um fio ideal para sutura intradérmica..
+G: F
+C: O polipropileno é um fio de sutura de origem sintético, é <b>monofilamentar</b>, possui <b>pouca reação tecidual</b> e por ter pequeno coeficiente de atrito é um fio ideal para sutura intradérmica.
+</variantes>
+
+Q: O nylon geralmente é um fio monofilamentado, com baixa memória, inabsorvível e muito utilizado para a sutura de pele.
+G: F
+C: O fio de nylon é muito utilizado para a sutura de pele, é um fio sintético, monofilamentar, não absorvível e de <b>ALTA memória</b>.
+
+Q: O ácido poligaláctico é um fio de origem sintética, também conhecido como vicryl.
+G: V
+
+Q: A polidioxanona é um fio absorvível, multifilamentar, que pode ser utilizado no fechamento da mucosa oral.
+G: F
+C: A polidioxanona ou PDS é um fio absorvível, <b>monofilamentar</b>, de <b>longa duração</b>. Tipicamente, não utilizamos esse tipo de sutura em mucosas, pelo tempo que leva para sua absorção completa. <b>Um mais adequado seria Poligalactina ou categute.</b>
+
+Q:
+
+<variantes>
+Q: 
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+
+<variantes>
+Q:
+G:
+
+Q:
+G:
+C:
+</variantes>
+
+

@@ -1,0 +1,243 @@
+
+<variantes>
+Q: As três fases da cicatrização de feridas são inflamação, proliferação e maturação.
+G: V
+
+Q: As três fases da cicatrização de feridas são inflamação, proliferação e regeneração.
+G: F
+C: Inflamação, proliferação e maturação.
+</variantes>
+
+Q: Durante a hemostasia, o TGF-B catalisa a conversão do fibrinogênio em fibrina.
+G: F
+C: Durante a hemostasia, a <b>trombina</b> catalisa a conversão do fibrinogênio em fibrina
+
+Q: São achados clínicos clássicos da inflamação: Rubor (vermelhidão), tumor (inchaço), sangramento e dor.
+G: F
+C: Calor em vez de sangramento. Dependendo da literatura pode-se adicionar também perda de função.
+
+
+<variantes>
+Q: O papel das moléculas de integrina na migração dos neutrófilos (PMNs) da corrente sanguínea para o tecido lesionado é que são receptores na superfície celular que interagem com a MEC, permitindo a adesão e o movimento.
+G: V
+
+Q: O papel das moléculas de integrina na migração dos neutrófilos (PMNs) da corrente sanguínea para o tecido lesionado é que são receptores intracelulares que interagem com a MEC, permitindo a adesão e o movimento.
+G: F
+C: São receptores na superfície celular.
+</variantes>
+
+Q: As plaquetas liberam fatores biologicamente ativos de duas fontes distintas: grânulos alfa e corpos densos.
+G: V
+
+<variantes>
+Q: Os queloides crescem além das bordas da ferida original, enquanto as cicatrizes hipertróficas permanecem dentro dos limites da lesão.
+G: V
+
+Q: As cicatrizes hipertróficas crescem além das bordas da ferida original, enquanto os quelóides permanecem dentro dos limites da lesão.
+G: F
+C: Os queloides crescem além das bordas da ferida original, enquanto as cicatrizes hipertróficas permanecem dentro dos limites da lesão.
+
+</variantes>
+
+<variantes>
+Q: Na fase inflamatória, o papel do Fator de Necrose Tumoral Alfa (TNF−α) é regular as moléculas de adesão da superfície celular, promovendo a interação entre células imunes e o endotélio.
+G: V
+
+Q: Na fase inflamatória, o papel do Fator de Necrose Tumoral Alfa (TNF−α) é regular as moléculas de adesão da superfície celular, promovendo a interação entre células imunes e as bactérias.
+G: F
+C: Promovendo a interação entre células imunes e o <b>endotélio</b>.
+
+Q: Na fase inflamatória, o papel do Fator de Necrose Tumoral Alfa (TNF−α) é acelerar a síntese de colágeno tipo I para fortalecer a ferida precocemente.
+G: F
+C: Regular as moléculas de adesão da superfície celular, promovendo a interação entre células imunes e o endotélio.
+</variantes>
+
+<variantes>
+Q: Ácido hialurônico é um fator, persistentemente elevado em feridas fetais, que facilita a migração celular.
+G: V
+
+Q: Fator de Crescimento Transformador Beta (TGF−β) é um fator, persistentemente elevado em feridas fetais, que facilita a migração celular.
+G: F
+C: Níveis diminuídos de TGF−β nas feridas fetais podem ser um fator na redução da cicatrização, e não níveis elevados.
+<b>Ácido hialurônico</b> é um fator, persistentemente elevado em feridas fetais, que facilita a migração celular.
+
+</variantes>
+
+<variantes>
+Q: O diabetes melito prejudica a cicatrização de feridas através da oclusão vascular, neuropatia sensorial e função leucocitária prejudicada.
+G: V
+
+Q: O diabetes melito prejudica a cicatrização de feridas diminuindo os níveis de glicose no tecido, o que priva as células de energia para o reparo.
+G: F
+C: O diabetes melito prejudica a cicatrização de feridas através da oclusão vascular, neuropatia sensorial e função leucocitária prejudicada.
+</variantes>
+
+<variantes>
+
+Q: Um dos principais benefícios da <b>Terapia de Feridas por Pressão Negativa (TFPN)</b> é depositar seletivamente colágeno tipo I para aumentar a força tênsil da ferida desde o início.
+G: F
+C: A TFPN promove a formação de tecido de granulação de forma geral, mas não atua seletivamente na deposição de um tipo específico de colágeno.
+O principal benefício é: <b>Remover o edema, aumentar o fluxo sanguíneo local e estimular a formação de tecido de granulação</b>.
+
+</variantes>
+
+<variantes>
+Q: A função das integrinas na migração celular, como a dos neutrófilos (PMNs), é que elas são receptores de superfície celular que se ligam a componentes da MEC, fornecendo adesão e transduzindo sinais para a motilidade.
+G: V
+
+Q: A função das integrinas na migração celular, como a dos neutrófilos (PMNs), é que elas atuam como enzimas que degradam a matriz extracelular para abrir caminho.
+G: F
+C: São receptores de superfície celular que se ligam a componentes da MEC, fornecendo adesão e transduzindo sinais para a motilidade.
+</variantes>
+
+<variantes>
+Q: No processo de reepitelização queratinócitos das bordas da ferida e apêndices dérmicos migram sobre a matriz provisória para cobrir o defeito.
+G: V
+
+Q: No processo de reepitelização células-tronco da corrente sanguínea se depositam na ferida e formam uma nova epiderme.
+G: F
+C: No processo de reepitelização <b>queratinócitos</b> das bordas da ferida e apêndices dérmicos migram sobre a matriz provisória para cobrir o defeito.
+</variantes>
+
+Q: Os glicocorticoides (esteroides) afetam negativamente a cicatrização prejudicando a proliferação de fibroblastos e a síntese de colágeno.
+G: V
+C: Resultando em menor formação de tecido de granulação.
+
+
+<variantes>
+Q: O papel do fator de crescimento endotelial vascular (VEGF) na cicatrização de feridas é que tem potente atividade angiogênica, promovendo a formação de novos vasos sanguíneos.
+G: V
+
+Q: O papel do fator de crescimento endotelial vascular (VEGF) na cicatrização de feridas é que inibe a proliferação de queratinócitos para prevenir a formação de cicatrizes hipertróficas e é o principal quimiotático para neutrófilos na fase inflamatória.
+G: F
+C: O papel do fator de crescimento endotelial vascular (VEGF) na cicatrização de feridas é que tem <b>potente atividade angiogênica</b>, promovendo a formação de novos vasos sanguíneos.
+</variantes>
+
+
+<variantes>
+Q: O papel do fator de crescimento derivado de plaquetas (PDGF) é que estimula a síntese de colágeno e proteoglicanos pelos fibroblastos.
+G: V
+
+Q: O papel do fator de crescimento derivado de plaquetas (PDGF) é que induz a apoptose de neutrófilos para dar início à transição para a fase proliferativa.
+G: F
+C: A indução da apoptose de neutrófilos é mais associada à chegada dos macrófagos, não ao PDGF diretamente.
+O papel é que é que <b>estimula a síntese de colágeno e proteoglicanos pelos fibroblastos</b>.
+</variantes>
+
+Q: O efeito do tabagismo na cicatrização de feridas é que promove a adesão plaquetária e a oclusão microvascular trombótica.
+G: V
+C: A nicotina inibe a <b>prostaciclina</b>, o que promove a adesão plaquetária, levando à oclusão de pequenos vasos e isquemia.
+
+<variantes>
+Q: A regeneração é a restauração perfeita da arquitetura tecidual sem cicatriz, enquanto o reparo sacrifica a perfeição para acelerar o retorno à função, resultando em cicatriz.
+G: V
+
+Q: A regeneração é a restauração imperfeita da arquitetura tecidual sem cicatriz, enquanto o reparo sacrifica a perfeição para acelerar o retorno à função, resultando em cicatriz.
+G: F
+C: <b>A regeneração é a restauração perfeita</b> da arquitetura tecidual sem cicatriz, enquanto o reparo sacrifica a perfeição para acelerar o retorno à função, resultando em cicatriz.
+
+Q: A principal diferença entre 'reparo' e 'regeneração' de feridas é que o reparo envolve apenas a epiderme, enquanto a regeneração envolve a derme.
+G: F
+C: A regeneração é a restauração perfeita da arquitetura tecidual sem cicatriz, enquanto o reparo sacrifica a perfeição para acelerar o retorno à função, resultando em cicatriz.
+</variantes>
+
+
+<variantes>
+Q: O papel dos linfócitos T na cicatrização de feridas, especialmente em feridas crônicas é que eles produzem IFN−γ, que suprime a síntese de colágeno e pode contribuir para a cronicidade da ferida.
+G: V
+
+Q: O papel dos linfócitos T na cicatrização de feridas, especialmente em feridas crônicas é que eles produzem IFN−γ, que estimula a síntese de colágeno, ajudando a reduzir o risco de cronicidade da ferida.
+G: F
+C: O papel dos linfócitos T na cicatrização de feridas, especialmente em feridas crônicas é que eles produzem IFN−γ, que <b>suprime a síntese de colágeno e pode contribuir para a cronicidade da ferida</b>.
+</variantes>
+
+
+<variantes>
+Q: Na formação do colágeno, a etapa ocorre no espaço extracelular, após a secreção da molécula de pró-colágeno pela célula é a clivagem dos pró-peptídeos para formar monômeros de colágeno.
+G: V
+
+Q: Na formação do colágeno, a etapa ocorre no espaço extracelular, após a secreção da molécula de pró-colágeno pela célula é a síntese das cadeias polipeptídicas de pró-alpha nos ribossomos.
+G: F
+C: A síntese das cadeias polipeptídicas é o primeiro passo e ocorre nos ribossomos ligados à membrana, sendo um processo intracelular.
+A etapa ocorre no espaço extracelular, após a secreção da molécula de pró-colágeno pela célula é a <b>clivagem dos pró-peptídeos para formar monômeros de colágeno</b>.
+</variantes>
+
+
+<variantes>
+Q: Alginatos são um tipo de curativo que é composto por fibras de polissacarídeo derivadas de algas marinhas, que formam um gel hidrofílico em contato com o exsudato da ferida.
+G: V
+
+Q: Espumas de poliuretano são um tipo de curativo que é composto por fibras de polissacarídeo derivadas de algas marinhas, que formam um gel hidrofílico em contato com o exsudato da ferida.
+G: F
+C: <b>Alginatos</b> são um tipo de curativo que é composto por fibras de polissacarídeo derivadas de algas marinhas, que formam um gel hidrofílico em contato com o exsudato da ferida.
+</variantes>
+
+Q: O Fator de Crescimento Endotelial Vascular (VEGF) é produzido por várias células durante a cicatrização, e a hipoxia no local da ferida atua como um forte inibidor de sua produção.
+G: F
+C: A hipoxia, característica da lesão tecidual, é um forte indutor inicial de fatores angiogênicos potentes como o VEGF.
+
+Q: A interface epidermodérmica em uma ferida cicatrizada é desprovida de cristas interpapilares, o que resulta em maior fragilidade e predisposição à avulsão da neoepiderme.
+G: V
+C: A perda dessa ancoragem (cristas interpapilares) torna a pele cicatrizada mais frágil em comparação com a pele normal.
+
+<variantes>
+Q: Os fibroblastos chegam à ferida por meio da diferenciação de células mesenquimais locais e não por diapedese a partir de células circulantes no sangue.
+G: V
+
+Q: Os fibroblastos chegam à ferida por diapedese a partir de células circulantes no sangue.
+G: F
+C: Os fibroblastos chegam à ferida por meio da diferenciação de células mesenquimais locais e não por diapedese a partir de células circulantes no sangue.
+</variantes>
+
+Q: A cicatrização de feridas ocorre de forma mais eficaz em um ambiente seco, pois a formação de uma crosta protege contra infecções e acelera a taxa de epitelização.
+G: F
+C: A cicatrização de feridas é mais bem-sucedida em um ambiente úmido e a epitelização sob um curativo oclusivo úmido é duas vezes mais rápida.
+
+<variantes>
+Q: Em pacientes com diabetes, a hipoxia falha em regular positivamente a expressão de VEGF, resultando em angiogênese prejudicada.
+G: V
+
+Q: Em pacientes com diabetes, a hipoxia falha em regular negativamente a expressão de VEGF, resultando em angiogênese prejudicada.
+G: F
+C: Em pacientes com diabetes, a hipoxia falha em regular <b>positivamente</b> a expressão de VEGF, resultando em angiogênese prejudicada.
+</variantes>
+
+Q: Os miofibroblastos, células com características de fibroblastos e músculo liso, desaparecem da ferida por apoptose após a contração estar completa, por volta de 4 semanas.
+G: V
+C: A actina alfa do músculo liso, característica dos miofibroblastos, aparece no 6º dia, persiste por 15 dias e desaparece em 4 semanas, quando a célula sofre apoptose.
+
+<variantes>
+Q: Ferida crônica é aquela que permanece em uma fase inflamatória sustentada e não cicatriza, impedindo a progressão para as fases de proliferação e maturação.
+G: V
+
+Q: Feridas crônicas são aquelas que permanecem em uma fase proliferativa sustentada, com excesso de deposição de colágeno e angiogênese.
+G: F
+C: Ferida crônica é aquela que "permanece em uma fase <b>inflamatória</b> sustentada e não cicatriza", impedindo a progressão para as fases de proliferação e maturação.
+</variantes>
+
+Q: O ácido hialurônico, um Glicosaminoglicano (GAG), dificulta a migração celular durante a cicatrização ao contrair fisicamente a matriz extracelular.
+G: F
+C: O ácido hialurônico, um Glicosaminoglicano (GAG), <b>facilita</b> a migração celular durante a cicatrização ao <b>expandir</b> fisicamente a matriz extracelular.
+
+Q: Os linfócitos T aparecem tardiamente na ferida (pico no 7º dia) e parecem estar mais envolvidos na cicatrização de feridas crônicas, em parte pela produção de IFN-γ.
+G: V
+
+<variantes>
+Q: A contração da ferida é o movimento centrípeto normal da pele. Já a contratura, é a constrição física ou limitação da função resultante de uma contração excessiva.
+G: V
+
+Q: A contratura da ferida é o movimento centrípeto normal da pele. Já a contração, é a constrição física ou limitação da função resultante de uma contração excessiva.
+G: F
+C: A <b>contração</b> da ferida é o movimento centrípeto normal da pele. Já a <b>contratura</b>, é a constrição física ou limitação da função resultante de uma contração excessiva.
+</variantes>
+
+Q: O zinco é um cofator necessário para polimerases de RNA e DNA, e sua deficiência, embora rara, pode prejudicar a fase inicial da cicatrização de feridas.
+G: V
+
+Q: A transição da cicatrização fetal sem cicatriz para a cicatrização com cicatriz ocorre no final do primeiro trimestre de gestação.
+G: F
+C: Início do terceiro trimestre.
+
+Q: O curativo Xeroform é hidrofílico e não oclusivo, contendo prata para atividade antimicrobiana.
+G: F
+C: Um "curativo hidrofóbico relativamente oclusivo contendo 3% de tribromofenato de bismuto em uma base de petrolato".

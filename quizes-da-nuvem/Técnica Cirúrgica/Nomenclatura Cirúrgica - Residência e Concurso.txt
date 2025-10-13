@@ -1,0 +1,310 @@
+Q: A nomenclatura cirúrgica visa indicar o procedimento cirúrgico a ser realizado, sinalizando para a equipe do centro cirúrgico o instrumental cirúrgico, os artigos, os equipamentos e os acessórios apropriados a cada tipo de cirurgia. É formada por um prefixo que designa a parte do corpo relacionada com a cirurgia e por um sufixo que indica o ato cirúrgico a ser realizado. O termo “scopia” é um sufixo que tem como significado:
+A) Punção.
+B) Fechamento.
+C) Visualização do interior do corpo.
+D) Alteração da forma e/ou função de um órgão.
+G: C
+
+Q: A nomenclatura cirúrgica é formada por um prefixo que identifica a parte do corpo e um sufixo que designa o tipo de procedimento realizado. Em relação à terminologia cirúrgica,
+A) a colecistectomia consiste na retirada de uma porção do cólon.
+B) a histerossalpingectomia é a retirada parcial ou total do útero e das tubas ou trompas uterinas.
+C) a artroplastia de quadril é uma reconstrução cirúrgica estética das coxas e nádegas.
+D) a mastectomia é a designação de implante de silicone nas mamas.
+G: B
+
+Q: É de extrema importância o instrumentador cirúrgico saber a nomenclatura cirúrgica, pois sabendo qual será a cirurgia a ser realizada, o instrumentador consegue separar o instrumental adequado a ser utilizado na cirurgia. A respeito desta nomenclatura de cirurgias, assinale a alternativa incorreta.
+A) Valvuloplastia: é a cirurgia para a reparação, em vez de substituição, de uma válvula cardíaca
+B) Laringectomia: é a cirurgia para remoção total ou parcial da língua
+C) Gastrostomia: é a cirurgia para criar uma abertura no estômago com o propósito de administrar alimentos e líquidos
+D) Apendicectomia: é a cirurgia para a remoção cirúrgica do apêndice
+G: B
+
+Q: Terminologia cirúrgica é o conjunto de termos que expressam o segmento corpóreo afetado e a intervenção realizada para tratar a afecção. A utilização de uma nomenclatura apropriada fornece definição de termos cirúrgicos, descreve os tipos de cirurgias e facilita o preparo de instrumentais e equipamentos, para cada tipo de procedimento cirúrgico. Dessa forma, os termos esplenectomia e episiotomia significam, respectivamente 
+A) remoção da próstata e incisão perineal para evitar a ruptura do períneo durante o parto.
+B) remoção do baço e incisão perineal para evitar a ruptura do períneo durante o parto.
+C) extirpação da tuba uterina e abertura da articulação.
+D) extirpação da tuba uterina e abertura da parede/cavidade torácica.
+E) remoção do baço e abertura da articulação.
+G: B
+
+Q: A nomenclatura ou terminologia cirúrgica é o conjunto de termos usados para indicar o procedimento cirúrgico. Os sufixos mais utilizados na composição da terminologia cirúrgica estão apresentados na coluna I. Estabeleça a correta correspondência com os significados dos sufixos apresentados na coluna II.
+<br>
+Coluna I:
+1 stomia
+2 ectomia
+3 pexia
+4 scopia
+<br>
+Coluna II:
+( ) retirar parcial ou totalmente um órgão.
+( ) visualização da cavidade através de parelhos especiais.
+( ) comunicar um órgão tubular ou oco com o exterior, através de uma “boca”.
+( ) fixação.
+A sequência correta, de cima para baixo, é:
+A) 1, 4, 2, 3.
+B) 3, 1, 4, 2.
+C) 2, 4, 1, 3.
+D) 1, 3, 2, 4.
+E) 4, 2, 1, 3.
+G: C
+C: STOMIA; comunicar um órgão tubular ou oco com o exterior, através de uma “boca”.<br>ECTOMIA; retirar parcial ou totalmente um órgão<br>PEXIA; fixação.<br>SCOPIA; visualização da cavidade através de parelhos especiais.
+
+Q: De acordo com a nomenclatura cirúrgica, o sufixo TOMIA significa
+A) incisão.
+B) retirada de um órgão.
+C) fixação.
+D) visualização de uma cavidade.
+E) reparação plástica.
+G: A
+
+Q: O sufixo na terminologia cirúrgica indica a intervenção cirúrgica a ser realizada. O sufixo e seu significado não encontra-se corretamente associado em: 
+A) Plastia: significa reparação plástica da forma ou função do segmento afetado
+B) Tomia: significa visualizar o interior de um órgão cavitário ou cavidade com auxílio de aparelhos especiais. 
+C) Stomia: significa fazer uma nova boca, comunicar um órgão tubular ou oco com o exterior. 
+D) Pexia: significa fixação de uma estrutura corpórea. 
+G: B
+C: Tomia: significa incisão, abertura de parede ou órgão. <br>Não confundir com:<br>Stomia: significa fazer uma nova boca, comunicar um órgão tubular ou oco com o exterior. <br>Ectomia: significa retirar parcial ou totalmente um órgão.
+
+Q: Com relação aos sufixos em terminologia cirúrgica, identifique as proposições corretas:
+I. Ectomia é a abertura cirúrgica de uma nova “boca” cavidade.
+II. Rafia é a sutura de um órgão ou tecido.
+III. Pexia é a alteração da forma de um órgão.
+IV. Scopia é a visualização de um órgão.
+V. Plastia é a fixação de um órgão.
+Assinale a alternativa, contendo as proposições verdadeiras:
+A) I, II e IV estão corretas.
+B) II e IV estão corretas.
+C) I e IV estão corretas.
+D) II, III e IV estão corretas.
+E) I, II, III, IV e V estão corretas.
+G: B
+C: ECTOMIA = RETIRADA<br>PEXIA = FIXAÇÃO<br>PLASTIA = REPARAÇÃO
+
+Q: Na terminologia cirúrgica, o sufixo que designa fixação é:
+A) ectomia
+B) pexia
+C) plastia
+D) tomia
+E) scopia
+G: B
+
+Q: Na terminologia utilizada em eventos cirúrgicos, o sufixo –ectomia significa:
+A) extirpação parcial ou total de um órgão e/ou parte do corpo
+B) reparação plástica da forma ou função de parte do corpo
+C) incisão, corte de estrutura corpórea e/ou parte do corpo
+D) fixação de uma estrutura corpórea e/ou parte do corpo
+G: A
+
+Q: Conhecer a terminologia cirúrgica durante o trabalho de Enfermagem em um Centro Cirúrgico é crucial para um serviço eficiente. Sabendo disso, é correto que:
+A) O prefixo pexias refere-se às operações de alteração da forma e/ou da função de algum órgão ou tecido.
+B) O prefixo scopias refere-se às cirurgias que revisam suturas prévias.
+C) O prefixo rafias refere-se às operações utilizada para construir ostomias.
+D) O prefixo ectomias refere-se às cirurgias para remoção de algum órgão ou tecido. 
+E) O prefixo plastias refere-se às cirurgias de fixação ou reposicionamento de algum órgão ou tecido.
+G: D
+
+Q: Terminologia cirúrgica é o conjunto de termos que expressam o segmento corpóreo afetado e a intervenção realizada para tratar a afecção. A utilização de uma terminologia apropriada fornece definição de termos cirúrgicos, descreve os tipos de cirurgias e facilita o preparo de instrumentais e equipamentos para cada tipo de procedimento cirúrgico.
+I. Prefixo Colo - Relativo ao cólon.
+II. Prefixo Colpo - Relativo à cartilage.
+III. Prefixo Entero - Relativo ao intestino delgado
+IV. Prefixo Espleno - Relativo à vesícula
+V. Sufixo Bradi - Lento
+VI. Sufixo Cele - Relativo tumor; hérnia
+Sobre as afirmativas acima, pode-se dizer que:
+A) apenas I e III estão corretas.
+B) apenas II e III estão corretas.
+C) apenas II e IV estão corretas.
+D) apenas I, III e IV estão corretas.
+E) todas estão corretas. 
+G: A
+
+Q: Para o correto entendimento do ato cirúrgico, cabe ao profissional instrumentador o conhecimento da terminologia anatômica e cirúrgica. Considere as afirmativas abaixo, marque a opção correta:
+I) O prefixo orqui é relativo ao testículo e o sufixo colpo é relativo à vagina.
+II) Na colecistectomia o cirurgião faz a retirada parcial dos cólons do intestino grosso.
+III) Na colecistectomia ocorre a retirada total dos cólons do intestino grosso.
+IV) Para a alteração da forma do rim, durante cirurgias de transplante renal, dizemos que ocorre a rinoplastia.
+V) O prefixo entero é relativo apenas ao intestino delgado.
+A) As afirmativas I e IV estão corretas.
+B) As afirmativas I, III e V estão corretas.
+C) As afirmativas III e IV estão corretas.
+D) As afirmativas II e IV estão corretas.
+E) As afirmativas I e V estão corretas.
+G: E
+
+Q: O técnico de Enfermagem que atua no centro cirúrgico deve ter conhecimento especifico e conhecer os termos formados por prefixos utilizados no dia-a-dia cirúrgico, indicando o órgão e o ato cirúrgico a ser realizado.
+Assinale a alternativa correta.
+A) Colostomia é a abertura do cólon intestinal através da parede abdominal
+B) Apendicectomia é a abertura do apêndice através da parede abdominal
+C) Histeropexia é a retirada do útero
+D) Gastrorrafia é a abertura do estomago através da parede abdominal
+E) Mastectomia é a redução da mama estéticamente
+G: A
+
+Q: No centro cirúrgico, foram realizadas as cirurgias de mamopexia, herniorrafia e ileostomia. Assim, de acordo com a terminologia cirúrgica, os sufixos correspondem, respectivamente, a
+A) fixação; sutura; comunicar um órgão tubular ou oco com o exterior, através de uma “boca”.
+B) incisão; sutura; fixação.
+C) sutura; comunicar um órgão tubular ou oco com o exterior, através de uma “boca”; incisão.
+D) ressecção; sutura; visualização da cavidade através de aparelhos especiais.
+E) retirar parcial ou totalmente um órgão; incisão; sutura.
+G: A
+
+Q: O sufixo RÁFIA refere-se a: 
+A) Procedimentos cirúrgicos de sutura
+B) Procedimentos cirúrgicos de remoção
+C) Procedimentos cirúrgicos para fixação 
+D) Procedimentos cirúrgicos para alterar a forma e ou a função de um órgão
+E) Procedimentos cirúrgicos para visualização
+G: A
+
+Q: A terminologia cirúrgica é utilizada para descrever, de forma verbal ou escrita, o tipo de cirurgia que será realizada. O termo esplenectomia refere-se à retirada cirúrgica de qual órgão?
+A) Pulmão.
+B) Rim.
+C) Baço.
+D) Fígado.
+E) Pâncreas.
+G: C
+
+Q: Durante o trabalho em um Centro Cirúrgico, é necessário compreender alguns termos técnicos e seus significados, como por exemplo a ____________, que é uma remoção cirúrgica dos ovários.
+<br>
+<br>
+<br>
+Assinale a alternativa que corretamente completa a lacuna no excerto:
+A) Cistectomia
+B) Ooforectomia
+C) Salpingectomia
+D) Miomectomia
+E) Histerectomia
+G: B
+
+Q: Durante um procedimento no centro cirúrgico, o médico precisou realizar uma anastomose. Esse termo se refere a:
+A) remoção de ar da cavidade pleural.
+B) remoção de líquido pleural.
+C) ligação entre artérias.
+D) remoção de pedras do trato urinário.
+E) remoção cirúrgica de papiloma.
+G: C
+
+Q: Sobre as nomenclaturas cirúrgicas, assinale a alternativa correta.
+A) A terminação "-rafia" refere-se à excisão de um órgão.
+B) "-otomia" e "-ectomia" são sinônimos e podem ser usados indistintamente.
+C) "-ostomia" refere-se à criação de uma nova abertura ou saída para a passagem de fluidos.
+D) "-plastia" refere-se apenas à remoção de órgãos.
+E) "-oscopia" refere-se ao fechamento de uma cavidade corporal com sutura.
+G: C
+
+Q: Na noite anterior o enfermeiro participou de uma orquiectomia. Essa terminologia se refere à (ao):
+A) remoção cirúrgica de uma veia.
+B) remoção cirúrgica de uma ou mais glândulas paratireoides.
+C) reparo cirúrgico do ducto pancreático principal.
+D) remoção cirúrgica de um ou ambos os testículos.
+E) abertura cirúrgica na parede torácica para acesso aos órgãos torácicos.
+G: D
+
+Q: Paciente adulto passou por um procedimento cirúrgico de remoção de placa de aterosclerose em carótida direita. Esse procedimento é denominado
+A) Histeropexia.
+B) Endarterectomia.
+C) Tonsilectomia.
+D) Laparotomia.
+E) Mastoidectomia.
+G: B
+
+Q: Terminologia cirúrgica é o conjunto de termos que expressam o segmento corpóreo afetado e a intervenção realizada para tratar a afecção. A utilização de uma terminologia apropriada fornece definição de termos cirúrgicos, descreve os tipos de cirurgias e facilita o preparo de instrumentais e equipamentos para cada tipo de procedimento cirúrgico. De acordo com o tema, marque a alternativa INCORRETA:
+A) Salpingectomia é a extirpação dos ovários.
+B) Orquiectomia é a extirpação de um ou dos dois testículos.
+C) Pielolitotomia é a abertura do bacinete renal e remoção de cálculo.
+D) Histeropexia é a suspensão e fixação do útero à parede abdominal.
+G: A
+C: Das trompas.
+
+Q: Em relação aos principais prefixos da terminologia cirúrgica e seus respectivos significados, é CORRETO afirmar que:
+A) o prefixo "Colpo-" é relativo ao cólon.
+B) o prefixo "Blefaro-" é relativo as artérias.
+C) prefixo "Clido-" é relativo à bexiga ou bolsa com fluidos.
+D) o prefixo "Cole-" é relativo a vagina.
+E) o prefixo "Acro-" é relativo às extremidades.
+G: E
+
+Q: A terminologia cirúrgica é importante para que o técnico de enfermagem possa atuar no perioperatório do paciente. A cirurgia relacionada à retirada de testículos denomina-se
+A) ooferectomia.
+B) histerectomia.
+C) orquiectomia.
+D) esplenectomia.
+E) fistulectomia.
+G: C
+
+Q: A interligação de um órgão interno com o meio externo, criando uma abertura artificial (orifício), realizada por meio cirúrgico, é denominada:
+A) Colostomia.
+B) Urostomia.
+C) Ileostomia.
+D) Estomia.
+E) Traqueostomia.
+G: D
+
+Q: De acordo com o Lima e Matão (2010), sobre terminologia cirúrgica, assinale a opção cujo prefixo corresponde a sua definição.
+A) espleno = fígado.
+B) cole = vesícula biliar.
+C) blefaro = olho.
+D) adeno = amígdala.
+E) entero = baço.
+G: B
+
+Q: Quanto às terminologias cirúrgicas, a descrição “Remoção da Vesícula Biliar” refere-se a qual das terminologias listadas a seguir? Assinale a alternativa CORRETA:
+A) Cistectomia.
+B) Colecistectomia.
+C) Colectomia.
+D) Embolectomia.
+E) Esofagectomia.
+G: B
+
+Q: É importante, para o técnico de enfermagem que atua no centro-cirúrgico, conhecer a terminologia cirúrgica que envolve os procedimentos aos quais os pacientes serão submetidos. Nesse contexto, assinale a alternativa correta.
+A) Cistostomia – retirada de cisto de ovário.
+B) Colporrafia – sutura de cólon intestinal.
+C) Colecistectomia – abertura da vesícula biliar.
+D) Cistectomia – retirada total ou parcial da bexiga.
+E) Ritidoplastia – alteração na forma do nariz.
+G: D
+
+Q: A terminologia cirúrgica é composta de prefixos e sufixos provenientes do grego e do latim. Diante disso, assinale a alternativa CORRETA correspondente ao significado do prefixo Colpo.
+A) Veia.
+B) Vesicula.
+C) Intestino grosso.
+D) Vagina.
+G: D
+
+Q: A nomenclatura e a definição de um procedimento cirúrgico são determinadas pela associação de um radical e um sufixo. Dessa forma, assinale a alternativa em que todas as terminologias estão corretas:
+A) Histerectomia: retirada do útero, artroscopia: remoção de uma articulação, colecistectomia: remoção do colédoco, nefrectomia: remoção de um rim.
+B) Histerectomia: retirada do útero, artroscopia: visualização interna de uma articulação, colecistectomia: remoção da vesícula biliar, nefrectomia: remoção de um rim.
+C) Histerectomia: retirada do útero, artroscopia: visualização interna de uma articulação, colecistectomia: remoção da vesícula biliar, nefrectomia: remoção da bexiga.
+D) Histerectomia: retirada dos ovários, artroscopia: visualização interna de uma articulação, colecistectomia: remoção da vesícula biliar, nefrectomia: remoção de um rim.
+G: B
+
+Q: Os principais objetivos da terminologia cirúrgica são fornecer a definição do termo cirúrgico, descrever os tipos de cirurgia e facilitar o preparo dos instrumentais e equipamentos cirúrgicos apropriados para cada tipo de cirurgia. Diante disto, marque a opção correta de acordo com a terminologia cirúrgica e o tipo de cirurgia realizada.
+A) Apendicectomia, para remoção do apêndice; gastrectomia, para remoção do estômago; e salpingectomia, para correção do septo.
+B) Hepatorrafia, para sutura do fígado; cistopexia, para fixação do rim; e esofagectomia, para remoção do esôfago.
+C) Salpingectomia, para remoção do ovário; colecistectomia, para remoção da vesícula biliar; e cistectomia, para retirada da bexiga.
+D) Gastrectomia, para remoção do estômago; colecistectomia, para remoção do cólon; e fissurectomia, correção de fístula.
+E) Esplenectomia, para remoção do baço; orquiectomia, para remoção do testículo; e histeropexia, para fixação do útero.
+G: E
+
+Q: Tomia é o sufixo cirúrgico que indica incisão ou corte. Qual dos termos a seguir não está aplicado corretamente com relação as tomias:
+A) Laparotomia.
+B) Toracotomia.
+C) Episiotomia.
+D) Histerectomia.
+G: D
+
+Q: Na programação cirúrgica, o procedimento de ooforectomia bilateral consiste na retirada cirúrgica
+A) da túnica vaginal dos dois lados do testículo.
+B) dos ovários.
+C) da varicocele.
+D) das tubas uterinas e gânglios adjacentes.
+E) dos miomas uterinos.
+G: B
+
+Q: Segundo os termos cirúrgicos existentes, assinale a alternativa que contemple o significado do termo Anastomose.
+A) Conexão de dois órgãos tubulares, geralmente por sutura.
+B) Remoção total ou parcial de uma parte do corpo.
+C) Fixação cirúrgica de articulações.
+D) Remoção de um tecido vivo para exame.
+E) Hérnia da bexiga por defeito na musculatura do períneo.
+G: A

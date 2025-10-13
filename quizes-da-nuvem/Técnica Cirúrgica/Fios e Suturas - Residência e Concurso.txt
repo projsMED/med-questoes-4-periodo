@@ -1,0 +1,172 @@
+Q: Considerando os fios cirúrgicos utilizados para sutura, assinale a alternativa correta.
+A) O fio de PDS é monofilamentar e inabsorvível.
+B) O fio de categute é um dos que causam menor reação tecidual.
+C) O fio de Vicryl permanece com sua força tênsil em mais de 50% em 5 semanas.
+D) O fio de Monocryl é monofilamentar e produz reação tecidual mínima.
+E) O fio de Prolene é multifilamentar e absorvível.
+G: D
+
+Q: Sobre as características dos fios cirúrgicos é INCORRETO afirmar que:
+A) O Náilon é um fio considerado inabsorvível, porém é considerado absorvido pelo organismo em cerca de 5 anos; habitualmente indicado para o fechamento da pele e suturas sob tensão como nos tendões.
+B) O Categute simples é obtido a partir da camada serosa do intestino delgado de bovinos considerado absorvível, e é conservado em solução própria contendo álcool isopropílico que utilizada para esterilizar o fio e mantê-lo estéril. 
+C) O categute simples não é indicado para suturas cutâneas e intradérmicas, pois causa reatividade tissular que pode comprometer a qualidade estética da sutura.
+D) Há uma regra para a fixação do nó no fio de náilon que exige 1 nó a mais que o número de zeros do fio, com um mínimo de 4 nós.
+G: B
+
+Q: Em relação aos fios de sutura, assinale a alternativa em que a afirmação esteja CORRETA.
+A) O categute simples é considerado um fio absorvível, tem a resistência diminuída ao final da segunda semana, e totalmente absorvida em até 60 dias por hidrólise. 
+B) O fio de polipropileno é inabsorvível, monofilamentar e não sofre biodegradação pelo organismo e, por isso, tem muita reação tissular e pouca resistência à tração.
+C) O fio de poliéster é inabsorvível, monofilamentado, que não sofre biodegradação pelo organismo, pode apresentar escorregamento na fixação dos nós e requer, no mínimo, quatro nós.
+D) O fio de algodão é inabsorvível, mulfilamentar, de origem vegetal, e podem ser misturados a fibras de poliéster, ganhando assim maior maleabilidade, maior resistência à tração e menor degradação pelo organismo.
+G: D
+
+Q: Assinale a alternativa que apresenta o fio cirúrgico que tem o maior tempo de absorção.
+A) Categute simples.
+B) Categute cromado.
+C) Poliglactina com estearato de cálcio (Vicryl®).
+D) Polidioxanona (PDS®).
+G: D
+C: Pois em média a absorção do fio inicia após 90 dias e termina após 180 dias.
+
+Q: Assinale a alternativa que contenha um fio que NÃO pode ser usado para sutura de vias biliares ou vias urinárias:
+A) Polipropileno (Prolene)
+B) Poliglactina 910 (Vicryl)
+C) Categute simples
+D) Categute cromado
+E) Polidioxanona (PDS)
+G: A
+C: O conceito cobrado por essa questão é de que fios inabsorvíveis, teoricamente, não devem ser aplicados para sutura de vias biliares ou urinárias. O polipropileno (prolene) é um fio monofilamentar, inabsorvível, bastante resistente e sua aplicabilidade é semelhante à do nylon.<br>A poligalactina (Vycryl) é um fio multifilamentado, absorvível de média ou curta duração.<br>O categute é um fio multifilamentar, absorvível de curta duração.<br>O categute cromado, assim como o categute simples é um fio monofilamentar de curta duração, mas que por conta da impregnação com sais de cromo, demora um pouco mais de tempo para ser absorvido em relação ao categute simples.<br>A polidioxanona (PDS) é um fio monofilamentar, sintético com absorção lenta.
+
+Q: Sobre fios de sutura, é correto afirmar:
+A) As fitas adesivas são opções para o fechamento da pele sob maior tração, mesmo que de feridas contaminadas.
+B) Os fios de categute mantêm a força da amarradura até sua completa absorção.
+C) O fio de nylon monofilamentar aumenta a incidência de infecção no leito cirúrgico. 
+D) Os fios de seda são multifilamentares e não perdem força com o tempo, sendo ideais para suturar enxertos
+E) Os fios sintéticos não absorvíveis são, habitualmente, inertes e resistentes.
+G: E
+
+Q: Assinale a alternativa que apresenta, corretamente, o fio de sutura que é monofilamentar e possui tempo de absorção entre 90 e 180 dias.
+A) Categute simples.
+B) Categute cromado.
+C) Poliglactina.
+D) Polipropileno.
+E) Polidioxanona.
+G: E
+
+Q: Considerando os tipos de fios e técnicas de suturas, o material utilizado para fechamento ósseo após esternotomia é:
+A) Grampos metálicos.
+B) Fio de seda.
+C) Categute.
+D) Fio de aço.
+
+Q: Assinale a alternativa INCORRETA com relação ao categute simples.
+A) É obtido a partir da camada submucosa de ovelhas (no caso dos países asiáticos) ou da camada serosa do intestino delgado de bovinos (no caso do categute fabricado no Brasil).
+B) As tiras são compostas por fibras longitudinais de colágeno, o que proporciona maior resistência ao fio.
+C) O material tem seu colágeno purificado várias vezes com o objetivo de eliminar proteínas indesejáveis. Esse procedimento minimiza a reação inflamatória do tecido que se submete à sutura.
+D) É um fio indicado para tecidos de cicatrização demorada como parênquima pulmonar e hepático.
+G: D
+
+Q: Para um boa sutura tem que se considerar os fios adequados que podem ser classificados quanto à sua composição, força tênsil e absorção. Assinale a alternativa correta:
+A) O monocryl, constituído por poligliconato, é um fio com boa segurança (força tênsil previsível 21 a 28 dias), alta resistência, pouca memória, causador de pouco traumatismo tecidular e a sua absorção é feita por hidrólise.
+B) O prolene é um fio monofilamentar sintético, constituído de polipropileno, possui elevada força tênsil e elasticidade, requer a realização de poucos nós e desperta muita reação de corpo estranho.
+C) O PDS, constituído por polidioxanona, é monofilamentar e mantém uma boa força de tensão durante 60 a 90 dias. A absorção dá-se por hidrólise e pode durar até 180 dias.
+D) O categute é muito utilizado por ser absorvível em tempo previsível, de origem natural e sem causar muita reação tecidual.
+E) O vicryl é constituído pela junção de 2 polímeros, ácido láctico e ácido glicólico, revestidos por poliglactina e estearato de cálcio. Trata-se de um fio com força tênsil de 18 dias e absorção previsível em 45 dias.
+G: C
+
+Q: “Fio sintético, polímero da poliparadioxanona (polidioxanona), é um fio que tem a vantagem de ser monofilamentado, e possuir uma absorção lenta com manutenção da resistência tênsil por longo período. Devido a esta característica, é utilizado na sutura de tendões, cápsulas articulares e fechamento da parede abdominal.” Essa descrição corresponde a qual fio cirúrgico?
+A) Nylon.
+B) Vicryl®.
+C) Dexon®.
+D) PDS®.
+E) Categute.
+G: D
+
+Q: Assinale a alternativa incorreta em relação à utilização do fio cirúrgico de prolipropileno.
+A) Está indicado para anastomoses intestinais.
+B) Não é recomendado seu uso em tecidos infectados.
+C) É adequado para realização de anastomoses vasculares.
+D) É o fio adequado para reparo de tendões.
+G: B
+
+Q: O polipropileno é um fio de alta resistência e adequada elasticidade. Sobre a sua utilização, é INCORRETO afirmar que:
+A) está indicado para a realização das anastomoses intestinais.
+B) é um fio adequado para anastomoses vasculares.
+C) é um fio adequado para anastomoses de tendões.
+D) não pode ser utilizado em tecidos infectados.
+E) é um fio adequado para sutura de úlcera duodenal perfurada.
+G: D
+
+Q: Em relação à sutura e aos curativos, assinale a alternativa CORRETA.
+A) Curativos devem ser trocados no mesmo dia da sutura, já que a epitelização ocorre entre 6 e 12 horas.
+B) Um fio adequado para sutura de tendões é o categut cromado 2-0.
+C) Sutura contínua ancorada apresenta resultado estético superior à sutura com pontos simples.
+D) Tecidos de cicatrização mais rápida como mucosa da cavidade bucal podem ser suturados com fios de absorção mais rápida.
+E) Pontos separados em X têm potencial hemostático similar aos pontos Donatti, mas com melhor resultado estético.
+G: D
+
+Q: Assinale a alternativa CORRETA Em relação aos materiais utilizados na síntese cirúrgica, podemos afirmar que:
+A) O nylon geralmente é um fio monofilamentado, com baixa memória, inabsorvível e muito utilizado para a sutura de pele.
+B) O categute simples é um fio cirúrgico de origem biológica, com baixa força tênsil, muito utilizado para ligadura de vasos no subcutâneo e que causa uma baixa reação tecidual.
+C) O ácido poligaláctico é um fio de sutura de origem biológica, que causa pouca reação tecidual, sua absorção é completada em torno de 60 dias e pela sua força tênsil pode ser utilizado em cirurgias ginecológicas, urológicas etc.
+D) O polipropileno é um fio de sutura de origem sintético, é monofilamentar, possui pouca reação tecidual e por ter pequeno coeficiente de atrito é um fio ideal para sutura intradérmica.
+E) O poliéster é um fio sintético, fabricado a partir da fibra de poliéster, monofilamentado, excelente para sutura vascular, aponeuroses e tendões, e com alta memória.
+G: D
+
+Q: Uma criança do gênero masculino de 12 anos sofre queda da bicicleta e deu entrada no Pronto-Socorro 15 minutos após a ocorrência, apresentando um ferimento de 4,5 cm, superficial, acometendo pele e subcutâneo, em região pré-patelar direita. Há presença de sujidade (terra e grama) no ferimento. Cobertura antitetânica atualizada. Após limpeza do ferimento, qual tipo de fio cirúrgico seria a melhor escolha para essa situação?
+A) Trançado não absorvível.
+B) Monofilamentar não absorvível.
+C) Monofilamentar absorvível.
+D) Trançado absorvível.
+G: B
+C: O que é preconizado frente a lesões com potencial de contaminação é o uso de fios monofilamentares. A ideia do autor da questão é de que o fio monofilamentar inabsorvível não servirá de substrato para a adesão de bactérias, reduzindo o risco de infecção. Apesar do racional fazer sentido, não existe nenhuma evidência de que isso seja verdade. Pelo contrário, grandes meta-análises compararam diferentes tipos de fio e de sutura em ambientes de pronto socorro e ferimentos potencialmente contaminados e o que percebeu-se é que não havia diferença estatística na incidência de infecção.<br>De qualquer modo, para efeito de prova, é importante frisar que, independentemente da falta de evidências, existe a cultura anedótica de que ferimentos de pronto socorro sempre devem ser suturados com fio inabsorvível monofilamentar e pontos separados.<br>Quem argumenta a favor desse conceito, diz que o espaço entre os pontos permitiria uma suposta drenagem de secreção e o fio inabsorvível monofinlamentar produziria um processo inflamatório menor, e menos adesão bacteriana, portanto, uma menor taxa de infecção.<br>Por algum motivo inexplicável, as pessoas com esse conceito plasmado viram examinadores de prova. Portanto, para a prova, a conduta em ferimentos cortantes traumáticos é antissepsia das bordas, anestesia, debridamento e retirada de corpos estranhos, limpeza do ferimento e fechamento com pontos simples separados de fio inabsorvível.
+
+Q: Homem de 70 anos, obeso, com diverticulite e peritonite generalizada, foi submetido a uma laparotomia exploradora. Após o tempo cirúrgico principal, com revisão de hemostasia realizada por meio de uma incisão mediana ampliada, a equipe deverá realizar a síntese da incisão e, para tanto, deverá realizar as suturas dos componentes anatômicos da parede anterior do abdome. A sequência de suturas mais indicada nesta situação deverá ser:
+A) Peritônio: sutura contínua ancorada com fio Catgut cromado/sutura muscular com pontos separados em “U”/sutura pele com Poliéster com pontos simples.
+B) Linha alba: sutura chuleio contínuo com fio Polidioxanona/sutura subcutâneo com pontos separados com fio Catgut simples/ sutura pele com fio Mononylon, pontos Donatti.
+C) Peritônio: sutura em pontos separados com fio poliéster trançado/sutura muscular com chuleio contínuo ancorado/sutura pele com Monocryl com pontos simples.
+D) Linha alba: sutura contínua com fio Categute cromado/sutura subcutâneo com pontos separados com fio Algodão/ sutura pele com fio Mononylon, pontos simples invertidos.
+E) Fechamento em plano único (“Mash Closure”) com sutura em pontos separados, empregando-se fio Ácido Poliglicóico forte, com uso de tela de polipropileno.
+G: B
+C: A linha alba é uma estrutura crítica na parede abdominal, e a sutura contínua com fio Polidioxanona (PDS) é uma prática comum e bastante eficaz. O uso de pontos separados no subcutâneo com fio Catgut simples é aceitável, apesar de sua reação tecidual ser, em regra, mais intensa que o vicryl, sendo esse último, o fio de eleição para a síntese do subcutâneo. Por fim, a sutura da pele com Mononylon em pontos Donatti é uma escolha adequada para o fechamento da pele.
+
+Q: Durante procedimento cirúrgico de paciente vítima de ferimento abdominal por arma branca, foi observado extenso hematoma de mesocólon direito. Realizou-se a manobra de Catell Braasch e de Kocher, constatando não haver lesão da veia cava, porém encontrou-se, na exploração do hematoma, uma lesão tangencial de aproximadamente 0,6 cm da veia mesentérica superior. O paciente estava usando drogas vasoativas neste momento e estava sendo transfundido. Qual a melhor opção para controle de sangramento nesta situação?
+A) Ligadura dos segmentos proximal e distal à lesão.
+B) Reparo com sutura com fio monofilamentar.
+C) Reparo com “patch” de safena para evitar estenose.
+D) Reparo com prótese de tereftalato de polietileno ou PTFE.
+E) Colocação de um Hem-0-lock 16 milímetros.
+G: B
+C: Esta é a opção mais indicada para uma lesão tangencial na veia mesentérica superior. A sutura direta com fio monofilamentar permite reparar a lesão sem causar estenose significativa. Habitualmente, usamos o prolene com agulhas atraumáticas. Esse tipo de fio é preferido devido à sua resistência e sua natureza inerte. Dado que não houve perda de substância ou grande destruição na parede do vaso, o reparo com sutura é a abordagem mais adequada.
+
+Q: Paciente, sexo masculino, 27 anos de idade, é trazido por populares à Unidade de Pronto Atendimento, UPA, após ser vítima de agressão física. Relata que sofreu agressão com um soco na boca, há cerca de 45 minutos, após discussão em um bar. Refere ferimento em lábio inferior com dor e sangramento. Nega outros sintomas. Ao exame físico, bom estado geral, lúcido e orientado, presença de ferimento corto-contuso em região central do lábio inferior, medindo 3cm de espessura total (exposição de mucosa), sem perda de substância e com sangramento ativo em pequena quantidade.<br><br>Indique o tipo de fio mais adequado para ser utilizado no reparo da lesão da mucosa.
+A) Poligalactina.
+B) Poliamida.
+C) Poliéster.
+D) Polidioxanona.
+G: A
+C: A reconstrução adequada dos ferimentos labiais necessita da sutura da musculatura orbicular da boca, do vermelhão (pele) e da mucosa intraoral (reconstrução em 3 planos). <br>Vamos discutir separadamente o reparo de cada uma das três camadas.<br>Músculo orbicular: O músculo orbicular é uma estrutura essencial para continência oral e mímica dos lábios. Quando a sutura desse elemento não é realizada o paciente apresentará um entalhe no lábio, que ficará mais evidente ao sorrir. Em casos mais drásticos, poderá haver comprometimento da continência oral.<br>A síntese do músculo orbicular deve ser feita com pontos em U, utilizando-se fio inabsorvível, como nylon ou prolene.<br>Pele: O princípio central da reconstrução da pele do lábio é o alinhamento do vermelhão. Desalinhamentos dessa estrutura superiores a 1mm podem ser facilmente percebidos à distância habitual de conversação. <br>A síntese da pele do lábio é comumente feita com pontos separados de fio inabsorvível fino, como nylon 5-0 ou 6-0.<br>Mucosa: A mucosa labial corresponde à porção intra-oral do lábio e deve ser reconstruída com fio absorvível, como o catigute ou a poligalactina (vicryl).
+
+Q: Do ponto de vista da manutenção da resistência tênsil, o fio abaixo que é mais adequado à síntese de aponeurose é:
+A) Catgut simples.
+B) Catgut cromado.
+C) Algodão.
+D) Vicryl.
+E) Prolene.
+G: E
+
+Q: Paciente, sexo masculino, 25 anos de idade, foi levado ao Pronto-Socorro após sofrer trauma no braço direito e apresentar ferimento corto-contuso de cerca de 5cm. Nega outros traumas. Ao exame físico, bom estado geral, FC: 72bpm, PA: 120x74mmHg, FR: 18imp; presença de ferimento medindo 5cm com exposição da musculatura em região anterior do braço direito. Foi realizada lavagem com SF0,9%, desbridamento e síntese do ferimento com anestesia local utilizando lidocaína. <br>De acordo com os dados apresentados, indique o tipo de fio mais adequado para a síntese da musculatura:
+A) Poliamida.
+B) Polipropileno.
+C) Poligalactina.
+D) Poliéster.
+G: C
+C: Para sutura muscular, recomenda-se fio absorvível com boa segurança de nó e manuseio.
+
+Q: Mulher, 32 anos, dá entrada em pronto socorro com história de queda da própria altura na rua, com ferimento corto contuso extenso em antebraço, não atingindo a superfície articular, com sinais de sangramento. A melhor sutura a ser realizada e o fio mais adequado a ser utilizado são respectivamente:
+A) chuleio simples, mononylon.
+B) sutura intradérmica, catgut.
+C) pontos simples, catgut.
+D) pontos em U, monocryl.
+E) pontos simples, mononylon.
+G: E

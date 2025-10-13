@@ -1,0 +1,326 @@
+Q: Sobre antibiótico-profilaxia em cirurgia é CORRETO afirmar:
+A) A dose do antibiótico deve ser repetida a cada 2 horas de procedimento. 
+B) O tempo de duração deve ser de no máximo 48h, a depender do porte da cirurgia e do grau de contaminação do procedimento. 
+C) Não se encontra indicada em cirurgias limpas.
+D) Pode ser indicada nas cirurgias limpas, potencialmente contaminadas, contaminadas e infectadas. 
+E) Deve ser iniciado 10 minutos antes da incisão cirúrgica.
+G: B
+
+Q: A profilaxia antibiótica adequada em cirurgia depende dos patógenos mais comumente encontrados durante o procedimento cirúrgico. O tipo de procedimento é útil na decisão do espectro de antibiótico adequado e deve ser considerado antes da prescrição ou administração de qualquer medicação pré-operatória. Sobre a profilaxia antibiótica assinale a alternativa CORRETA:
+A) Implante de prótese de longa permanência - Cirurgia Classe 1, necessita de antibioticoterapia profilática;
+B) Cirurgia Classificada como Classe li necessita de antibioticoterapia (Cefazolina) administrando posteriormente à incisão na pele;
+C) A profilaxia antibiótica perioperatória deve ser continuada, além do dia da operação, por 7 a 10 dias;
+D) Cirurgia Classe Ili não requer antibióticos parenterais com atividade aeróbica e anaeróbica;
+E) Ferida traumática com tecido desvitalizado retido, corpos estranhos, contaminação fecal são Cirurgia Classificadas como Classe Ili.
+G: A
+
+Q: O antibiótico escolhido para profilaxia em cirurgia deve cobrir o espectro de patógenos mais comuns que causam infecção do sítio cirúrgico. As mais recentes diretrizes recomendam a cefazolina como droga de escolha para a maioria dos procedimentos cirúrgicos. Em caso de pacientes alérgicos aos beta-lactâmicos, quais as opções indicadas de antibiótico profilático para cobertura de germes gram-positivos?
+A) Clindamicina e vancomicina.
+B) Penicilina G cristalina e vancomicina.
+C) Ceftazidima e clidamicina.
+D) Ceftriaxona e gentamicina.
+E) Ampicilina sulbactam e vancomicina.
+G: A
+
+Q: Em relação ao uso de antibiótico profilático em cirurgia, assinale a alternativa CORRETA:
+A) A vancomicina tem indicação principalmente na profilaxia de MRSA(Staphylococcus aureus meticilino resistentes) em pacientes alérgicos aos betalactâmicos.
+B) Os aminoglicosídeos têm a vantagem de obtenção de níveis teciduais efetivos mais precoses.
+C) Os carbapenêmicos são os antimicrobianos de primeira escolha na profilaxia.
+D) Recomenda-se a utilização rotineira de cefalosporinas de 3ª geração.
+G: A
+C: A antibioticoprofilaxia consiste na administração de antimicrobiano com o objetivo de evitar infecção em sítio cirúrgico. Para que seja eficaz, o antimicrobiano profilático deve ter nível tecidual no momento da incisão cirúrgica. Para isso, deve ser administrado antes do início do procedimento, preferencialmente 60 minutos antes.<br>Vancomicina é um antibiótico alternativo para profilaxia do sítio cirúrgico. Como regra, utiliza-se para cirurgias limpas a cefazolina (cefalosporina de primeira geração que é eficaz contra cocos gram-positivos). Para pacientes alérgicos aos betalactâmicos e/ou colonizados por MRSA, vancomicina é uma opção para profilaxia.<br>Aminoglicosídeos não atingem níveis teciduais efetivos mais precoces. Algumas fontes na literatura até indicam que sua administração para profilaxia deva ocorrer entre 60 e 120 minutos antes do procedimento, assim como quinolonas e vancomicina.<br>Carbapenêmicos são antibióticos de amplo espectro. Por isso, não são indicados de rotina para profilaxia cirúrgica.<br>Cefalosporinas de terceira geração possuem espectro mais amplo do que as de primeira geração, podendo assim selecionar mais micro-organismos multirresistentes. Portanto, não são recomendadas para profilaxia cirúrgica rotineiramente.
+
+Q: É comprovada que a profilaxia do antibiótico no pré-operatório reduz o risco de infecção de sítio cirúrgico pós-operatórias em muitas circunstâncias. <br><br>Assinale a alternativa correta sobre a antibioticoprofilaxia.
+A) Geralmente é indicada na colecistectomia laparoscópica eletiva.
+B) Previne infecções nosocomiais pós-operatórias.
+C) É mandatória nas cirurgias limpas.
+D) Se não administrada de forma adequada, é ineficaz e pode ser prejudicial.
+E) Não é indicada quando o procedimento envolve secção óssea,
+G: D
+C: As infecções de sítio cirúrgico (ISC) são infecções da incisão, do órgão ou da cavidade que ocorrem após uma cirurgia. As ISC são condições associadas a assistência a saúde, correspondendo a aproximadamente 15% do total de infecções relacionadas à assistência a saúde. É estimado que em 40 a 60% dos casos é possível evitar a ISC pela adoção de medidas preventivas.<br>A antibioticoprofilaxia cirúrgica é uma das medidas recomendadas para a redução do risco de ISC. Os princípios de uma antibioticoprofilaxia eficaz são: o antibiótico deve ser ativo contra as principais bactérias encontradas no sítio cirúrgico; a administração do antibiótico deve ser capaz de atingir níveis séricos e teciduais efetivos durante todo o procedimento cirúrgico e; o medicamento deve ser seguro e administrado por um curto período de tempo.<br>A antibioticoprofilaxia cirúrgica é indicada para as cirurgias contaminadas, as potencialmente contaminadas e para cirurgias limpas nas quais a ocorrência de ISC traz consequências graves. De maneira geral, a administração do antibiótico deve ser feita dentro de um intervalo de 60 minutos que antecedem a incisão cirúrgica. <br>Visando a manutenção de níveis efetivos do antibiótico, doses adicionais devem ser administradas de acordo com a meia-vida do fármaco. Adicionalmente, quando ocorrer sangramento cirúrgico importante, uma nova dose também deve ser administrada.<br>A utilização de antibióticos que não cobrem as bactérias que normalmente são encontradas no tipo de cirurgia que está sendo realizada, a administração de doses insuficientes ou a falha em repetir a dose após a meia-vida do antibiótico são todas formas inadequadas e ineficazes de se fazer a antibioticoprofilaxia. <br>O uso adequado ou inadequado de qualquer tipo de medicamento traz consigo riscos, e isso também é verdade em relação aos antibióticos, pois esses podem desencadear reações alérgicas, náuseas, vômitos, diarréia, entre outros efeitos adversos.<br>
+
+Q: A efetividade da profilaxia antibioótica sistêmica em pacientes cirúrgicos depende principalmente de uso de antibiótico
+A) Em múltiplas doses, por um curto período
+B) Bactericida
+C) De largo espectro
+D) Antes da cirurgia, na indução anestésica
+E) No pós-operatório imediato
+G: D
+
+Q: Sobre antibióticos apropriados para profilaxia em cirurgia podemos afirmar, EXCETO: 
+A) Geralmente, antibióticos profiláticos não são necessários para casos de feridas limpas (classe I).
+B) Em geral, utiliza-se Cefazolina (única dose) como antibiótico profilático para casos abdominais de pacientes submetidos a procedimentos de Classe II.
+C) Cirurgia em que ocorre grande derramamento do trato gastrointestinal ou entrada do trato genitourinário ou biliar em presença de urina infectada ou bile são classificadas como cirurgias contaminadas.
+D) Secção de tecido "limpo" a fim de ter acesso cirúrgico para coleta de pus é classificada como cirurgia suja ou infectada (ClasseIV).
+E) Casos com feridas contaminadas (classe III) requerem antibiótico parenteral de espectro aeróbio. 
+G: E
+
+Q: Sobre a profilaxia com antibióticos em cirurgia, podemos afirmar: 
+A) Todos os pacientes submetidos a procedimento cirúrgico devem receber antibióticoprofilaxia.
+B) Nos casos com feridas limpa, Classe I, uma única dose do antibiótico administrado anteriormente à incisão da pele é recomendada.
+C) Nos procedimentos considerados como contaminados, Classe III, o antibiótico é administrado antes que seja feita a incisão na pele e dosagens repetidas devem ocorrer em um intervalo apropriado, como por exemplo, de 3 horas para casos abdominais. 
+D) Nas feridas limpas-contaminadas, Classe II, não é recomendado antibióticoprofilaxia. 
+E) O antibiótico de escolha para a profilaxia nas feridas consideradas limpas, Classe I, são as Cefalosporinas de primeira geração.
+G: C
+
+Q: Em relação à profilaxia com antibiótico e às infecções de ferida operatória, qual das afirmativas, a seguir, está incorreta?
+A) Os antibióticos devem ser administrados 60 minutos antes do início da cirurgia, com exceção das fluoroquinolonas e vancomícina (120 minutos antes).
+B) Os pacientes que serão submetidos às cirurgias potencialmente contaminadas devem receber profilaxia por 48 horas.
+C) As cirurgias ortopédicas eletivas de mão ou pé, sem colocação de próteses, não necessitam de profilaxia com antibiótico.
+D) A dose inicial de cefazolina para profilaxia em adultos é de 2 g.
+G: B
+
+Q: Um paciente será submetido a uma cirurgia cardíaca eletiva. Qual antibiótico deve ser preferencialmente utilizado para a profilaxia antimicrobiana cirúrgica?
+A) Cefazolina.
+B) Metronidazol.
+C) Ceftriaxona.
+D) Cefepima.
+E) Ciprofloxacino.
+G: A
+
+Q: Em relação ao uso de antibiótico profiláticos, seguindo as recomendações de boas práticas em cirurgias, podemos considerar:
+A) Todas as cirurgias limpas, limpas- contaminadas e contaminadas, indicam o uso da profilaxia.
+B) A profilaxia deve ser executada em quase todas as circunstâncias, ao redor de 30 a 60 minutos antes da incisão na pele, porém não mais que 120 minutos antes, para garantir que concentrações teciduais sejam atingidas no momento da incisão.
+C) A via de administração recomendada é a intravenosa ou intramuscular, porque produz concentrações séricas e teciduais rápidas, confiáveis e previsíveis.
+D) Não há benefícios relatados de doses adicionais de antibióticos profiláticos, mesmo em condições específicas.
+G: B
+C: A profilaxia antimicrobiana está indicada em procedimentos cirúrgicos que têm alto risco de infecção, como nos procedimentos limpos-contaminados - como a cirurgia bariátrica - e procedimentos contaminados. Em alguns procedimentos limpos, o risco de infecção é baixo, mas, caso aconteça, pode gerar consequências graves, como nas cirurgias com colocações de implantes, em que a profilaxia também está indicada.<br>O antibiótico profilático deve ser feito em até 60 minutos antes da incisão ou durante a indução anestésica, para haver nível sérico adequado na hora da cirurgia. Caso o antibiótico profilático seja a vancomicina ou o ciprofloxacino, a infusão deve ser iniciada dentro de 1 a 2 horas antes da incisão.<br>Na maioria das cirurgias, uma única dose de antibiótico é suficiente, porém, em algumas situações, ele deve ser administrado novamente. O repique da dose deve ser feito a cada duas meias- vidas do antibiótico, nos casos de cirurgias longas e nos quais houve grande perda de sangue (cerca de mais de 1.500 mL). O objetivo é restabelecer os níveis plasmáticos e teciduais adequados de antibiótico. A cefazolina, por exemplo, que é o antibiótico mais utilizado, tem como dose recomendada para adultos a infusão de 2 gramas, devendo ser repetida a cada 4 horas. Quando necessário, a dose no pós-operatório é de 1 a 2 gramas a cada 8 horas.<br>A profilaxia com antibióticos está indicada somente durante o ato cirúrgico, porém, caso seja decidido prolongar seu uso após a cirurgia, não deve ultrapassar 24 horas. Ultrapassar esse período não previne mais infecções e, além disso, aumenta o risco de desenvolvimento de resistência a antibióticos e de infecção por C. difficile.<br><b>Alternativa {A}:</b> Embora seja recomendado o uso de antibióticos profiláticos em cirurgias limpas-contaminadas e contaminadas para reduzir o risco de infecções pós-operatórias, não é usual recomendar profilaxia antibiótica em cirurgias consideradas limpas, a menos que envolvam a implantação de próteses ou haja fatores de risco significativos para infecção no paciente, como imunossupressão ou histórico de radiação na área.<br><b>Alternativa {B}:</b> Como vimos, esta alternativa é verdadeira. A administração de antibióticos profiláticos é geralmente recomendada dentro de até 60 minutos antes da incisão cirúrgica. Isso garante níveis adequados do antibiótico nos tecidos no momento da incisão, otimizando a prevenção de infecções. Administrações feitas muito antes do procedimento (como mais de 120 minutos) podem resultar em níveis subterapêuticos no momento da cirurgia.<br><b>Alternativa {C}:</b> A via de administração recomendada para antibióticos profiláticos é a intravenosa, não a intramuscular. A administração IV é preferida porque proporciona um início mais rápido e níveis mais previsíveis de antibióticos nos tecidos e na corrente sanguínea. A via intramuscular geralmente não é recomendada devido à absorção mais lenta e menos previsível do antibiótico.<br><b>Alternativa {D}:</b> Como vimos, há condições em que doses adicionais de antibióticos profiláticos são recomendadas, como em cirurgias de longa duração (que excedem duas vezes a meia-vida do antibiótico utilizado) ou em casos de perda sanguínea significativa durante a operação, o que pode diluir a concentração do antibiótico administrado inicialmente. Nestes casos, doses adicionais podem ser necessárias para manter níveis terapêuticos eficazes do antibiótico.
+
+Q: Em relação à profilaxia sistêmica antimicrobiana para prevenção de Infecção do Sítio Cirúrgico (ISC), assinale a alternativa correta.
+A) A classificação da ferida cirúrgica (limpa, potencialmente contaminada, contaminada, infectada) é o único critério a ser considerado para determinar o emprego do antibiótico profilático.
+B) Antibióticos profiláticos só deverão ser administrados em cirurgias contaminadas.
+C) Os antibióticos devem ser administrados pré-operatoriamente 1 dia antes da cirurgia.
+D) Antibiótico profilático pode ser utilizado em cirurgias limpas, caso o paciente possua uma prótese.
+E) Nenhuma das anteriores.
+G: D
+
+Q: Sobre antibiótico-profilaxia em cirurgia é correto afirmar, EXCETO:
+A) Deve ser iniciado 30 minutos antes da incisão cirúrgica.
+B) O tempo de duração deve ser até de 48h, a depender do porte da cirurgia e do grau de contaminação do procedimento.
+C) Está indicada nas cirurgias potencialmente contaminadas, contaminadas e infectadas.
+D) A dose do antibiótico deve ser repetida a cada metade da meia vida da droga.
+E) Não se encontra indicada na maioria das cirurgias limpas.
+G: C
+
+Q: O procedimento adequado em relação à profilaxia antimicrobiana em cirurgias eletivas está indicado na seguinte assertiva:
+A) Somente os casos de pacientes diabéticos com passado de colecistite aguda deverão utilizar antibiótico profilático. Todos os outros diabéticos não deverão fazer uso de profilaxia.
+B) Todas as hernioplastias inguinais merecem profilaxia antibiótica, mesmo as que não utilizam prótese, visto que a microbiota da pele é muito grande e patogênica.
+C) Prescrever antibioticoterapia profilática por mais de 48 horas não interfere no aparecimento de microbiota resistentes e não aumenta os custos do tratamento, pois minimiza a infecção de ferida.
+D) É desnecessário o prolongamento da antibioticoterapia profilática em situações não complicadas, o que evita o retardo do diagnóstico de infecções instaladas.
+G: D
+
+Q: A respeito da profilaxia antimicrobiana de infecções no sítio cirúrgico, pode-se afirmar que:
+A) clindamicina pode ser utilizada em pacientes com alergia aos fármacos betalactâmicos
+B) cefazolina deve ser usada em cirurgias eletivas videolaparoscópicas de baixo risco
+C) não há necessidade de uso de antibiótico profilático em procedimentos como histerectomia
+D) uso de antibióticos intravenosos são necessários em cirurgias oftalmológicas
+G: A
+
+Q: Em relação ao uso profilático dos antibióticos, podemos considerar como afirmativa FALSA:
+A) A antibioticoprofilaxia cirúrgica é uma importante medida preventiva contra a infecção de ferida, mas seu uso deve ser guiado por critérios técnicos, para não contribuir com o surgimento de cepas bacterianas resistentes e aumento dos custos hospitalares.
+B) Antibiótico profilático deve ter nível sérico adequado quando da incisão da pele. Cefalosporinas de primeira geração devem ser administradas 30-60 minutos antes da incisão da pele, podendo coincidir com o momento da indução anestésica.
+C) Não há consenso em relação ao prolongamento da antibioticoprofilaxia cirúrgica, sendo o principal ponto sua relação com resultados indesejados, como flora bacteriana resistente, maior custo hospitalar e ocorrência de efeitos adversos à droga.
+D) O objetivo da profilaxia antimicrobiana é reduzir de forma segura e eficiente a incidência de infecção cirúrgica. Indica-se antibioticoprofilaxia cirúrgica quando a chance de infecção incisional for > 5%, ou seja, basicamente nas cirurgias contaminadas ou potencialmente contaminadas.
+G: C
+
+Q: Qual das seguintes recomendações está adequada em relação ao uso de antibiótico para profilaxia de infecção de sítio cirúrgico?
+A) O repique do antibiótico profilático deve ser feito a cada 4 meias-vidas do antibiótico escolhido.
+B) A profilaxia deve ser suspensa em até 48 horas após da cirurgia. 
+C) Quando usada, a vancomicina deve ser administrada imediatamente antes da incisão
+D) O antibiótico mais utilizado é uma cefalosporina de 1ª geração
+E) Nas cirurgias colorretais, a profilaxia é feita com cefazolina 2g EV em até 60 minutos antes da incisão.
+G: D
+
+Q: Em relação ao uso de antibióticos nas cirurgias ginecológicas, indique a afirmativa correta.
+A) Mesmo em procedimentos de menor porte cirúrgico, como histeroscopia cirúrgica, ablação de endométrio e inserção de DIU, a dose do antibiótico profilático deve ser mantida.
+B) O uso profilático de antibiótico é isento de riscos.
+C) Para profilaxia, uma única dose de antibiótico é suficiente, independentemente do tempo de duração da cirurgia.
+D) Para uso profilático, utiliza-se uma dose de antibiótico imediatamente antes ou durante a indução da anestesia.
+E) A resistência bacteriana é a maior complicação do uso do antibiótico profilático.
+G: D
+C: Como regra geral, a antibioticoprofilaxia é recomendada quando há risco elevado de infecção (como em cirurgias potencialmente contaminadas ou contaminadas), ou em cirurgias limpas, quando a infecção pode trazer consequências graves (cirurgias com próteses ou cirurgias cardíacas, por exemplo). Procedimentos de menor porte, sem perfuração de mucosa, não precisam de profilaxia.<br>Há sim riscos envolvidos no uso profilático de antibióticos. Podemos citar, por exemplo, a seleção de bactérias multirresistentes e os efeitos colaterais dos antibióticos utilizados.<br>A redose (ou repique da dose) é indicada sempre que a duração do procedimento cirúrgico exceda em duas vezes o tempo de meia-vida do antimicrobiano, ou quando há sangramento excessivo. A meia-vida da cefazolina é de 1,2 a 2,2 horas, sendo recomendada a redose a cada quatro horas de procedimento.
+
+Q: A cirurgia de herniorrafia inguinal com tela é considerada:
+A) potencialmente contaminada, pelo uso de prótese e sempre deve ser realizada antibiótico-profilaxia.
+B) potencialmente contaminada, pelo uso de prótese, porém dispensa o uso de antibiótico-profilaxia.
+C) cirurgia limpa, mesmo com uso de prótese, podendo ou não ser realizada a antibiótico-profilaxia.
+D) cirurgia limpa, mesmo com uso de prótese, sendo realizada antibiótico-terapia por 7 dias após a alta.
+E) cirurgia contaminada. A região inguino-crural é altamente contaminada, antibiótico-profilaxia deve ser realizada com ou sem o uso de telas.
+G: C
+
+Q: Com relação à profilaxia sistêmica antimicrobiana para prevenção de Infecção do Sítio Cirúrgico (ISC), assinale a alternativa CORRETA:
+A) A classificação da ferida cirúrgica (Limpa, Potencialmente Contaminada, Contaminada, Infectada) é o único critério a ser considerado para determinar o emprego de antibiótico profilático.
+B) Antibióticos profiláticos não deverão ser administrados, sob quaisquer circunstâncias, em cirurgias limpas.
+C) Nas feridas potencialmente contaminadas e contaminadas, o uso de antibiótico profilático não trará benefícios clínicos.
+D) Em pacientes traqueostomizados ou intubados, os antibióticos profiláticos representam uma medida eficaz na prevenção de infecções de sítio pulmonar.
+E) Os antibióticos profiláticos devem ser administrados pré-operatoriamente no momento da indução anestésica ou 30 (trinta) minutos antes do início do procedimento.
+G: E
+
+Q: Em relação ao uso de profilaxia antibiótica em cirurgias, é correto afirmar que:
+A) A profilaxia deve ser administrada somente endovenosa e nunca via intramuscular
+B) Antibióticos profiláticos são indicados apenas em cirurgias de emergência.
+C) A administração do antibiótico deve ocorrer antes da incisão cirúrgica.
+D) Não há evidências que justifiquem o uso de antibióticos profiláticos em cirurgias limpas.
+E) Nenhuma das alternativas acima está correta.
+G: C
+
+Q: A partir da década de 1940, os antibióticos foram introduzidos na prática clínica, e uma das principais indicações foi a prevenção das infecções pós-operatórias. Sua utilização levou ao aparecimento de cepas resistentes, além de causar efeitos indesejáveis e elevar os custos do tratamento médico. Assim, nos últimos 20 anos, investiu-se na padronização e racionalização do uso de antibióticos. <br><br>Acerca da antibioticoprofilaxia no paciente cirúrgico, avalie os itens como verdadeiros ou falsos e indique a alternativa que corresponde a ordem CORRETA: <br><br>I. Está indicada para prevenção de infecção de sítio cirúrgico em cirurgias limpas, quando a infecção do sítio cirúrgico no pós-operatório aumenta a morbidade, em cirurgias potencialmente contaminadas e contaminadas;<br><br>II. Basicamente, recomenda-se uma cefalosporina de 1ª geração (como a cefazolina) para praticamente todos os procedimentos, exceto intervenções sobre íleo terminal, cólon e reto, em que se recomenda uma cefalosporina de 3ª geração (como o cefatriaxone); <br><br>III. A profilaxia antibiótica perioperatória, geralmente, não deve ser continuada, além do dia da operação. Com o advento da cirurgia minimamente invasiva, o uso de antibióticos é menos justificado, pelo risco de infecção de ferida ser extremamente baixo; <br><br>IV. Ao término da cirurgia, a administração do antibiótico profilático deve ser interrompida, uma vez que sua eficácia na prevenção de infecção de sítio cirúrgico é durante o ato operatório; <br><br>V. Quanto mais prolongada a antibioticoprofilaxia, menor a chance de manter uma flora bacteriana resistente, porém mais efeitos colaterais (gastrointestinais e cutâneos) e maiores os custos. 
+A) I - F; II - F; III - V; IV - F; V - V.
+B) I - V; II - V; III - F; IV - V; V - F.
+C) I - F; II - V; III - F; IV - V; V - V.
+D) I - V; II - F; III - V; IV - V; V - F.
+E) I - F; II - V; III - V; IV - F; V - V.
+G: D
+
+Q: A efetividade da profilaxia antibiótica sistêmica em pacientes cirúrgicos depende, principalmente, de uso de antibiótico:
+A) em múltiplas doses, por um curto período.
+B) bactericida.
+C) de largo espectro.
+D) antes da cirurgia, na indução anestésica. 
+G: D
+
+Q: A profilaxia antimicrobiana é uma poderosa medida preventiva da infecção de sítio cirúrgico. Sobre esta, marque a alternativa ERRADA: 
+A) Deve ser realizada em cirurgia com conhecida contaminação bacteriana grosseira.
+B)  A antibioticoprofilaxia é mais eficaz quando iniciada no pré-operatório e continuada através do período intraoperatório.
+C)  Se a flora anaeróbica não é esperada, a cefazolina é a droga profilática a ser escolhida. 
+D)  É eficaz em pacientes com traqueostomia para prevenir infecções pulmonares.
+ 
+E) Pacientes submetidos a uma herniorrafia umbilical eletiva, sem uso de tela, não necessitam uso de antibiótico profilaxia. 
+G: D
+C: a antibioticoprofilaxia cirúrgica não está associada a prevenção de pneumonia após a realização de traqueostomia. Como também não reduz a incidência de infecção de sítio cirúrgico, a administração de profilaxia antimicrobiana não é recomendada como rotina para esse procedimento. Infecção de sítio cirúrgico após traqueostomia é um evento pouco comum e normalmente não requer antimicrobiano sistêmico.
+
+Q: Sobre as medidas preventivas para infecção em área cirúrgica, assinale o item correto.
+A) A estadia pré-operatória curta, o banho antisséptico e a retirada apropriada de pelos não são medidas efetivas na prevenção de infecção.
+B) A antibioticoprofilaxia deve ser realizada em todo paciente submetido à cirurgia sob anestesia geral, pois nesses casos a chance de infecção é maior.
+C) Tempo cirúrgico prolongado, gravidade do paciente e uso de prótese são critérios de risco que justificam o uso de antibióticos profiláticos.
+D) Não há diferença de eficácia na administração pré e transoperatória do antibiótico na profilaxia de infecções
+E) O uso estendido de antibioticoprofilaxia por mais de 24 horas diminui de forma significativa a chance de infecção de ferida operatória.
+G: C
+
+Q: A infecção de sítio cirúrgico (ISC) apresenta importante impacto aos resultados clínicos e custos pós-operatórios. Em relação a esse tema, assinale a alternativa INCORRETA.
+A) Em função do risco adicional de ISC, associada ao emprego das telas sintéticas na correção das hérnias inguinais, justifica-se a antibioticoprofilaxia com cefalosporina de primeira geração (ex.: cefalozina).
+B) A ferida operatória é classificada como limpa, quando não há presença de inflamação ou quebra da técnica asséptica, bem como não ocorre abertura do trato respiratório, gastrointestinal ou genitourinário.
+C) Por definição, a infecção de sítio cirúrgico é aquela que desenvolve após o trigésimo dia de pós-operatório ou dentro de um ano, se um implante foi utilizado no ato cirúrgico e a infecção parece estar relacionada à operação.
+D) Nos casos em que se realiza a antibioticoprofilaxia cirúrgica, mas necessitarão de antibioticoterapia após a exploração operatória, recomenda-se que o antibiótico padronizado para profilaxia seja substituído por outro(s), a fim de minimizar o risco de resistência bacteriana. 
+E) A ISC é classificada como incisional profunda quando há comprometimento do plano músculo-aponeurótico, com ou sem envolvimento da pele ou subcutâneo.
+G: C
+
+Q: A Infecção do Sítio Cirúrgico (ISC) é uma das principais infecções relacionadas à assistência à saúde no Brasil, ocupando a terceira posição entre todas as infecções em serviços de saúde e compreendendo 14% a 16% daquelas encontradas em pacientes hospitalizados. No que diz respeito à infecção do sítio cirúrgico, estão corretas as seguintes afirmações, EXCETO.
+A) Infecção incisional superficial é a que ocorre, nos primeiros 30 dias, após a cirurgia e envolve apenas pele e subcutâneo.
+B) Infecção incisional profunda ocorre, nos primeiros 30 dias, após a cirurgia ou até um ano, se houver colocação de prótese, e envolve tecidos moles profundos à incisão (por exemplo: fáscia e/ou músculos).
+C) Infecção em órgão ou cavidade que ocorre, nos primeiros 30 dias, após a cirurgia ou até um ano, se houver colocação de prótese, e envolve qualquer órgão ou cavidade que tenha sido aberta ou manipulada durante a cirurgia.
+D) Caso tenha sido utilizada tela, a infecção de sítio cirúrgico pode ser considerada até o período de 9 meses, após o dia da cirurgia.
+E) Caso a infecção envolva mais de um plano anatômico, é considerado o sítio de maior profundidade.
+G: D
+C: - ISC incisional superficial: ocorre nos primeiros 30 dias após o procedimento cirúrgico, envolve apenas pele e tecido subcutâneo.<br>- ISC incisional profunda: ocorre nos primeiros 30 dias após a cirurgia ou até 90 dias, se houver colocação de implantes e envolve tecidos moles profundos à incisão como fáscia e músculos.<br>- ISC de ógão/cavidade: ocorre nos primeiros 30 dias após a cirurgia ou até 90 dias, se houver colocação de implantes e envolve qualquer órgão ou cavidade que tenha sido aberta ou manipulada durante a cirurgia.<br>Vamos agora analisar as alternativas:<br><b>Gabarito: alternativa "{D}". Como a banca se baseou nos critérios antigos de 2009 da Anvisa e não no mais atual de 2017, caberia recurso nessa questão.</b>
+
+Q: A Infecção do Sítio Cirúrgico (ISC) é uma das principais infecções relacionadas à assistência à saúde no Brasil, ocupando a terceira posição entre todas as infecções em serviços de saúde e compreendendo 14% a 16% daquelas encontradas em pacientes hospitalizados. Neste contexto, assinale verdadeiro (V) ou falso (F) nas proposições abaixo:
+<br>
+I. Os micro-organismos responsáveis pela infecção do sítio cirúrgico podem ser endógenos ou exógenos.;
+<br>
+II. A interação entre fatores de risco relacionados ao paciente, ao local da ferida e fatores bacterianos é que determinam o risco de infecção.;
+<br>
+III. Antibióticos profiláticos sistêmicos são indicados, sendo que nas cirurgias limpas de baixo risco, indica-se dose única.;
+<br>
+IV. As características físicas e arquitetônicas da sala operatória não influenciam nas taxas de infecção.;
+<br>
+V. Febre até o terceiro dia pós-operatório provavelmente tenha causa não infecciosa.;
+<br>
+VI. O uso duplo de luvas é recomendado para todos os procedimentos cirúrgicos.
+A) V, V, V, F, F, V
+B) F, V, F, F, V, F
+C) V, V, F, F, V, V
+D) F, V, F, V, F, F
+E) F, F, V, V, F, V
+G: C
+
+Q: A infecção do sítio cirúrgico é a complicação infecciosa mais frequente no paciente operado. Pensando nisso, medidas gerais de prevenção de infecção em cirurgias eletivas devem ser adotadas. Assinale a alternativa VERDADEIRA referente a estas medidas: (MITTELDORF C. Medidas Gerais de Prevenção de Infecção em Cirurgia. In: MITTELDORF, C.; RASSLAN, S.; BIROLINI, D. Infecção & Cirurgia – Divisão de Clínica Cirúrgica III Hospital de Clínicas – FMUSP. Atheneu, 2007.)
+A) Antes da realização do tratamento cirúrgico proposto, uma história e um exame físico cuidadoso do paciente evidenciarão os principais problemas do paciente que poderão implicar em risco aumentado de infecção no pós operatório.
+B) O banho no chuveiro, principalmente com anti-séptico, é o mais indicado.
+C) A tricotomia visa impedir que pêlos sejam incluídos na ferida operatória. Esta deverá ser realizada em casa, pelo paciente, um dia antes da cirurgia.
+D) A partir do momento que o paciente está devidamente monitorizado e anestesiado, inicia-se o processo de anti-sepsia da pele do paciente, numa área restrita ao campo operatório.
+E) Quanto mais prolongada a operação, quanto maior a incisão e o trauma tecidual, menor o risco de infecção no pós operatório.
+G: A
+
+Q: Com relação às infecções do sítio cirúrgico (ISCs) e às infecções que envolvem o ato operatório, pode-se afirmar:
+A) O termo "infecção cirúrgica" é utilizado para indicar infecções que tendem a ser otimamente responsivas a tratamentos médicos e antimicrobianos.
+B) Staphylococcus aureus é o agente patogênico mais comum nas ISCs, e sua habilidade de desenvolver resistência à terapia antimicrobiana continua sendo um dos maiores desafios, atualmente, enfrentados pela comunidade médica.
+C) O desenvolvimento de uma infecção cirúrgica envolve uma estreita interface entre três sistemas orgânicos do paciente: imunológico, hematológico e metabólico.
+D) O Centers for Disease Control and Prevention (CDCP) define a ISC como uma infecção que ocorre na (ou perto da) incisão cirúrgica, até 90 dias do pós-operatório do procedimento ou, se for feito um implante (ex.: malha, valva cardíaca) em até 6 meses.
+E) Feridas contaminadas são as feridas operatórias em que os tratos respiratório, alimentar, genital ou urinário são penetrados sob condições controladas.
+G: B
+C: {A} -> Vamos relembrar o conceito de infecção do sítio cirúrgico (ISC):<br>É uma infecção relacionada a um procedimento cirúrgico que ocorre na incisão ou perto dela, dentro de 30 dias após o procedimento OU dentro de 90 dias, se houver o implante de próteses na cirurgia (na infecção de sítio cirúrgico profunda ou órgão-cavidade).<br>{B} -> Os microrganismos dominantes que causam as infecções de sítio cirúrgico são as bactérias Gram-positivas que fazem parte da flora cutânea. Como elas colonizam a pele, em razão da quebra da barreira decorrente da incisão cirúrgica, essas bactérias podem causar infecção. Os agentes etiológicos mais comuns são os estafilococos coagulase-negativos e o S. aureus. <br>{C} -> O corpo humano é formado pelos sistemas: cardiovascular, respiratório, digestório, nervoso, sensorial, endócrino, excretor, urinário, reprodutor, esquelético, muscular, imunológico, linfático, tegumentar.<br>Não existe sistema metabólico<br>{D} -> A definição de ISC dos Centros de Controle e Prevenção de Doenças (CDC) dos Estados Unidos é a mais amplamente utilizada. O CDC define uma ISC como uma infecção relacionada a um procedimento cirúrgico que ocorre próximo ao local da cirurgia <b>dentro de 30 dias após a cirurgia ou até 90 dias</b> após a cirurgia quando um implante está envolvido.<br>{E} -> Esta é a definição de uma ferida limpa-contaminada.<br>O principal fator de risco para infecção de sítio cirúrgico (ISC) é o grau de contaminação da ferida operatória. Veja como podemos classificá-la: <br>• Limpa. Uma ferida operatória não infectada na qual nenhuma inflamação é encontrada e o trato respiratório, alimentar, genital ou urinário não infectado não é atingido. Além disso, as feridas limpas não envolve penetração em vísceras ocas,  são fechadas principalmente e, se necessário, drenadas com drenagem fechada. Feridas incisionais operatórias que seguem trauma não penetrante (contuso) devem ser incluídas nesta categoria se atenderem aos critérios. Exemplos: neurocirurgias, revascularização miocárdica, hernioplastias, mamoplastias etc. Nesses casos, a probabilidade de infecção é baixa, girando em torno de 1 a 5%.<br>• Limpa-contaminada ou potencialmente contaminada. Ferida operatória na qual os tratos respiratório, alimentar, genital ou urinário são penetrados sob condições controladas e sem contaminação incomum. Especificamente, as operações envolvendo o trato biliar, apêndice, vagina e orofaringe estão incluídas nesta categoria, desde que não seja encontrada nenhuma evidência de infecção ou falha importante na técnica. Lesões produzidas acidentalmente com arma branca com lesão inferior a 6 horas. O risco de infecção dessas cirurgias varia de 3 a 11%. <br>• Contaminadas. Feridas abertas, recentes e acidentais. Além disso, operações com grandes interrupções na técnica estéril (por exemplo, massagem cardíaca aberta) ou grande derramamento do trato gastrointestinal e incisões nas quais é encontrada inflamação aguda e não purulenta estão incluídas nesta categoria. As lesões traumáticas que passaram das 6 horas entre o trauma e o atendimento também entram nessa classificação. O risco de infecção é de 10 a 17%. <br>• Infectadas. Feridas traumáticas antigas com retenção de tecido desvitalizado e aquelas que envolvem infecção clínica existente ou vísceras perfuradas. Esta  definição sugere que os organismos causadores da infecção pós-operatória estavam presentes no campo operatório antes da operação.Por exemplo, uma apendicectomia supurada encaixa-se nessa classificação. Como o nome já diz, esse tipo de ferida já está infectado.
+
+Q: Sobre a prevenção da infecção de sítio cirúrgico em cirurgias eletivas recomenda-se:
+<br>
+I. Preservação da normotermia no período perioperatório.
+<br>
+II. Profilaxia antibiótica administrada dentro de 60 minutos antes da incisão cirúrgica.
+<br>
+III. Ampliação do espectro antibiótico (incluindo germes gram-negativos e anaeróbios) em hernioplastias com colocação de tela. 
+<br>
+Estão CORRETOS:
+A) Somente os itens I e II.
+B) Somente os itens I e III.
+C) Somente os itens II e III.
+D) Todos os itens.
+G: A
+C: O antibiótico de escolha para a maioria dos casos é a cefazolina. No caso de cirurgias colorretais, com o intuito de ampliar a cobertura para anaeróbios e Gram-negativos, a melhor escolha seria cefoxitina em monoterpia ou terapia combinada de cefuroxima ou ceftriaxona em associação ao metronidazol.<br>O antibiótico deverá ser administrado dentro de 60 minutos da incisão cirúrgica. Novas doses deverão ser administradas em caso de grande perdas de sangue (maiores que 1.500ml) ou cirurgias com duração maior que duas meias-vidas da droga (o que no caso da cefazolina daria 4 horas). O antibiótico deverá ser administrado somente durante a cirurgia e, se optado por estender o tempo de profilaxia, esta deverá permanecer por no máximo 24h.<br>Dito isso, vamos avaliar as alternativas:<br>I - Correta. Objetivamos a normotermia como método não-farmacológico de prevenção de infecção de sítio-cirúrgico.<br>II - Correta. Este de fato é o tempo indicado dentro do qual o antibiótico deverá ser administrado. <br>III - Incorreta. A ampliação de cobertura para Gram-negativos e anaeróbios está indicada para cirurgias colorretais, mas não para hernioplastia com colocação de tela. 
+
+Q: A infecção do sítio cirúrgico pode contribuir para importante morbiletalidade e custos hospitalares elevados. No que tange à prevenção e controle da infecção de sítio cirúrgico, assinale a alternativa CORRETA:
+A) Há uma forte recomendação favorável à irrigação da cavidade peritoneal e da ferida operatória com uma solução contendo antibióticos em cirurgias limpas e contaminadas, pois essa conduta é capaz de reduzir o risco de infecção de sítio cirúrgico.
+B) A administração com finalidade profilática da primeira dose endovenosa da cefazolina deve ser realizada 4 horas antes da incisão da pele e mantida durante 24 horas, pois é importante que seu nível tecidual seja adequadamente elevado para minimizar o risco de infecção de sítio cirúrgico.
+C) O emprego de dispositivos de aquecimento ativo do paciente durante a realização do procedimento cirúrgico é útil para manter a normotermia e redução das taxas de infecção de sítio cirúrgico.
+D) O emprego de fios de sutura multifilamentares impregnados com antimicrobianos (ex. poliglactina com triclosan é ineficaz para redução da prevalência de infecção de sítio cirúrgico em comparação aos fios sem revestimento antimicrobiano em cirurgias abdominais.
+G: C
+C: As infecções de sítio cirúrgico (ISC) são infecções da incisão, do órgão ou da cavidade que ocorrem após uma cirurgia. As ISC são condições associadas à assistência a saúde, correspondendo a aproximadamente 15% do total de infecções relacionada à assistência a saúde. É estimado que em 40 a 60% dos casos é possível evitar a ISC pela adoção de medidas preventivas.<br>A antibioticoprofilaxia cirúrgica é uma das medidas recomendadas para a redução do risco de ISC. Os princípios de uma antibioticoprofilaxia eficaz são: o antibiótico deve ser ativo contra as principais bactérias encontradas no sítio cirúrgico; a administração do antibiótico deve ser capaz de atingir níveis séricos e teciduais efetivos durante todo o procedimento cirúrgico e; o medicamento deve ser seguro e administrado por um curto período de tempo.<br>A antibioticoprofilaxia cirúrgica é indicada para as cirurgias contaminadas, as potencialmente contaminadas e deve ser considerada também para cirurgias limpas para as quais a ocorrência de ISC traz consequências graves. De maneira geral, a administração do antibiótico deve ser feita dentro de um intervalo de 60 minutos que antecedem a incisão cirúrgica. <br>Visando a manutenção de níveis efetivos do antibiótico, doses adicionais devem ser administradas de acordo com a meia-vida do fármaco. Adicionalmente, quando ocorrer sangramento cirúrgico importante, uma nova dose também deve ser administrada.<br>{A} -> Não existem evidências que esta prática diminui a incidência de ISC, e a mesma não é recomendada nas diretrizes de prevenção de ISC.<br>{B} -> A cefazolina é frequentemente selecionada como antibiótico para profilaxia de ISC, pois apresenta boa efetividade contra as bactérias mais frequentes, é considerada segura e de baixo custo. A dose recomendada para adultos é de 2 gramas a ser administrada dentro de um intervalo de 60 minutos antes da incisão cirúrgica, devendo ser repetida a cada 4 horas. <br>Na maioria dos casos, a antibioticoprofilaxia é feita apenas durante o tempo cirúrgico. Em casos de cirurgias contaminadas, a duração pode ser estendida, mas geralmente não passa de 24 horas (a exceção são as cirurgias cardíacas em que a profilaxia se estende por até 48 horas).<br>{C} -> Diversas pesquisas já demonstraram a associação entre hipotermia intraoperatória e aumento do risco de ISC. <br>Os mecanismos responsáveis pelo aumento do risco de ISC pela hipotermia são: diminuição da perfusão do tecido traumatizado pela cirurgia (diminuindo assim a migração de células imunológicas); redução da motilidade de células de defesa (diminuindo a eficácia de sua ação) e; prejuízo da cicatrização aumentando o risco de deiscência e contaminação da ferida.<br>{D} -> As evidências científicas demonstram que o uso de fios de sutura cobertos com a substância antimicrobiana triclosan é capaz de diminuir a incidência de infecções de sítio cirúrgico, sendo essa uma abordagem recomendada nas diretrizes de prevenção de ISC.
+
+Q: Os riscos de infecção de sítio cirúrgico são tradicionalmente correlacionados a fatores de risco que devem ser sempre avaliados para que sejam estabelecidas faixas aceitáveis de infecção em qualquer serviço hospitalar. Dentre os fatores abaixo, assinale aquele que não faz parte da avaliação do risco de infecção de áreas cirúrgicas.
+A) ASA IV
+B) sexo feminino
+C) grau de contaminação da ferida
+D) ASA III
+E) tempo de procedimento prolongado
+G: B
+C: De forma bem resumida, podemos definir a ISC como uma infecção relacionada a um procedimento cirúrgico que ocorre na incisão ou perto dela, dentro de 30 dias após o procedimento OU dentro de 90 dias, se houver o implante de próteses na cirurgia (na infecção de sítio cirúrgico profunda ou órgão-cavidade). <br>O sítio cirúrgico é considerado infectado quando: <br>- Há drenagem de secreção francamente purulenta;<br>- A secreção drenada apresenta cultura positiva;<br>- O local abre espontaneamente e drena secreção purulenta; e <br>- A incisão é aberta pelo médico.<br>É classificada pelo local do acometimento:<br>- Superficial: pele e subcutâneo;<br>- Profunda: fáscia e músculo; e<br>- Órgão/cavidade: órgãos e cavidade, como cavidade torácica ou abdominal.<br>Caso a infecção envolva mais de um plano anatômico, devemos escolher apenas o sítio de maior profundidade.<br>A -> A classificação da American Society of Anesthesiologists (ASA) é usada para avaliar o estado físico pré-operatório dos pacientes e seu risco anestésico. Pacientes classificados como ASA IV são aqueles com uma doença sistêmica que representa uma ameaça constante à vida. Esses pacientes têm maior risco de complicações, incluindo infecção de sítio cirúrgico.<br>B -> O sexo do paciente não é considerado um fator de risco isolado para infecção de sítio cirúrgico. Como vimos, Infecções pós-operatórias estão relacionadas a fatores como o tipo de cirurgia, a técnica cirúrgica, a duração da operação, o estado de saúde geral do paciente e a presença de comorbidades, entre outros.<br>C -> O grau de contaminação da ferida é o principal fator de risco relacionado à infecção de sítio cirúrgico. Lembre-se, as cirurgias são classificadas com base no seu grau de contaminação em limpa, limpa-contaminada, contaminada e infectada, o que afeta diretamente o risco de infecção. Feridas com maior grau de contaminação apresentam riscos maiores de desenvolver infecções. Vamos rever esses conceitos em maior profundidade, pois isto é importante para a prova.<br>Limpa. É aquela em que não há inflamação, é realizada em tecidos estéreis e não envolve penetração em vísceras ocas. Exemplos: neurocirurgias, revascularização miocárdica, hernioplastias, mamoplastias etc. Nesses casos, a probabilidade de infecção é baixa, girando em torno de 1 a 5%.<br>Limpa-contaminada ou potencialmente contaminada. É a ferida em que houve abertura do sistema digestório ou geniturinário, ou produzida acidentalmente com arma branca com lesão inferior a 6 horas. O risco de infecção dessas cirurgias varia de 3 a 11%.<br>Contaminadas. São aquelas feridas que têm reação inflamatória ou entraram em contato com um material contaminado, como fezes, poeira ou outra sujidade. As lesões traumáticas que passaram das 6 horas entre o trauma e o atendimento também entram nessa classificação. O risco de infecção é de 10 a 17%.<br>Infectadas. São aquelas em que há a presença de agente infeccioso no local e lesão com evidência de intensa reação inflamatória e destruição tecidual. Pode ter a presença de pus. Por exemplo, uma apendicectomia supurada encaixa-se nessa classificação. Como o nome já diz, esse tipo de ferida já está infectado.<br>D -> Assim como a classificação ASA IV, a classificação ASA III também é um fator de risco relevante para infecções de sítio cirúrgico. Pacientes ASA III têm doenças sistêmicas, mas não necessariamente ameaçadoras à vida, como no ASA IV. Ainda assim, esses pacientes apresentam maior risco de complicações pós-operatórias, incluindo infecções, em comparação com pacientes em melhor estado de saúde.<br>E -> O tempo de duração da cirurgia é um fator de risco bem documentado para infecção de sítio cirúrgico. Procedimentos cirúrgicos mais longos podem aumentar o risco de contaminação e, consequentemente, de infecção. Portanto, a exposição prolongada a um ambiente operatório, apesar das técnicas assépticas, aumenta a chance de infecção do sítio cirúrgico.
+
+Q: As infecções do sítio cirúrgico (ISC) são entidades que merecem bastante relevância por representarem a complicação mais comum dos procedimentos cirúrgicos e por corresponderem, em média, a 15% de todas as infecções hospitalares. Identificá-las, classificá-las e preveni-las são medidas necessárias para evitar suas consequências, portanto, considerando esses fatos, identifique a alternativa que melhor se encaixe nestes pontos:
+A) Fatores consideráveis de risco para as ISC, maior duração do ato operatório, tabagismo e imunossupressão.
+B) No tocante à classificação, podemos considerar a Colecistectomia eletiva indicada por colelitíase como cirurgia contaminada, justificando o uso de antibióticos no pré e pós- operatório.
+C) A presença de secreção purulenta na pele e tecido celular subcutâneo, possível de ocorrer em determinado período de qualquer pós-operatório, classifica as ISC em órgão e espaço específicos.
+D) Após confirmação da ISC, a introdução da antibioticoterapia deve ser precoce, pois essa medida irá prevenir complicações futuras.
+G: A
+C: Infecções de sítio cirúrgico (ISC) são uma causa comum de infecção associada a cuidados de saúde. O Centro de Controle e Prevenção de Doenças (CDC) dos Estados Unidos desenvolveu critérios que definem ISC como infecção relacionada a um procedimento cirúrgico que ocorre na incisão cirúrgica ou próximo a ela dentro de 30 dias do procedimento ou dentro de 1 ano se material prostético for utilizado na cirurgia.<br>{A} -> O tempo cirúrgico prolongado, o tabagismo e a imunossupressão são todos fatores de risco para a infecção de sítio cirúrgico. Além deles, podemos destacar a diabetes, a doenças vasculares (doença arterial obstrutiva periférica, insuficiência venosa crônica) e obesidade.<br>{B} -> A colecistectomia eletiva, por manipular a via biliar, é considerada uma cirurgia potencialmente contaminada, estando indicado somente a antibioticoprofilaxia.<br>{C} -> A infecção da pele e tecido subcutâneo classifica a infecção da ferida como superficial. Além da secreção purulenta, devemos ter dor peri-incisional, edema, hiperemia e calor local.<br>{D} -> As infecções de sítio cirúrgico superficiais podem ser manejadas com a abertura dos pontos e lavagem da ferida com solução salina, apenas, não necessitando de antibioticoterapia, inicialmente.
+
+Q: A infecção de sítio cirúrgico está entre as complicações mais comuns nos pacientes em pós operatório.
+Com relação ao tema, assinale a alternativa incorreta:
+A) fatores de risco incluem preparo inadequado da pele, tempo operatório prolongado e necessidade de transfusão de hemocomponentes.
+B) em vigência de infecção de sítio cirúrgico superficial, a abordagem inicial deve incluir antibioticoterapia.
+C) infecção de sítio cirúrgico profunda está entre as principais causas de deiscência de ferida operatória.
+D) infecção de sítio cirúrgico incisional profunda pode ocorrer em até 90 dias de pós operatório, na vigência de colocação de implantes.
+E) drenagem de secreção confinada aos pontos de penetração de sutura não é considerada infecção de sítio cirúrgico.
+G: B
+C: Vamos aproveitar as alternativas e relembrar os principais conceitos sobre infecção de sítio cirúrgico (ISC).<br>Conceito de ISC: Relacionada a um procedimento cirúrgico que ocorre na incisão ou perto dela.<br>- dentro de 30 dias após o procedimento OU dentro de 90 dias, se houver o implante de próteses na cirurgia (Critérios da ANVISA, 2017)<br>- 1 ano após o procedimento se houver implante de próteses (CBC).<br>As infecções de sítio cirúrgico são classificadas conforme os planos acometidos:<br>✔ INFECÇÕES SUPERFICIAIS: acometem a pele e o subcutâneo, os achados clínicos mais comuns são dor, endurecimento, edema, calor e hiperemia junto da incisão cirúrgica.<br>✔ INFECÇÕES PROFUNDAS: acometem fáscias e camada muscular, além das características clínicas presentes nas infecções superficiais, os pacientes também apresentam febre (Tax > 38 °C).<br>✔ INFECÇÕES DE ÓRGÃO/CAVIDADE: quadro clínico é variável, sendo que muitos pacientes apresentam poucos sintomas. Uma das apresentações é a deiscência da ferida operatória. Devemos ficar mais atentos a sinais de sepse, como febre, hipotensão, dor abdominal.<br>** Caso a infecção envolva mais de um plano anatômico, devemos considerar o sítio de maior profundidade.<br>{A} -> fatores de risco incluem preparo inadequado da pele, tempo operatório prolongado e necessidade de transfusão de hemocomponentes. Correta. <br>{B} -> em vigência de infecção de sítio cirúrgico superficial, a abordagem inicial deve incluir antibioticoterapia. Incorreta! A abordagem inicial da infecção de sítio cirúrgico, superficial ou profunda, deve incluir abertura dos pontos, limpando a ferida com solução salina e desbridando tecidos desvitalizados, caso estejam presentes. A antibioticoterapia está indicada na presença de sinais importantes de celulite no local, ou na presença de sinais de infecção sistêmica (febre, taquicardia, etc).<br>{C} -> infecção de sítio cirúrgico profunda está entre as principais causas de deiscência de ferida operatória. Correta! A infecção de sítio cirúrgico profunda é a principal causa de deiscência de ferida operatória.<br>{D} -> infecção de sítio cirúrgico incisional profunda pode ocorrer em até 90 dias de pós operatório, na vigência de colocação de implantes. Correta! A infecção de sítio cirúrgico incisional profunda ocorre nos primeiros 30 dias após a cirurgia (sendo o 1° dia a data do procedimento) ou em até 90 dias, se houver colocação de implantes, envolve tecidos moles profundos à incisão (ex.: fáscia e/ou músculos) e apresenta pelo menos UM dos seguintes critérios:<br>• Drenagem purulenta da incisão profunda, mas não originada de órgão/cavidade; <br>• Deiscência espontânea profunda ou incisão aberta pelo cirurgião e cultura positiva ou não realizada, quando o paciente apresentar pelo menos 1 dos seguintes sinais e sintomas: febre (temperatura ≥ 38 °C), dor ou tumefação localizada; <br>• Abscesso ou outra evidência de infecção envolvendo tecidos profundos, detectado durante exame clínico, anatomopatológico ou de imagem; <br>• Diagnóstico de infecção incisional profunda feito pelo cirurgião ou por outro médico assistente.<br>24%<br>{E} -> drenagem de secreção confinada aos pontos de penetração de sutura não é considerada infecção de sítio cirúrgico. Correta! Não são consideradas infecção de sítio cirúrgico superficial:<br>celulite (vermelhidão, calor, inchaço); <br>abscesso do ponto (inflamação mínima ou drenagem confinada aos pontos de penetração de sutura); <br>Infecção de episiotomia ou de circuncisão do neonato.
+
+Q: Em relação à infecção do sítio cirúrgico, é correto afirmar:
+A) O principal fator de risco é a antissepsia inadequada.
+B) Pode ocorrer em até 30 dias após o procedimento ou em até um ano se houver implante.
+C) É a segunda maior causa de óbito nas unidades de terapia intensiva.
+D) Só pode ser confirmada quando houver cultura positiva da secreção.
+E) Só pode ser confirmada quando houver drenagem espontânea de secreção pela ferida operatória.
+G: B
+
+Q: São considerados fatores de risco para o desenvolvimento de infecção pós-operatória, EXCETO: 
+A) Operação classificada, quanto ao grau de contaminação, como contaminada.
+B) Cirurgia abdominal.
+C) Tempo cirúrgico superior a 2 horas.
+D) Cirurgia cardiovascular.
+G: D
+
+Q: Sobre as medidas preventivas para infecção em área cirúrgica, assinale o item correto.
+A) A estadia pré-operatória curta, o banho antisséptico e a retirada apropriada de pelos não são medidas efetivas na prevenção de infecção.
+B) A antibioticoprofilaxia deve ser realizada em todo paciente submetido à cirurgia sob anestesia geral, pois nesses casos a chance de infecção é maior.
+C) Tempo cirúrgico prolongado, gravidade do paciente e uso de prótese são critérios de risco que justificam o uso de antibióticos profiláticos.
+D) Não há diferença de eficácia na administração pré e transoperatória do antibiótico na profilaxia de infecções
+E) O uso estendido de antibioticoprofilaxia por mais de 24 horas diminui de forma significativa a chance de infecção de ferida operatória.
+G: C
