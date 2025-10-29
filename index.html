@@ -299,6 +299,17 @@
     .assertive-feedback.incorrect {
 	border: 3px solid #d5001a;
     }
+	.alt-comment{
+	  display:block;
+	  margin: 6px 0 8px 44px; /* alinha com o início do texto da alternativa */
+	  font-size: 0.98em;
+	  color:#324a78;
+	  background:#f5f7ff;
+	  border:1px solid #e0e8ff;
+	  border-radius:8px;
+	  padding:6px 10px;
+	  max-width: 100%;
+	}
     .write-block {
       margin-top: 18px;
       margin-bottom: 10px;
@@ -887,6 +898,7 @@
     border: 1px solid #c8e6c9;
     box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
+
   </style>
 </head>
 <body>
@@ -1673,13 +1685,20 @@ function parsePlainOrVariantes(chunk) {
     if (antes) {
       res.push(... parseQuestions(antes));
     }
-    // transforma o bloco de variantes em UMA pergunta tipo vf-variante
-    const variantes = parseQuestions(mv[1]).map(v => ({
-      enunciado:  v.enunciado,
-      gabarito:   v.gabarito,
-      comentario: v.comentario || null
-    }));
-    res.push({ tipo: 'vf-variante', variantes });
+    const innerQs = parseQuestions(mv[1]); 
+    const allVF = innerQs.length > 0 && innerQs.every(q => q.tipo === 'vf');
+
+    if (allVF) {
+        const variantes = innerQs.map(v => ({
+            enunciado:  v.enunciado,
+            gabarito:   v.gabarito,
+            comentario: v.comentario || null
+        }));
+        res.push({ tipo: 'vf-variante', variantes });
+    } else if (innerQs.length > 0) {
+        const chosenQ = innerQs[Math.floor(Math.random() * innerQs.length)];
+        res.push(chosenQ); // Adiciona a questão escolhida como uma questão normal
+    }
     last = varRegex.lastIndex;
   }
 
@@ -1871,11 +1890,16 @@ fileInput.addEventListener('change', function(e) {
 
 /* ---------------------------  RESET QUIZ  --------------------------- */
 resetQuizBtn.addEventListener('click', function() {
-  if (!originalQuestions.length) return;
-  variantSelections = [];     // força escolher novos variantes
-  setupQuiz();
-  renderQuizTitle();
-  saveCurrentState();
+    const state = loadState();
+    if (state && state.quizText) {
+        initiateFilteringProcess(state.quizText, state.currentQuizTitle || "");
+
+    } else if (originalQuestions.length > 0) {
+        variantSelections = [];
+        setupQuiz();
+        renderQuizTitle();
+        saveCurrentState();
+    }
 });
 shuffleQuestionsChk.addEventListener('change', function() {
   if (shuffleQuestionsLocked) {
@@ -1901,25 +1925,37 @@ function setupQuiz() {
   }
   const n = originalQuestions.length;
 
-  /*  Escolha (ou preserva) variante para cada questão vf‑variante  */
-  for (let i = 0; i < n; i++) {
-    const q = originalQuestions[i];
-    if (q.tipo === 'vf-variante') {
-        // Garantir que variantSelections tenha o tamanho certo, preenchendo com null se necessário
-        while (variantSelections.length <= i) {
-            variantSelections.push(null);
-        }
-        // Escolher apenas se for null ou undefined
-        if (variantSelections[i] === undefined || variantSelections[i] === null) {
-            variantSelections[i] = Math.floor(Math.random() * q.variantes.length);
-        }
-    } else {
-        // Adicionar null para outros tipos de questão para manter o índice alinhado
-         while (variantSelections.length <= i) {
-            variantSelections.push(null);
-        }
-    }
-  }
+		/*  Escolha (ou preserva) variantes para vf-variante e QCH  */
+		for (let i = 0; i < n; i++) {
+		  const q = originalQuestions[i];
+		  // Garante índice em variantSelections
+		  while (variantSelections.length <= i) variantSelections.push(null);
+
+		  // vf-variante (já existia)
+		  if (q.tipo === 'vf-variante') {
+			if (variantSelections[i] === null || typeof variantSelections[i] !== 'number') {
+			  variantSelections[i] = Math.floor(Math.random() * q.variantes.length);
+			}
+		  }
+
+		  // QCH com variantes por assertiva
+		  if (q.tipo === 'checkbox') {
+			let sel = variantSelections[i];
+			if (!sel || typeof sel !== 'object') sel = {};
+			if (!sel.cb) sel.cb = {};
+
+			if (Array.isArray(q.assertives)) {
+			  q.assertives.forEach((a, aIdx) => {
+				if (a && Array.isArray(a.variantes) && a.variantes.length > 0) {
+				  if (sel.cb[aIdx] === undefined) {
+					sel.cb[aIdx] = Math.floor(Math.random() * a.variantes.length);
+				  }
+				}
+			  });
+			}
+			variantSelections[i] = sel;
+		  }
+		}
 
 
 /*  ----------  randomização / manutenção de grupos  --------- */
@@ -1992,7 +2028,6 @@ if (shuffleQuestionsChk.checked) {
   // saveCurrentState(); // Removed from here
 }
 
-
 /* -------------------  PARSER DE QUESTÕES (Copied from V1)  ------------------- */
 function parseQuestions(text) {
   const blocks = text.split(/\n\s*\n|^-{3,}$/m)
@@ -2026,25 +2061,39 @@ function parseQuestions(text) {
         const enunciadoFormatado = autoEmbedImages(enunciado); // Formata só o enunciado
         const noRandom = /^\s*NO-RANDOM:\s*TRUE/i.test(textoAssertivas); // Verifica NO-RANDOM no início do texto das assertivas
 
-        const assertives = [];
-        const assertiveRegex = /A(\d{1,2}):\s*([\s\S]+?)(?:^G:\s*([VF])\s*(?:\n|$))((?:\s*C:\s*((?:(?!\s*^A\d+:|\s*^NO-RANDOM:)[\s\S])+))?(?=^A\d+:|^NO-RANDOM:|$))/gmi; // Regex da v3 (bom para assertivas)
+		// Agora suportamos VARIANTES por identificador (A1, A2, ...):
+		// Se A1 aparece mais de uma vez, cada ocorrência vira uma "variante" de A1.
+		// Mantemos a ordem do "primeiro aparecimento" de cada identificador.
 
-        // *** IMPORTANTE: Execute o regex no texto *separado* das assertivas ***
-        let match;
-        let count = 0;
-        // Reset lastIndex before executing regex in a loop
-        assertiveRegex.lastIndex = 0;
-        while ((match = assertiveRegex.exec(textoAssertivas)) !== null && count < 50) {
-             // Check if match[2] is just whitespace or empty, skip if so
-            if (!match[2] || /^\s*$/.test(match[2])) continue;
-            assertives.push({
-                idx: count, // Use count as index
-                texto: autoEmbedImages(match[2].trim()),
-                gabarito: match[3],
-                comentario: match[5] ? autoEmbedImages(match[5].trim()) : null,
-            });
-            count++;
-        }
+		const assertives = [];
+		const assertiveRegex = /A(\d{1,2}):\s*([\s\S]+?)(?:^G:\s*([VF])\s*(?:\n|$))((?:\s*C:\s*((?:(?!\s*^A\d+:|\s*^NO-RANDOM:)[\s\S])+))?(?=^A\d+:|^NO-RANDOM:|$))/gmi;
+
+		const idToVariants = new Map(); // "1" -> [{texto,gabarito,comentario}, ...]
+		const idOrder = [];             // ordem de primeira aparição
+		assertiveRegex.lastIndex = 0;
+
+		let m;
+		while ((m = assertiveRegex.exec(textoAssertivas)) !== null) {
+		  const id = m[1]; // "1", "2", ...
+		  const texto = autoEmbedImages((m[2] || '').trim());
+		  const gabarito = (m[3] || '').trim();
+		  const comentario = m[5] ? autoEmbedImages(m[5].trim()) : null;
+
+		  if (!texto) continue;
+
+		  if (!idToVariants.has(id)) {
+			idToVariants.set(id, []);
+			idOrder.push(id);
+		  }
+		  idToVariants.get(id).push({ texto, gabarito, comentario });
+		}
+
+		// Monta o array final de assertivas na ordem da primeira aparição do ID.
+		// Cada posição tem { variantes: [...] } (mesmo que haja só 1 variante).
+		for (const id of idOrder) {
+		  const variantes = idToVariants.get(id);
+		  assertives.push({ variantes });
+		}
 
 
         if (assertives.length > 0) {
@@ -2182,16 +2231,26 @@ function renderQuiz() {
       altDiv.className = 'alternatives';
       const origIdx = shuffledQuestionsOrder[idx];
       const altOrder = shuffledAlternativesOrders[origIdx];
-      altOrder.forEach((letra, i) => {
-        const alt = q.alternativas.find(a => a.letra === letra);
-        const visLetra = String.fromCharCode(65 + i);
-        const label = document.createElement('label');
-        label.innerHTML = `<input type="radio" name="q${idx}" value="${letra}">
-          <strong>${visLetra})</strong>
-          <span class="alt-text-content">${alt ? alt.texto : ''}</span>`;
-        addEliminationButton(label);
-        altDiv.appendChild(label);
-      });
+		altOrder.forEach((letra, i) => {
+		  const alt = q.alternativas.find(a => a.letra === letra);
+		  const visLetra = String.fromCharCode(65 + i);
+		  const label = document.createElement('label');
+		  label.innerHTML = `<input type="radio" name="q${idx}" value="${letra}">
+			<strong>${visLetra})</strong>
+			<span class="alt-text-content">${alt ? alt.texto : ''}</span>`;
+		  addEliminationButton(label);
+
+		  // espaço para o comentário inline desta alternativa (inicialmente oculto)
+		  const commDiv = document.createElement('div');
+		  commDiv.className = 'alt-comment';
+		  commDiv.id = `q${idx}-altcomment-${letra}`; // usa a letra ORIGINAL da alternativa
+		  commDiv.style.display = 'none';
+
+		  // 1) adiciona o label (alternativa)
+		  altDiv.appendChild(label);
+		  // 2) adiciona o comentário como IRMÃO, abaixo do label
+		  altDiv.appendChild(commDiv);
+		});
       block.appendChild(altDiv);
       const radios = block.querySelectorAll(`input[type="radio"][name="q${idx}"]`);
       radios.forEach(r => {
@@ -2329,10 +2388,10 @@ function renderQuiz() {
       const altDiv = document.createElement('div');
       altDiv.className = 'alternatives';
       order.forEach((assertIdx, i) => {
-        const assertive = q.assertives[assertIdx];
-        const label = document.createElement('label');
-        label.innerHTML = `<input type="checkbox" name="q${idx}-assert" value="${assertIdx}">
-          <span class="alt-text-content">${assertive.texto}</span>`;
+		const view = resolveCheckboxAssertive(q, shuffledQuestionsOrder[idx], assertIdx);
+		const label = document.createElement('label');
+		label.innerHTML = `<input type="checkbox" name="q${idx}-assert" value="${assertIdx}">
+		  <span class="alt-text-content">${view ? view.texto : ''}</span>`;
         addEliminationButton(label);
         altDiv.appendChild(label);
         const cmtDiv = document.createElement('div');
@@ -2737,6 +2796,42 @@ function formatComentarioLetraShuffle(comentario, altOrder) {
   });
 }
 
+/* Divide o comentário geral (C:) em comentários por alternativa e um trecho geral.
+   Usa marcadores {A} ... {/A}, {B}...{/B}, etc. */
+function splitAltComments(rawComentario){
+  if(!rawComentario) return { perAlt:{}, general:"" };
+  const perAlt = {};
+  let general = rawComentario;
+
+  const tagRegex = /\{([A-Z])\}([\s\S]*?)\{\/\1\}/g;
+  let m;
+  while((m = tagRegex.exec(rawComentario)) !== null){
+    const letter = m[1];
+    const content = m[2].trim();
+    if(content) perAlt[letter] = autoEmbedImages(content);
+  }
+  // remove os blocos {X}...{/X} do comentário geral
+  general = general.replace(tagRegex, "").trim();
+  return { perAlt, general };
+}
+
+function resolveCheckboxAssertive(question, origIdx, assertIdx){
+  const base = question.assertives[assertIdx];
+  if (!base) return { texto: '', gabarito: 'F', comentario: null };
+
+  if (base.variantes && Array.isArray(base.variantes) && base.variantes.length > 0) {
+    let vIdx = 0;
+    const sel = variantSelections[origIdx];
+    if (sel && typeof sel === 'object' && sel.cb && sel.cb[assertIdx] !== undefined) {
+      vIdx = sel.cb[assertIdx];
+    }
+    const chosen = base.variantes[vIdx] || base.variantes[0];
+    return chosen;
+  }
+  // Compatibilidade com formato antigo (sem variantes)
+  return base;
+}
+
 
 function checkCheckboxAnswer(qIdx, selecionadas, visIdx, restoring = false) {
     const question = questions[qIdx];
@@ -2753,10 +2848,10 @@ function checkCheckboxAnswer(qIdx, selecionadas, visIdx, restoring = false) {
         const assertIdx = order[i]; // Original index of the assertive
         if (assertIdx === undefined || !question.assertives[assertIdx]) continue; // Skip if index or assertive is invalid
 
-        const assertive = question.assertives[assertIdx];
-        const checked = selecionadas.includes(assertIdx); // Check if the *original index* was selected
-        const gabarito = assertive.gabarito === "V";
-        const correto = (checked === gabarito);
+		const view = resolveCheckboxAssertive(question, origIdx, assertIdx);
+		const checked = selecionadas.includes(assertIdx);
+		const gabarito = (view.gabarito === "V");
+		const correto = (checked === gabarito);
 
         if (correto) acertos++;
 
@@ -2771,9 +2866,9 @@ function checkCheckboxAnswer(qIdx, selecionadas, visIdx, restoring = false) {
                 feedbackDiv.className = "assertive-feedback incorrect";
                 feedbackDiv.innerHTML = '<b><span style="color: #d5001a;">Você julgou INCORRETAMENTE a assertiva!</span></b>';
             }
-            if (assertive.comentario) {
-                feedbackDiv.innerHTML += "<br>" + assertive.comentario;
-            }
+				if (view.comentario) {
+				  feedbackDiv.innerHTML += "<br>" + view.comentario;
+				}
         }
     }
 
@@ -3072,43 +3167,72 @@ function checkAnswer(qIdx, selectedLetra, visIdx, restoring = false) { // Defaul
     let isCorrect = false; // Initialize correctness flag
 
     /* MULTIPLA ESCOLHA (Copied from V1) */
-    if (question.tipo === 'me') {
-        const origIdx = shuffledQuestionsOrder[qIdx];
-        const altOrder = shuffledAlternativesOrders[origIdx] || question.alternativas.map(a => a.letra); // Fallback if shuffle order missing
-        const correctLetra = question.gabarito;
-        const userAnswer = userAnswers[qIdx]; // Use the stored answer
+		/* MULTIPLA ESCOLHA (com comentários por alternativa opcionais) */
+		if (question.tipo === 'me') {
+		  const origIdx = shuffledQuestionsOrder[qIdx];
+		  const altOrder = shuffledAlternativesOrders[origIdx] || question.alternativas.map(a => a.letra);
+		  const correctLetra = question.gabarito;
+		  const userAnswer = userAnswers[qIdx];
 
-        isCorrect = (userAnswer === correctLetra);
-        const correctAltData = question.alternativas.find(a => a.letra === correctLetra);
-        const correctVisibleIndex = altOrder.indexOf(correctLetra); // Index based on shuffled order
-        const correctVisibleLetra = correctVisibleIndex !== -1 ? String.fromCharCode(65 + correctVisibleIndex) : '?'; // A, B, C...
+		  // 1) Se existir C: com blocos {X}...{/X}, prepare comentários por alternativa e geral
+		  const { perAlt, general } = splitAltComments(question.comentario || "");
 
-        if (isCorrect) {
-            feedback.innerHTML = '<span style="color: #228b22;"><b>CORRETO!</b></span>';
-            if (question.comentario) {
-                feedback.innerHTML += '<br>' + formatComentarioLetraShuffle(question.comentario, altOrder);
-            }
-            feedback.className = 'feedback correct';
-            if (!restoring) {
-                 if (!window.individualScores) window.individualScores = {};
-                 if (!window.individualScores.me) window.individualScores.me = [];
-                 window.individualScores.me[qIdx] = 1; // Store score
-                 // scoreME++; // Let showScore calculate totals
-            }
-        } else {
-            feedback.innerHTML = `<span style="color: #d5001a;"><b>INCORRETO!</b></span> Resposta:<br> <strong>${correctVisibleLetra})</strong> ${correctAltData ? correctAltData.texto : ''}.<br>`;
-            if (question.comentario) {
-                feedback.innerHTML += '<br>' + formatComentarioLetraShuffle(question.comentario, altOrder);
-            }
-            feedback.className = 'feedback incorrect';
-             if (!restoring) {
-                 if (!window.individualScores) window.individualScores = {};
-                 if (!window.individualScores.me) window.individualScores.me = [];
-                 window.individualScores.me[qIdx] = 0; // Store score
-                 // No scoreME++ here
-            }
-        }
-    }
+		  // 2) Renderiza comentários por alternativa (abaixo de cada label), respeitando a letra ORIGINAL
+		  altOrder.forEach(letter => {
+			const node = document.getElementById(`q${qIdx}-altcomment-${letter}`);
+			if (node) {
+			  const text = perAlt[letter];
+			  if (text && text.trim()) {
+				node.innerHTML = `<em>Comentário:</em> ${text}`;
+				node.style.display = 'block';
+			  } else {
+				node.style.display = 'none';
+				node.innerHTML = '';
+			  }
+			}
+		  });
+
+		  // 3) Checa correção e monta feedback
+		  const correctAltData = question.alternativas.find(a => a.letra === correctLetra);
+		  const correctVisibleIndex = altOrder.indexOf(correctLetra);
+		  const correctVisibleLetra = correctVisibleIndex !== -1 ? String.fromCharCode(65 + correctVisibleIndex) : '?';
+
+		  const isCorrectLocal = (userAnswer === correctLetra);
+		  isCorrect = isCorrectLocal;
+
+		  if (isCorrectLocal) {
+			feedback.innerHTML = '<span style="color: #228b22;"><b>CORRETO!</b></span>';
+			// comentário geral (fora dos blocos {X}...{/X})
+			if (general) {
+			  feedback.innerHTML += '<br>' + formatComentarioLetraShuffle(general, altOrder);
+			}
+			feedback.className = 'feedback correct';
+			if (!restoring) {
+			  if (!window.individualScores) window.individualScores = {};
+			  if (!window.individualScores.me) window.individualScores.me = [];
+			  window.individualScores.me[qIdx] = 1;
+			}
+		  } else {
+			feedback.innerHTML = `<span style="color: #d5001a;"><b>INCORRETO!</b></span> Resposta:<br> <strong>${correctVisibleLetra})</strong> ${correctAltData ? correctAltData.texto : ''}.<br>`;
+			// comentário geral (fora dos blocos {X}...{/X})
+			if (general) {
+			  feedback.innerHTML += '<br>' + formatComentarioLetraShuffle(general, altOrder);
+			}
+			feedback.className = 'feedback incorrect';
+			if (!restoring) {
+			  if (!window.individualScores) window.individualScores = {};
+			  if (!window.individualScores.me) window.individualScores.me = [];
+			  window.individualScores.me[qIdx] = 0;
+			}
+		  }
+
+		  // Se o quiz estiver finalizado, atualiza a nota
+		  if (!restoring && isQuizFinished()) {
+			showScore();
+		  }
+		  if(!restoring) saveCurrentState();
+		}
+
 
     /* V ou F tradicional (Copied from V1) */
     else if (question.tipo === 'vf') {

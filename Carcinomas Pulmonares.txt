@@ -1,0 +1,176 @@
+
+<variantes>
+QCH: Sobre os carcinomas de pequenas células, marque as alternativas corretas:
+A1: Podem surgir nos brônquios lobares ou na periferia do pulmão
+G: F
+C: Brônquios segmentares e periferia.
+A2: Não há fase pré invasiva conhecida.
+G: V
+A3: São as neoplasias de pulmão mais agressivas.
+G: V
+C: Metastatizando amplamente e quase sempre provando ser fatais.
+A4: É composto por células relativamente pequenas com citoplasma escasso, bordas celulares bem definidas, cromatina nuclear finamente granular (padrão de sal e pimenta) e nucléolos ausentes ou imperceptíveis.
+G: F
+C: As bordas celulares são mal definidas.
+A5: Necrose é comum e relativamente extensa.
+G: V
+A6: O carcinoma de pequenas células combinado é uma variante em que o carcinoma de pequenas células típico se mistura a histologias de outras células pequenas
+G: F
+C: Se mistura a não pequenas.
+A7: É aquele que está mais comumente associado com a produção de hormônio ectópico
+G: V
+
+QCH: Sobre os carcinomas de pequenas células, marque as alternativas corretas:
+A1: Podem surgir nos brônquios segmentares ou na periferia do pulmão
+G: V
+A2: Não há fase pré invasiva conhecida.
+G: V
+A3: São as neoplasias de pulmão mais agressivas.
+G: V
+C: Metastatizando amplamente e quase sempre provando ser fatais.
+A4: É composto por células relativamente pequenas com citoplasma escasso, bordas celulares bem definidas, cromatina nuclear finamente granular (padrão de sal e pimenta) e nucléolos ausentes ou imperceptíveis.
+G: F
+C: As bordas celulares são mal definidas.
+A5: Necrose é comum e relativamente extensa.
+G: V
+A6: O carcinoma de pequenas células combinado é uma variante em que o carcinoma de pequenas células típico se mistura a histologias de outras células pequenas
+G: F
+C: Se mistura a não pequenas.
+A7: É aquele que está mais comumente associado com a produção de hormônio ectópico
+G: V
+</variantes>
+
+<variantes>
+QCH: Sobre o carcinoma de grandes células, marque as alternativas corretas:
+A1: É uma neoplasia epitelial maligna diferenciada.
+G: F
+C: Indiferenciada.
+A2: É diagnosticado por exclusão.
+G: V
+A3: É aquele que está mais comumente associado com a produção de hormônio ectópico
+G: F
+C: Isso se refere ao de pequenas células.
+A4: Uma variante histológica é o carcinoma neuroendócrino de grandes células
+G: V
+A5: São as neoplasias de pulmão mais agressivas.
+G: F
+C: Isso se refere a de pequenas células.
+
+QCH: Sobre o carcinoma de grandes células, marque as alternativas corretas:
+A1: É uma neoplasia epitelial maligna indiferenciada.
+G: V
+A2: É diagnosticado por teste sorológico.
+G: F
+C: É diagnosticado por exclusão.
+A3: É aquele que está mais comumente associado com a produção de hormônio ectópico
+G: F
+C: Isso se refere ao de pequenas células.
+A4: Uma variante histológica é o carcinoma neuroendócrino de grandes células
+G: V
+A5: São as neoplasias de pulmão mais agressivas.
+G: F
+C: Isso se refere a de pequenas células.
+</variantes>
+
+<variantes>
+QCH: Sobre os carcinomas pulmonares, marque as alternativas corretas:
+A1: A propagação a distância do carcinoma de pulmão ocorre através dos canais linfáticos e das vias neurais.
+G: F
+C: Canais linfáticos e vias hematogenicas.
+A2: A metástase pode ser a primeira manifestação de uma lesão pulmonar oculta subjacente.
+G: V
+A3: Na metástase, o cérebro é envolvido em mais da metade dos casos.
+G: F
+C: Nenhum órgão ou tecido é poupado, mas as glândulas adrenais, por motivos obscuros, estão envolvidas em mais da metade dos casos. O fígado (30 a 50%), cérebro (20%) e ossos (20%) são outros locais preferidos de metástases.
+A4: A obstrução total pode causar enfisema focal marcante; a obstrução parcial pode levar a atelectasia.
+G: F
+C: A obstrução parcial pode causar enfisema focal marcante; a obstrução total pode levar a atelectasia.
+A5: Nos casos típicos, é descoberto em pacientes com 50 anos ou mais.
+G: V
+
+QCH: Sobre os carcinomas pulmonares, marque as alternativas corretas:
+A1: A propagação a distância do carcinoma de pulmão ocorre através dos canais linfáticos e das vias neurais.
+G: F
+C: Canais linfáticos e vias hematogenicas.
+A2: A metástase pode ser a primeira manifestação de uma lesão pulmonar oculta subjacente.
+G: V
+A3: Na metástase, o cérebro é envolvido em mais da metade dos casos.
+G: F
+C: Nenhum órgão ou tecido é poupado, mas as glândulas adrenais, por motivos obscuros, estão envolvidas em mais da metade dos casos. O fígado (30 a 50%), cérebro (20%) e ossos (20%) são outros locais preferidos de metástases.
+A4: A obstrução parcial pode causar enfisema focal marcante; a obstrução total pode levar a atelectasia.
+G: V
+A5: Nos casos típicos, é descoberto em pacientes com 50 anos ou mais.
+G: V
+</variantes>
+
+</variantes>
+QCH: Sobre os carcinomas pulmonares, marque as alternativas corretas:
+A1: Os cânceres de pulmão basais podem levar a síndrome de Horner.
+G: F
+C: O certo é apicais.
+Cânceres de pulmão apicais no sulco pulmonar superior tendem a invadir as estruturas neurais ao redor a traqueia, incluindo o plexo cervical simpático, e produzir um grupo de achados clínicos que incluem dor intensa na distribuição do nervo ulnar e síndrome de Horner (enoftalmia, ptose, miose e anidrose) no mesmo lado da lesão.
+A2: Pode levar a síndrome da veia cava superior.
+G: V
+C: A compressão ou invasão da veia cava superior pode causar congestão venosa e edema da cabeça e do braço e, em última análise, comprometimento circulatório – a síndrome da veia cava superior.
+A3: Em ordem de frequência, as principais queixas apresentadas são dispnéia, perda de peso, dor no tórax e tosse.
+G: F
+C: Dispnéia é a menos frequente dessas, enquanto tosse é a mais frequente.
+A4: As neoplasias que produzem ACTH e ADH são predominantemente de carcinomas de pequenas células, enquanto aqueles que produzem hipercalcemia são principalmente carcinomas de células escamosas.
+G: V
+A5: Os três principais subtipos histológicos são adenocarcinoma (mais comum), carcinoma de células escamosas e carcinoma de grandes células.
+G: F
+C: De pequenas células.
+A6: Carcinomas de pulmão de pequenas células são mais bem tratados com quimioterapia porque quase todos são metastáticos na apresentação.
+G: V
+A7: Adenocarcinoma é o subtipo mais comum em fumantes, enquanto carcinoma de células escamosas é o mais comum em não fumantes.
+G: F
+C: Adenocarcinoma é o mais comum nos dois casos.
+A8: Neoplasias de 3 cm ou menos de diâmetro caracterizadas por crescimento puro ao longo de estruturas preexistentes (padrão lepídico) sem invasão estromal são chamadas de adenocarcinoma in situ.
+G: V
+
+QCH: Sobre os carcinomas pulmonares, marque as alternativas corretas:
+A1: Os cânceres de pulmão basais podem levar a síndrome de Horner.
+G: F
+C: O certo é apicais.
+Cânceres de pulmão apicais no sulco pulmonar superior tendem a invadir as estruturas neurais ao redor a traqueia, incluindo o plexo cervical simpático, e produzir um grupo de achados clínicos que incluem dor intensa na distribuição do nervo ulnar e síndrome de Horner (enoftalmia, ptose, miose e anidrose) no mesmo lado da lesão.
+A2: Pode levar a síndrome da veia cava inferior.
+G: F
+C: A compressão ou invasão da <b>veia cava superior</b> pode causar congestão venosa e edema da cabeça e do braço e, em última análise, comprometimento circulatório – a síndrome da veia cava superior.
+A3: Em ordem de frequência, as principais queixas apresentadas são dispnéia, perda de peso, dor no tórax e tosse.
+G: F
+C: Dispnéia é a menos frequente dessas, enquanto tosse é a mais frequente.
+A4: As neoplasias que produzem ACTH e ADH são predominantemente de carcinomas de pequenas células, enquanto aqueles que produzem hipercalcemia são principalmente carcinomas de células escamosas.
+G: V
+A5: Os três principais subtipos histológicos são adenocarcinoma (mais comum), carcinoma de células escamosas e carcinoma de grandes células.
+G: F
+C: De pequenas células.
+A6: Carcinomas de pulmão de pequenas células são mais bem tratados com quimioterapia porque quase todos são metastáticos na apresentação.
+G: V
+A7: Adenocarcinoma é o subtipo mais comum em fumantes, enquanto carcinoma de células escamosas é o mais comum em não fumantes.
+G: F
+C: Adenocarcinoma é o mais comum nos dois casos.
+A8: Neoplasias de 3 cm ou menos de diâmetro caracterizadas por crescimento puro ao longo de estruturas preexistentes (padrão lepídico) sem invasão estromal são chamadas de adenocarcinoma in situ.
+G: V
+
+QCH: Sobre os carcinomas pulmonares, marque as alternativas corretas:
+A1: Os cânceres de pulmão apicais podem levar a síndrome de Horner.
+G: V
+C: Cânceres de pulmão apicais no sulco pulmonar superior tendem a invadir as estruturas neurais ao redor a traqueia, incluindo o plexo cervical simpático, e produzir um grupo de achados clínicos que incluem dor intensa na distribuição do nervo ulnar e síndrome de Horner (enoftalmia, ptose, miose e anidrose) no mesmo lado da lesão.
+A2: Pode levar a síndrome da veia cava superior.
+G: V
+C: A compressão ou invasão da veia cava superior pode causar congestão venosa e edema da cabeça e do braço e, em última análise, comprometimento circulatório – a síndrome da veia cava superior.
+A3: Em ordem de frequência, as principais queixas apresentadas são dispnéia, perda de peso, dor no tórax e tosse.
+G: F
+C: Dispnéia é a menos frequente dessas, enquanto tosse é a mais frequente.
+A4: As neoplasias que produzem ACTH e ADH são predominantemente de carcinomas de pequenas células, enquanto aqueles que produzem hipercalcemia são principalmente carcinomas de células escamosas.
+G: V
+A5: Os três principais subtipos histológicos são adenocarcinoma (mais comum), carcinoma de células escamosas e carcinoma de pequenas células.
+G: V
+A6: Carcinomas de pulmão de pequenas células são mais bem tratados com quimioterapia porque quase todos são metastáticos na apresentação.
+G: V
+A7: Adenocarcinoma é o subtipo mais comum em fumantes, enquanto carcinoma de células escamosas é o mais comum em não fumantes.
+G: F
+C: Adenocarcinoma é o mais comum nos dois casos.
+A8: Neoplasias de 3 cm ou menos de diâmetro caracterizadas por crescimento puro ao longo de estruturas preexistentes (padrão lepídico) sem invasão estromal são chamadas de adenocarcinoma in situ.
+G: V
+</variantes>

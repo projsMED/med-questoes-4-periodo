@@ -1,0 +1,103 @@
+<variantes>
+Q: Sobre astronomia, assinale a correta:
+A) O sol realiza fissão nuclear
+B) A lua influencia nas marés
+C) Marte é um exoplaneta
+G: B
+C: {A} O sol realiza <b>fusão nuclear</b> e não fissão {/A}
+{B} De fato a Lua influencia nas marés {/B}
+{C} Marte é definido como <b>planeta</b> e não como exoplaneta {/C}
+As alternativas refletem conceitos básicos de astronomia, sendo que {A} e {C} estão incorretas!
+
+Q: Sobre astronomia, assinale a correta:
+A) O sol realiza fissão nuclear
+B) A lua influencia nas marés
+C) Marte é um exoplaneta
+G: B
+C: {A} O sol realiza <b>fusão nuclear</b> e não fissão {/A}
+{B} De fato a Lua influencia nas marés {/B}
+As alternativas refletem conceitos básicos de astronomia, sendo que {A} e {C} estão incorretas!
+</variantes>
+
+<variantes>
+Q: Os três principais subtipos histológicos são adenocarcinoma (mais comum), carcinoma de células escamosas e carcinoma de grandes células.
+G: F
+C: De pequenas células.
+
+Q: Carcinomas de pulmão de pequenas células são mais bem tratados com quimioterapia porque quase todos são metastáticos na apresentação.
+G: V
+</variantes>
+
+<variantes>
+Q: Adenocarcinoma é o subtipo mais comum em fumantes, enquanto carcinoma de células escamosas é o mais comum em não fumantes.
+G: F
+C: Adenocarcinoma é o mais comum nos dois casos.
+
+Q: Neoplasias de 3 cm ou menos de diâmetro caracterizadas por crescimento puro ao longo de estruturas preexistentes (padrão lepídico) sem invasão estromal são chamadas de adenocarcinoma in situ.
+G: V
+</variantes>
+
+<variantes>
+Q: Leia o trecho abaixo e complete a lacuna:
+"A __________ é uma deficiência de oxigênio, que provoca lesão celular ao reduzir a respiração celular aeróbica e constitui uma causa extremamente significativa e comum de lesão e morte celulares."
+A) Isquemia
+B) Anemia
+C) Hipoxia
+D) Necrose
+E) Atrofia
+G: C
+C: A hipoxia é a deficiência de oxigênio que afeta a respiração aeróbica, sendo uma das causas mais comuns de lesão celular. A isquemia é uma das causas de hipoxia, mas não o conceito geral pedido na questão.
+
+Q: Complete a lacuna no trecho a seguir:
+"No miocárdio com lesão reversível, são observadas alterações funcionais, normalmente sem alterações macroscópicas, mas que podem incluir __________ e acúmulo de gordura."
+A) Necrose
+B) Tumefação celular
+C) Hiperplasia
+D) Apoptose
+E) Calcificação
+G: B
+C: A tumefação celular é uma alteração comum em lesões reversíveis, geralmente causada por distúrbios no metabolismo celular e entrada de íons e água.
+</variantes>
+
+Q: Analise as assertivas abaixo:
+I. A necrose representa uma forma de morte celular irreversível.  
+II. A hipertrofia miocárdica pode ser uma resposta adaptativa a aumento da pressão arterial.  
+III. A hipoxia sempre leva à morte celular imediata.  
+IV. A adaptação celular pode ser reversível se o estímulo nocivo for removido.
+É correto o que se afirma em:
+A) I e II, apenas
+B) I, II e IV, apenas
+C) II, III e IV, apenas
+D) I, III e IV, apenas
+E) I, II, III e IV
+G: B
+C: A afirmativa {III} está incorreta, pois a hipoxia nem sempre leva à morte celular imediata. As células podem se adaptar ou sofrer lesão reversível.
+
+<variantes>
+Q: Qual das opções relaciona corretamente a causa e o tipo de lesão celular?
+A) Radiação ionizante – apoptose exclusivamente
+B) Hipertonicidade de soluções – lesão por trauma mecânico
+C) Choque elétrico – lesão física
+D) Isquemia – lesão por agente infeccioso
+E) Envenenamento por arsênico – lesão nutricional
+G: C
+C: {C}) Choque elétrico é um agente físico. As demais associações estão incorretas, pois cada causa está relacionada a outra categoria de lesão.
+
+Q: Considerando a progressão da lesão celular por isquemia no miocárdio, qual das seguintes afirmações descreve corretamente a relação entre o tempo e as alterações morfológicas?
+A) As evidências de morte celular à microscopia óptica aparecem instantaneamente com o início da isquemia.
+B) A tumefação celular, uma alteração reversível, só é visível após 4 a 12 horas.
+C) As manifestações morfológicas da necrose (morte celular) levam mais tempo para se desenvolver do que as de dano reversível.
+D) As alterações morfológicas reversíveis e irreversíveis aparecem simultaneamente.
+E) As primeiras alterações detectáveis são macroscópicas, seguidas pelas alterações moleculares.
+G: C
+C: Há um intervalo de tempo para as alterações morfológicas aparecerem, as manifestações morfológicas da necrose levam mais tempo para se desenvolver do que as do dano reversível, o exemplo é da tumefação (reversível) que ocorre em minutos, enquanto a evidência de morte celular (necrose) pode levar de 4 a 12 horas para ser identificada microscopicamente.
+
+Q: Sobre a hipoxia, assinale a alternativa incorreta:
+A) Isquemia prolongada costuma ser a causa mais comum de hipoxia tecidual.
+B) Anemia grave pode diminuir a capacidade de transporte de oxigênio sem alterar o fluxo sanguíneo.
+C) Envenenamento por monóxido de carbono reduz a liberação de oxigênio pelos eritrócitos.
+D) Hipoxia pode ocorrer mesmo com pressão arterial normal, se o conteúdo de oxigênio no sangue estiver reduzido.
+E) A hipoxia intersticial é caracterizada pela difusão adequada de oxigênio mas pelo consumo intracelular insuficiente.
+G: E
+C: A descrição da alternativa {E} corresponde à hipoxia histotóxica (consumo inadequado de O₂ pelas células, ex.: na cianeto), não à hipoxia intersticial. A hipoxia intersticial refere-se a impedimento na difusão do oxigênio (por exemplo, espessamento da membrana alveolocapilar).
+</variantes>
