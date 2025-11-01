@@ -1,0 +1,16 @@
+QCH: Sobre os carcinomas pulmonares, marque as alternativas corretas:
+A1: Os cânceres de pulmão basais podem levar a síndrome de Horner.
+G: F
+C: O certo é apicais.
+A1: Os cânceres de pulmão apicais podem levar a síndrome de Horner.
+G: V
+C: Cânceres de pulmão apicais no sulco pulmonar superior..
+A2: Pode levar a síndrome da veia cava inferior.
+G: F
+C: A compressão da veia cava superior...
+A2: Pode levar a síndrome da veia cava superior.
+G: V
+A2: Pode levar a síndrome da veia cava radial.
+G: F
+C: Superior.
+CG: Uma questão bem interessante sobre carcinomas!

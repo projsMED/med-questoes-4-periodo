@@ -2061,10 +2061,19 @@ function parseQuestions(text) {
         const enunciadoFormatado = autoEmbedImages(enunciado); // Formata só o enunciado
         const noRandom = /^\s*NO-RANDOM:\s*TRUE/i.test(textoAssertivas); // Verifica NO-RANDOM no início do texto das assertivas
 
-		// Agora suportamos VARIANTES por identificador (A1, A2, ...):
-		// Se A1 aparece mais de uma vez, cada ocorrência vira uma "variante" de A1.
-		// Mantemos a ordem do "primeiro aparecimento" de cada identificador.
+		// --- CG opcional (comentário geral de QCH) ---
+		// Se existir uma linha "CG:" (qualquer lugar em textoAssertivas), capturamos
+		// tudo a partir dela até o fim do bloco, e REMOVEMOS isso do texto usado
+		// para parsear as assertivas.
+		let comentarioGeralQCH = null;
+		const cgMatch = textoAssertivas.match(/^CG:\s*([\s\S]*)$/m);
+		if (cgMatch) {
+		  comentarioGeralQCH = autoEmbedImages(cgMatch[1].trim());
+		  // remove a linha CG: e tudo que vem depois
+		  textoAssertivas = textoAssertivas.slice(0, cgMatch.index).trim();
+		}
 
+		// --- VARIANTES por identificador (A1, A2, ...) ---
 		const assertives = [];
 		const assertiveRegex = /A(\d{1,2}):\s*([\s\S]+?)(?:^G:\s*([VF])\s*(?:\n|$))((?:\s*C:\s*((?:(?!\s*^A\d+:|\s*^NO-RANDOM:)[\s\S])+))?(?=^A\d+:|^NO-RANDOM:|$))/gmi;
 
@@ -2089,20 +2098,21 @@ function parseQuestions(text) {
 		}
 
 		// Monta o array final de assertivas na ordem da primeira aparição do ID.
-		// Cada posição tem { variantes: [...] } (mesmo que haja só 1 variante).
 		for (const id of idOrder) {
 		  const variantes = idToVariants.get(id);
 		  assertives.push({ variantes });
 		}
 
 
+
         if (assertives.length > 0) {
-            questions.push({
-                tipo: 'checkbox',
-                enunciado: enunciadoFormatado, // Usa o enunciado separado e formatado
-                assertives,
-                noRandom
-            });
+			questions.push({
+			  tipo: 'checkbox',
+			  enunciado: enunciadoFormatado,
+			  assertives,
+			  noRandom,
+			  comentarioGeral: comentarioGeralQCH || null
+			});
             continue; // Próximo bloco
         } else if (!textoAssertivas && enunciado) {
              // If no valid assertives but had an enunciado, let it try other types
@@ -2895,7 +2905,10 @@ function checkCheckboxAnswer(qIdx, selecionadas, visIdx, restoring = false) {
     // Update general feedback for the question block
     const feedback = document.getElementById(`feedback${qIdx}`);
     if(feedback){
-        feedback.innerHTML = `Acertou ${acertos} de ${n} assertivas. Nota: ${(nota * 10).toFixed(2)} / 10`;
+        feedback.innerHTML = `<strong>Acertou ${acertos} de ${n} assertivas. Nota: ${(nota * 10).toFixed(2)} / 10</strong>`;
+		if (question.comentarioGeral) {
+		  feedback.innerHTML += '<br><br>' + question.comentarioGeral;
+		}
         if (nota === 1) feedback.className = "feedback correct";
         else if (acertos === 0 && n > 0) feedback.className = "feedback incorrect"; // Incorrect only if score is 0
         else feedback.className = "feedback neutral"; // Partial or not yet answered
