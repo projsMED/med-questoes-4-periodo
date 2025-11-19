@@ -959,9 +959,11 @@
 </div>
 </div>
 
-<script>
+<script type="module">
+import { get, set, del } from 'https://cdn.jsdelivr.net/npm/idb-keyval@6/+esm';
 /* -------------------------  VARIÁVEIS GLOBAIS  ------------------------- */
 let cloudQuizData = null;
+let loadedQuizTextContent = "";
 let shuffleQuestionsLocked = false;
 let currentQuizTitle = "";
 let isMergeMode = false;
@@ -1715,6 +1717,7 @@ function parsePlainOrVariantes(chunk) {
 /* -----------------------------  PROCESSA TXT  ---------------------------- */
 // SUBSTITUIÇÃO
 function processQuizText(fileText, isFromMerge = false) {
+    loadedQuizTextContent = fileText; // <--- Atualiza a memória global
     let questionText = fileText;
     const isActuallyAMerge = typeof currentQuizTitle === 'string' && currentQuizTitle.startsWith('Quiz mesclado:');
 
@@ -1772,13 +1775,14 @@ function simpleHash(str) {
 }
 
 /* --------------------  CARREGA ESTADO SALVO NO ONLOAD  ------------------ */
-window.addEventListener("DOMContentLoaded", function() {
-    const state = loadState();
+window.addEventListener("DOMContentLoaded", async function() { // Note o 'async' aqui
+    const state = await loadState(); // Note o 'await' aqui
+    
     if (state && state.quizText && state.quizTextHash) {
         
-        // --- INÍCIO DA LÓGICA CORRIGIDA ---
-        let fileTextWithInfo = state.quizText; // Texto completo salvo
-        currentQuizTitle = state.currentQuizTitle || ""; // Carrega o título salvo
+        loadedQuizTextContent = state.quizText; // <--- Recupera para a memória global
+        let fileTextWithInfo = state.quizText;
+        currentQuizTitle = state.currentQuizTitle || "";
 
         // NOVO: Extrai e renderiza a INFO do texto salvo
         const { info, remainingText } = parseInfo(fileTextWithInfo);
@@ -1889,8 +1893,8 @@ fileInput.addEventListener('change', function(e) {
 
 
 /* ---------------------------  RESET QUIZ  --------------------------- */
-resetQuizBtn.addEventListener('click', function() {
-    const state = loadState();
+resetQuizBtn.addEventListener('click', async function() { // <--- ASYNC
+    const state = await loadState(); // <--- AWAIT
     if (state && state.quizText) {
         initiateFilteringProcess(state.quizText, state.currentQuizTitle || "");
 
@@ -3448,49 +3452,52 @@ function showScore() {
 
 
 /* ---------------  SALVA/LOAD LOCALSTORAGE (V2/V3)  ---------------- */
-const STORAGE_KEY = "quiz-txt-app-state-v3"; // Use V3 key
-function saveState(st) { try { localStorage.setItem(STORAGE_KEY, JSON.stringify(st)); } catch(e) { console.error("Failed to save state:", e); } }
-function loadState()    { try { const loaded = localStorage.getItem(STORAGE_KEY); return loaded ? JSON.parse(loaded) : null;} catch(e) { console.error("Failed to load state:", e); return null;} }
+/* ---------------  SALVA/LOAD INDEXEDDB (COM IDB-KEYVAL)  ---------------- */
+const STORAGE_KEY = "quiz-txt-app-state-v3";
+
+function saveState(st) {
+    set(STORAGE_KEY, st).catch(err => console.error('Falha ao salvar no IndexedDB', err));
+}
+
+async function loadState() {
+    try {
+        return await get(STORAGE_KEY);
+    } catch (err) {
+        console.error('Falha ao carregar do IndexedDB', err);
+        return null;
+    }
+}
+
 function clearState() {
-  try { localStorage.removeItem(STORAGE_KEY); }
-  catch(e){}
+    del(STORAGE_KEY).catch(err => console.error('Falha ao limpar IndexedDB', err));
 }
 
 
 function saveCurrentState(quizTextOverride) {
+  // Se passarmos um texto novo (carregamento inicial), atualizamos a memória
+  if (quizTextOverride !== undefined) {
+      loadedQuizTextContent = quizTextOverride;
+  }
+
   const state = {
-    quizText: quizTextOverride !== undefined ? quizTextOverride : null,
+    quizText: loadedQuizTextContent, // <--- Usa a memória global, nunca falha
     quizTextHash,
     shuffledQuestionsOrder,
     shuffledAlternativesOrders,
     shuffledCheckboxOrders,
-    variantSelections,                       // <<< Include variant selections
+    variantSelections,
     shuffleQuestionsLocked,
     userAnswers,
     tempAnswers,
     escritaAutoNotas,
     escritaItensAutoNotas,
     escritaItensRespostas,
-    // Store individual scores instead of totals for accuracy
     individualScores: window.individualScores || { me: [], vf: [], check: [] },
-    // Keep total scores for potential backward compatibility or quick display (optional)
     scoreME, scoreVF, scoreCheck, scoreEscrita,
     shuffleQuestions: shuffleQuestionsChk.checked,
     shuffleAlternatives: shuffleAlternativesChk.checked,
-	currentQuizTitle
+    currentQuizTitle
   };
-  /* garante texto salvo */
-  if (!state.quizText) {
-      const prev = loadState(); // Load previous state if text override is not provided
-      // Only use previous text if the hash matches (ensures it's the same quiz)
-      if (prev && prev.quizTextHash === quizTextHash && prev.quizText) {
-           state.quizText = prev.quizText;
-      } else if (originalQuestions.length > 0 && !state.quizText) {
-          // Fallback: try to reconstruct from originalQuestions if possible (less reliable)
-          // This part is complex and might not be feasible/necessary.
-          // console.warn("Quiz text could not be saved reliably.");
-      }
-  }
 
   saveState(state);
 }
@@ -3583,6 +3590,8 @@ function closeImageModal(){document.getElementById('imgModal').classList.remove(
 document.getElementById('quiz').addEventListener('click',e=>{
   if(e.target.tagName.toLowerCase()==='img')openImageModal(e.target.src);
 });
+
+window.closeImageModal = closeImageModal;
 </script>
 </body>
 </html>

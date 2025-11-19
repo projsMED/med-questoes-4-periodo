@@ -1,0 +1,300 @@
+QCH: Sobre a <b>insuficiência hepática</b>, assinale o que for VERDADEIRO:
+A1: É a segunda forma mais grave de doença hepática.
+G: F
+C: É a <b>forma mais grave</b>, não a segunda.
+A2: A forma aguda ocorre em consequência de destruição hepática súbita e maciça.
+G: V
+A2: A forma crônica ocorre em consequência de destruição hepática súbita e maciça.
+G: F
+C: Essa é a <b>forma aguda</b>. A forma crônica ocorre após anos de lesão insidiosa e progressiva do fígado.
+A3: É necessária uma perda de 80 a 90% da capacidade funcional antes que ocorra insuficiência hepática.
+G: V
+A3: É necessária uma perda de 60 a 80% da capacidade funcional antes que ocorra insuficiência hepática.
+G: F
+C: Perda de <b>80 a 90%</b>.
+A4: A insuficiência hepática aguda é definida como uma doença hepática aguda associada à encefalopatia e à coagulopatia, a qual ocorre nas primeiras 26 semanas após a ocorrência de lesão hepática inicial, na ausência de doença hepática preexistente.
+G: V
+C: Em geral, a síndrome manifesta-se nas primeiras 8 semanas após a lesão, e muitos pacientes evoluem para o coma em apenas 1 semana. Dentro dessa janela de 26 semanas, é útil conhecer o intervalo entre o início dos sintomas e a insuficiência hepática, visto que isso pode fornecer pistas importantes para definir a etiologia.
+A5: A insuficiência hepática aguda de início muito rápido é induzida, com mais frequência, por fármacos ou toxinas e normalmente resulta de necrose hepática maciça.
+G: V
+C: Essa forma de insuficiência hepática, antes denominada “insuficiência hepática fulminante”, é um termo que permanece enraizado na literatura e ainda é utilizado como sinônimo. A ingestão acidental ou deliberada de <b>paracetamol</b> responde por quase 50% dos casos em adultos nos EUA, ao passo que a hepatite autoimune, outros fármacos/toxinas e as infecções agudas pelos vírus das hepatites A e B são responsáveis pela maior parte dos casos restantes.
+A5: A insuficiência hepática aguda de início muito rápido é induzida, com mais frequência, por câncer e normalmente resulta de necrose hepática maciça.
+G: F
+C: Induzida com mais frequência por <b>fármacos e toxinas</b>.<br>
+Essa forma de insuficiência hepática, antes denominada “insuficiência hepática fulminante”, é um termo que permanece enraizado na literatura e ainda é utilizado como sinônimo. A ingestão acidental ou deliberada de <b>paracetamol</b> responde por quase 50% dos casos em adultos nos EUA, ao passo que a hepatite autoimune, outros fármacos/toxinas e as infecções agudas pelos vírus das hepatites A e B são responsáveis pela maior parte dos casos restantes.
+
+QCH: Sobre as <b>características clínicas da insuficiência hepática AGUDA</b>, assinale o que for VERDADEIRO:
+A1: A insuficiência hepática aguda manifesta-se inicialmente com náuseas, vômitos e hemorragia, seguidos de encefalopatia potencialmente fatal e defeitos da coagulação.
+G: F
+C: A insuficiência hepática aguda manifesta-se inicialmente com náuseas, vômitos e <b>icterícia</b>, seguidos de encefalopatia potencialmente fatal e defeitos da coagulação.<br>
+Normalmente, os níveis séricos das transaminases hepáticas estão acentuadamente elevados. No início, o fígado está aumentado, devido à tumefação dos hepatócitos, a infiltrados inflamatórios e ao edema; entretanto, à medida que o parênquima é destruído, ocorre retração drástica do fígado.
+A1: A insuficiência hepática crônica manifesta-se inicialmente com náuseas, vômitos e icterícia, seguidos de encefalopatia potencialmente fatal e defeitos da coagulação.
+G: F
+C: A insuficiência hepática <b>aguda</b> manifesta-se inicialmente com náuseas, vômitos e icterícia, seguidos de encefalopatia potencialmente fatal e defeitos da coagulação.<br>
+Normalmente, os níveis séricos das transaminases hepáticas estão acentuadamente elevados. No início, o fígado está aumentado, devido à tumefação dos hepatócitos, a infiltrados inflamatórios e ao edema; entretanto, à medida que o parênquima é destruído, ocorre retração drástica do fígado.
+A2: Na aguda, o declínio das transaminases séricas com frequência representa um sinal de melhora.
+G: F
+C: No início, o fígado está aumentado, devido à tumefação dos hepatócitos, a infiltrados inflamatórios e ao edema; entretanto, à medida que o parênquima é destruído, ocorre retração drástica do fígado. Por conseguinte, <b>o declínio das transaminases séricas (com a morte dos hepatócitos) com frequência não representa um sinal de melhora, mas sim indica que existem poucos hepatócitos viáveis restantes</b>; essa suspeita é confirmada se houver agravamento da icterícia, coagulopatia e encefalopatia.
+A3: Ocorre colestase devido a alterações na formação e no fluxo de bile, levando à retenção de bilirrubina e de outros solutos normalmente eliminados na bile.
+G: V
+C: Colestase na Insuficiência Hepática Aguda<br>
+A <b>colestase</b> é a diminuição ou interrupção do fluxo biliar, resultando no acúmulo de substâncias que normalmente seriam eliminadas pela bile.<br>
+<b>O que acontece na colestase:</b><br>
+<b>Formação e fluxo de bile comprometidos:</b>
+ • Os hepatócitos (células hepáticas) produzem bile continuamente
+ • Na insuficiência hepática aguda, essas células estão danificadas ou destruídas
+ • A capacidade de produzir bile adequadamente fica comprometida
+ • Os canalículos biliares (pequenos ductos) também podem estar obstruídos pelo edema e inflamação<br>
+<b>Consequências do acúmulo:</b>
+ 1. <b>Retenção de bilirrubina</b> - pigmento amarelo produto da degradação da hemoglobina, causa a icterícia (coloração amarelada da pele e olhos)
+ 2. <b>Retenção de sais biliares</b> - pode causar prurido (coceira intensa) e má absorção de vitaminas lipossolúveis (A, D, E, K)
+ 3. <b>Outros solutos</b> - colesterol, metabólitos de drogas e toxinas que deveriam ser eliminados ficam retidos<br>
+<b>Por que aumenta o risco de infecção?</b><br>
+A bile tem funções imunológicas importantes no intestino. Quando há colestase, ocorre:
+ • Redução da eliminação de bactérias e toxinas intestinais
+ • Alteração da microbiota intestinal
+ • Comprometimento da barreira mucosa intestinal
+ • Isso facilita a translocação bacteriana (passagem de bactérias do intestino para a corrente sanguínea), podendo causar sepse.
+A4: Pode ocorrer encefalopatia hepática, os sinais neurológicos flutuantes associados incluem rigidez e hipo-reflexia.
+G: F
+C: Rigidez e <b>hiper-reflexia</b>.<br>
+<b>Mas qual é a causa?</b>
+Acredita-se que a encefalopatia hepática seja causada por níveis elevados de amônia, que apresentam uma correlação com o comprometimento da função neuronal e o edema cerebral.
+A5: A formação de hematomas é um sinal precoce, que pode progredir para o sangramento intracraniano com risco de vida ou fatal.
+G: V
+C: Coagulopatia: Os hepatócitos são responsáveis pela síntese dos fatores da coagulação II (protrombina), V, VII, IX, X, XI e XII, bem como do fibrinogênio. Por conseguinte, na insuficiência hepática, ocorre o desenvolvimento de deficiências de fatores de coagulação e da coagulabilidade.
+A5: A formação de hematomas é um sinal tardio, que pode progredir para o sangramento intracraniano com risco de vida ou fatal.
+G: F
+C: É um sinal <b>precoce</b>.
+Coagulopatia: Os hepatócitos são responsáveis pela síntese dos fatores da coagulação II (protrombina), V, VII, IX, X, XI e XII, bem como do fibrinogênio. Por conseguinte, na insuficiência hepática, ocorre o desenvolvimento de deficiências de fatores de coagulação e da coagulabilidade.
+A6: Surge hipertensão portal quando ocorre diminuição do fluxo através do sistema venoso porta, que pode se desenvolver devido apenas à obstrução nos níveis pré-hepático ou pós-hepático.
+G: F
+C: Surge hipertensão portal quando ocorre diminuição do fluxo através do sistema venoso porta, que pode se desenvolver devido à obstrução nos níveis <b>pré-hepático, intra-hepático ou pós-hepático</b>.
+A7: Na insuficiência hepática aguda, se houver desenvolvimento de hipertensão portal em poucos dias a semanas, a obstrução é predominantemente intra-hepática, e a principal consequência clínica consiste em ascite.
+G: V
+A7: Na insuficiência hepática aguda, caso haja desenvolvimento de hipertensão portal em poucos dias a semanas, a obstrução é predominantemente intra-hepática, e a principal consequência clínica consiste em ascite.
+G: V
+A7: Na insuficiência hepática aguda, se houver desenvolvimento de hipertensão portal em poucos dias a semanas, a obstrução é predominantemente pós-hepática, e a principal consequência clínica consiste em icterícia.
+G: F
+C: A obstrução é predominantemente <b>intra-hepática</b>, e a principal consequência clínica consiste em <b>ascite</b>.
+A7: Na insuficiência hepática aguda, se houver desenvolvimento de hipertensão portal em poucos dias a semanas, a obstrução é predominantemente pré-hepática, e a principal consequência clínica consiste em ascite.
+G: F
+C: A obstrução é predominantemente <b>pré-hepática</b>.
+A8: A síndrome hepatorrenal tem seu início marcado pela queda do débito urinário e pelo aumento dos níveis de ureia e creatinina no sangue.
+G: V
+C: A sua fisiopatologia não está totalmente elucidada, porém foi formulada a hipótese de que o evento desencadeante seja a hipertensão portal e a produção secundária aumentada de vasodilatadores, como o óxido nítrico, pelas células endoteliais na vasculatura esplâncnica. Isso, por sua vez, leva à vasodilatação sistêmica e à diminuição da perfusão renal, que é detectada pelo rim, provocando ativação do eixo renina/angiotensina.
+A8: A síndrome hepatorrenal tem seu início marcado pela queda do débito urinário e pelo aumento dos níveis de ureia e albumina no sangue.
+G: F
+C: Aumento dos níveis de ureia e <b>creatinina</b> no sangue.
+<br>A sua fisiopatologia não está totalmente elucidada, porém foi formulada a hipótese de que o evento desencadeante seja a hipertensão portal e a produção secundária aumentada de vasodilatadores, como o óxido nítrico, pelas células endoteliais na vasculatura esplâncnica. Isso, por sua vez, leva à vasodilatação sistêmica e à diminuição da perfusão renal, que é detectada pelo rim, provocando ativação do eixo renina/angiotensina.
+A8: A síndrome hepatorrenal tem seu início marcado pela queda do débito urinário e pelo aumento dos níveis de ureia e redução dos níveis de creatinina no sangue.
+G: F
+C: A síndrome hepatorrenal tem seu início marcado pela queda do débito urinário e pelo <b>aumento dos níveis de ureia e creatinina no sangue</b>.
+<br>A sua fisiopatologia não está totalmente elucidada, porém foi formulada a hipótese de que o evento desencadeante seja a hipertensão portal e a produção secundária aumentada de vasodilatadores, como o óxido nítrico, pelas células endoteliais na vasculatura esplâncnica. Isso, por sua vez, leva à vasodilatação sistêmica e à diminuição da perfusão renal, que é detectada pelo rim, provocando ativação do eixo renina/angiotensina.
+A9: No caso da síndrome hepatorrenal, o declínio da perfusão renal é irreversível.
+G: F
+C: O declínio da função renal é <b>reversível</b> se a função hepática for restaurada, por exemplo, por <b>transplante de fígado</b>.
+A9: No caso da síndrome hepatorrenal, o declínio da perfusão renal é reversível.
+G: V
+C: O declínio da função renal é <b>reversível</b> se a função hepática for restaurada, por exemplo, por <b>transplante de fígado</b>.
+A10: Os pacientes que desenvolvem síndrome hepatorrenal geralmente apresentam hipertensão portal devido à cirrose, à hepatite alcoólica grave ou (menos frequentemente) a neoplasias metastáticas.
+G: V
+
+QCH: Sobre as <b>características da insuficiência hepática CRÔNICA</b>, assinale o que for VERDADEIRO:
+A1: Na doença hepática crônica, a insuficiência hepática está mais frequentemente associada a fibrose/cirrose avançada.
+G: V
+C: Entendendo a diferença:<br>
+<b>Remodelamento FOCAL (incorreto)</b>
+ • Significa que as alterações estariam localizadas em áreas específicas e isoladas do fígado
+ • Como se fossem "manchas" ou regiões pontuais afetadas
+ • O restante do órgão estaria preservado<br>
+<b>Remodelamento DIFUSO (correto)</b>
+ • Significa que as alterações acometem todo o fígado
+ • A arquitetura hepática está alterada de forma generalizada e disseminada
+ • Não há áreas significativas de parênquima normal preservado<br>
+<b>O que acontece na cirrose:</b><br>
+A cirrose é caracterizada por:
+ • Nódulos regenerativos por todo o fígado - os hepatócitos tentam se regenerar, formando nódulos desorganizados em toda a extensão do órgão
+ • Faixas fibrosas difusas - o tecido cicatricial (fibrose) circunda esses nódulos de forma generalizada, conectando espaços-porta e veias centrolobulares
+ • Destruição da arquitetura normal - a organização lobular normal é perdida em todo o órgão
+ • Shunts vasculares - formam-se comunicações anormais entre o sistema porta e a circulação sistêmica (derivações portossistêmicas)<br>
+<b>Por que isso importa:</b><br>
+O caráter difuso da cirrose explica por que:
+ • A função hepática fica globalmente comprometida
+ • Não é possível ressecção cirúrgica (ao contrário de lesões focais)
+ • O transplante hepático pode ser a única opção terapêutica definitiva
+A2: Tem relação com uma condição caracterizada por remodelamento focal do fígado em nódulos parenquimatosos (em geral, regenerativos) circundados por faixas fibrosas e grau variável de derivação vascular (com frequência, portossistêmica)
+G: F
+C: O remodelamento é <b>difuso</b>.
+Entendendo a diferença:<br>
+<b>Remodelamento FOCAL (incorreto)</b>
+ • Significa que as alterações estariam localizadas em áreas específicas e isoladas do fígado
+ • Como se fossem "manchas" ou regiões pontuais afetadas
+ • O restante do órgão estaria preservado<br>
+<b>Remodelamento DIFUSO (correto)</b>
+ • Significa que as alterações acometem todo o fígado
+ • A arquitetura hepática está alterada de forma generalizada e disseminada
+ • Não há áreas significativas de parênquima normal preservado<br>
+<b>O que acontece na cirrose:</b><br>
+A cirrose é caracterizada por:
+ • Nódulos regenerativos por todo o fígado - os hepatócitos tentam se regenerar, formando nódulos desorganizados em toda a extensão do órgão
+ • Faixas fibrosas difusas - o tecido cicatricial (fibrose) circunda esses nódulos de forma generalizada, conectando espaços-porta e veias centrolobulares
+ • Destruição da arquitetura normal - a organização lobular normal é perdida em todo o órgão
+ • Shunts vasculares - formam-se comunicações anormais entre o sistema porta e a circulação sistêmica (derivações portossistêmicas)<br>
+<b>Por que isso importa:</b><br>
+O caráter difuso da cirrose explica por que:
+ • A função hepática fica globalmente comprometida
+ • Não é possível ressecção cirúrgica (ao contrário de lesões focais)
+ • O transplante hepático pode ser a única opção terapêutica definitiva
+A3: As principais causas de insuficiência hepática crônica em todo o mundo consistem em hepatite B crônica, hepatite C crônica, doença hepática gordurosa não alcoólica e doença hepática alcoólica.
+G: V
+A3: As principais causas de insuficiência hepática crônica em todo o mundo consistem em hepatite A crônica, hepatite C crônica, doença hepática gordurosa não alcoólica e doença hepática alcoólica.
+G: F
+C: <b>Hepatite B crônica</b> em vez de hepatite A crônica.
+A3: As principais causas de insuficiência hepática crônica em todo o mundo consistem em hepatite B aguda, hepatite C crônica, doença hepática gordurosa alcoólica e doença hepática alcoólica.
+G: F
+C: As principais causas de insuficiência hepática crônica em todo o mundo consistem em <b>hepatite B crônica</b>, hepatite C crônica, doença hepática gordurosa <b>não alcoólica</b> e doença hepática alcoólica.
+A4: Nem todos os casos de cirrose levam de modo inexorável à insuficiência hepática crônica, tampouco todas as doenças hepáticas crônicas em estágio terminal são cirróticas
+G: V
+C: Por exemplo, as doenças crônicas, como a colangite biliar primária, a colangite esclerosante primária, a hiperplasia nodular regenerativa, a esquistossomose crônica e a doença hepática fibropolicística, não costumam ser acompanhadas de cirrose totalmente estabelecida, mesmo em estágio terminal. Em contrapartida, os pacientes com hepatite autoimune bem tratada ou aqueles com hepatite B suprimida ou hepatite C curada geralmente não progridem para a doença hepática terminal, mesmo na presença de cirrose.
+A5: Cirrose criptogênica é quando a cirrose surge em decorrência de exposição contínua ao frio.
+G: F
+C: Há alguns casos nos quais a cirrose surge <b>sem qualquer causa bem definida</b>; nessas circunstâncias, emprega-se, às vezes, o termo cirrose criptogênica.
+A6: A cirrose caracteriza-se pela presença de nódulos parenquimatosos circundados por faixas densas de fibrose em todo o fígado, convertendo a cápsula hepática normalmente irregular em uma superfície lisa, com áreas deprimidas de cicatrização e nódulos regenerativos protuberantes.
+G: F
+C: A cirrose caracteriza-se pela presença de nódulos parenquimatosos circundados por faixas densas de fibrose em todo o fígado, convertendo a cápsula hepática <b>normalmente lisa em uma superfície irregular</b>, com áreas deprimidas de cicatrização e nódulos regenerativos protuberantes 
+A6: A cirrose caracteriza-se pela presença de nódulos parenquimatosos circundados por faixas densas de fibrose em todo o fígado, convertendo a cápsula hepática normalmente lisa em uma superfície irregular, com áreas deprimidas de cicatrização e nódulos regenerativos protuberantes.
+G: V
+CG: Resumo para revisar:
+Insuficiência hepática aguda<br>
+A <b>insuficiência hepática aguda</b> é uma doença hepática de instalação rápida, caracterizada por <b>encefalopatia</b> e <b>coagulopatia</b> em até 26 semanas após a lesão inicial, sem doença hepática prévia. Em geral, manifesta-se nas primeiras 8 semanas, podendo evoluir para <b>coma</b> em poucos dias.<br>
+ • A forma de início rápido é frequentemente causada por <b>fármacos ou toxinas</b>, como o paracetamol, levando à necrose hepática maciça.  
+ • Outras causas incluem <b>hepatite autoimune</b>, infecções pelos vírus da hepatite A e B e outras toxinas.  
+ • Na <b>Ásia</b>, as hepatites B e E agudas são as causas predominantes.  
+ • Em cerca de 15% dos adultos e 50% das crianças, a causa permanece indeterminada.<br>
+<b>Mecanismo de lesão:</b>
+ • Pode haver dano <b>tóxico direto</b> (como no paracetamol) ou <b>destruição imunomediada</b> dos hepatócitos.  
+ • Causas raras incluem <b>alterações do fluxo sanguíneo</b>, distúrbios metabólicos e neoplasias malignas (como leucemias, linfomas e câncer de mama ou cólon).<br>
+<b>Morfologia:</b>
+ • Geralmente há <b>necrose hepática maciça</b>, com perda difusa do parênquima e ilhas de regeneração.  
+ • O fígado torna-se <b>pequeno e retraído</b>.  
+ • Lesões tóxicas evoluem rapidamente, sem tempo para cicatrização; já as infecções virais permitem alguma <b>regeneração e fibrose</b>.  
+ • Em alguns casos, há <b>disfunção celular difusa</b> sem necrose, como na <b>esteatose microvesicular</b> (ex.: gravidez, uso de valproato ou tetraciclina).  
+ • Em pacientes imunodeprimidos (HIV, pós-transplante), vírus como <b>citomegalovírus</b> e <b>herpes-vírus</b> podem causar insuficiência hepática aguda.<br>
+<b>Características clínicas:</b>
+ • Inicia-se com <b>náuseas</b>, <b>vômitos</b> e <b>icterícia</b>, seguidos de encefalopatia e distúrbios de coagulação.  
+ • As <b>transaminases</b> ficam elevadas no início e podem cair com a morte dos hepatócitos, sem melhora clínica.  
+ • Pode evoluir para <b>falência múltipla de órgãos</b> e morte se o transplante não for realizado.<br>
+<b>Principais manifestações:</b>
+ 1. <b>Colestase</b> – devido à alteração da formação e fluxo biliar, com retenção de bilirrubina e risco de infecção.  
+ 2. <b>Encefalopatia hepática</b> – distúrbios de consciência, confusão, coma e <i>asterix</i> (flapping).  
+    ◦ Causada por <b>acúmulo de amônia</b>, proveniente do intestino, que não é convertida em ureia.  
+    ◦ Provoca <b>edema cerebral</b> e disfunção neuronal.  
+ 3. <b>Coagulopatia</b> – deficiência dos fatores de coagulação (II, V, VII, IX, X, XI, XII) e do fibrinogênio.  
+    ◦ Manifesta-se com hematomas e risco de <b>hemorragia intracraniana</b>.  
+    ◦ Pode evoluir para <b>coagulação intravascular disseminada (CIVD)</b>.  
+ 4. <b>Hipertensão portal</b> – resulta da obstrução intra-hepática, levando a <b>ascite</b>.  
+ 5. <b>Síndrome hepatorrenal</b> – insuficiência renal funcional sem lesão morfológica.  
+    ◦ Decorre da <b>vasodilatação esplâncnica</b> e ativação do <b>sistema renina-angiotensina</b>.  
+    ◦ É reversível com o <b>restabelecimento da função hepática</b> (ex.: transplante).<br>
+Em resumo, a insuficiência hepática aguda é uma emergência médica grave que cursa com necrose hepatocelular extensa, encefalopatia, coagulopatia e risco elevado de morte, exigindo suporte intensivo e, muitas vezes, <b>transplante hepático</b>.
+
+QCH: Sobre as <b>características CLÍNICAS da insuficiência hepática CRÔNICA</b>, assinale o que for VERDADEIRO:
+A1: Cerca de 20% dos indivíduos com cirrose são assintomáticos até os estágios mais avançados da doença.
+G: F
+C: Cerca de 40%.
+A2: Quando sintomáticos, eles apresentam manifestações inespecíficas: anorexia, perda de peso, fraqueza e, na doença avançada, sinais e sintomas de insuficiência hepática.
+G: V
+A2: Quando sintomáticos, eles apresentam manifestações inespecíficas: anorexia, ganho de peso (devido a ascite), fraqueza e, na doença avançada, sinais e sintomas de insuficiência hepática.
+G: F
+C: Quando sintomáticos, eles apresentam manifestações inespecíficas: anorexia, <b>perda de peso</b>, fraqueza e, na doença avançada, sinais e sintomas de insuficiência hepática.<br>
+Explicação: A assertiva está FALSA porque menciona "ganho de peso devido a ascite" como manifestação da insuficiência hepática crônica, quando na verdade os pacientes apresentam perda de peso. Embora a ascite (acúmulo de líquido na cavidade abdominal) seja realmente uma complicação frequente e possa aumentar o peso corporal total na balança, isso não representa ganho de massa corporal real. O que ocorre é uma perda progressiva de massa muscular e tecido adiposo devido à desnutrição proteico-calórica, má absorção intestinal, anorexia e ao estado catabólico característico da doença hepática avançada. O fígado doente não consegue sintetizar adequadamente proteínas, processar nutrientes nem realizar suas funções metabólicas normais, levando à caquexia hepática.
+A3: As causas comuns de morte consistem em encefalopatia hepática, sangramento de varizes esofágicas, infecções bacterianas (que resultam de danos à barreira mucosa do intestino e disfunção das células de Kupffer) e carcinoma hepatocelular.
+G: V
+A4: A colestase persistente pode levar ao prurido (coceira), que pode ser de grande intensidade.
+G: V
+A4: A colestase persistente pode levar ao enxantema, que pode ser de grande intensidade.
+G: F
+C: A colestase persistente pode levar ao <b>prurido (coceira)</b>, que pode ser de grande intensidade.
+A5: O distúrbio do metabolismo dos estrogênios leva à hiperestrogenemia.
+G: V
+C: Ela produz alterações vasculares que podem levar ao <b>eritema palmar</b> (um reflexo da vasodilatação local) e às <b>aranhas vasculares</b> (angiomas aracneiformes) da pele. Cada angioma consiste em uma arteríola dilatada central e pulsátil, a partir da qual irradiam pequenos vasos. Nos homens, a hiperestrogenemia também pode produzir <b>hipogonadismo e ginecomastia</b>.
+A6: O hipogonadismo também pode ocorrer em mulheres, devido à ruptura da função do eixo hipotálamo-hipófise, por meio de deficiências nutricionais associadas à doença hepática crônica ou a alterações hormonais primárias.
+G: V
+A7: Alguns indivíduos com doença hepática crônica avançada e estável, porém bem compensada, desenvolvem subitamente sinais de insuficiência hepática aguda.
+G: V
+C: Explicação:
+1. Conceito e Vulnerabilidade
+Pacientes com cirrose estabelecida e estável podem desenvolver subitamente insuficiência hepática aguda. A extensa derivação vascular faz com que grandes volumes de parênquima hepático funcionem com suprimento sanguíneo limítrofe, tornando-os altamente vulneráveis a novas agressões. A mortalidade a curto prazo é de aproximadamente 50%.
+2. Causas Virais
+Superinfecção pelo vírus da hepatite D em pacientes com hepatite B crônica ou surgimento de mutantes virais resistentes à terapia em hepatite B controlada podem causar descompensação súbita. Colangite ascendente em pacientes com colangite esclerosante primária também é uma causa hepática direta de descompensação.
+3. Causas Metabólicas
+Pacientes com esteatohepatite não alcoólica podem desenvolver grave disfunção hepática após perda rápida de peso ou desnutrição, embora o mecanismo exato não seja conhecido.
+4. Agressões Sistêmicas
+Condições extra-hepáticas como sepse (com hipotensão associada), insuficiência cardíaca aguda, superdosagem de medicamentos ou lesões tóxicas podem comprometer o parênquima hepático já vulnerável e desencadear insuficiência aguda em pacientes cirróticos compensados.
+5. Neoplasias
+Deve-se sempre considerar malignidade como possível causa: carcinoma hepatocelular, colangiocarcinoma ou metástases hepáticas de outros sítios (como cólon) podem provocar descompensação aguda em doença hepática crônica previamente estável.
+
+QCH: Sobre a <b>hipertensão portal</b>, assinale tudo o que for <b>VERDADEIRO</b>:
+A1: As principais condições pós-hepáticas consistem em trombose obstrutiva, estreitamento da veia porta antes de sua ramificação dentro do fígado e esplenomegalia maciça, com aumento do fluxo sanguíneo na veia esplênica
+G: F
+C: Essas são as principais condições pré-hepáticas. As principais pós-hepáticas são: Insuficiência cardíaca direita grave, pericardite constritiva e obstrução do fluxo da veia hepática
+A2: A causa intra-hepática dominante é a cirrose, responsável pela maioria dos casos de hipertensão portal.
+G: V
+C: Outras causas intra-hepáticas muito menos frequentes incluem esquistossomose, degeneração gordurosa maciça, doença granulomatosa fibrosante difusa, como sarcoidose, e doenças que afetam a microcirculação portal, como hiperplasia nodular regenerativa
+A2: A causa intra-hepática dominante é o carcinoma, responsável pela maioria dos casos de hipertensão portal.
+G: F
+C: É a <b>cirrose</b>.
+<br> Outras causas intra-hepáticas muito menos frequentes incluem esquistossomose, degeneração gordurosa maciça, doença granulomatosa fibrosante difusa, como sarcoidose, e doenças que afetam a microcirculação portal, como hiperplasia nodular regenerativa.
+A3: A fisiopatologia da hipertensão portal é complexa e envolve resistência ao fluxo portal no nível dos sinusoides e aumento do fluxo portal causado pela circulação hipodinâmica.
+G: F
+C: Causado pela circulação hiperdinâmica.<br>
+A circulação é hiperdinâmica porque funciona de forma "acelerada" e "exagerada" na hipertensão portal. Vamos entender por partes: quando o fígado está cirrótico, ele não consegue metabolizar (quebrar e eliminar) adequadamente várias substâncias que dilatam os vasos sanguíneos, como o óxido nítrico. Essas substâncias se acumulam no sangue e causam uma vasodilatação intensa, principalmente nos vasos que irrigam o intestino, baço e pâncreas (território esplâncnico). Com os vasos dilatados, é como se as "tubulações" ficassem mais largas - isso faz com que muito mais sangue flua para essa região. O coração, percebendo que a pressão arterial está caindo devido à vasodilatação, responde bombeando mais sangue e batendo mais rápido (taquicardia), aumentando o débito cardíaco. Todo esse sangue extra acaba chegando ao sistema porta.
+O problema é que esse aumento do fluxo sanguíneo encontra uma "barreira" no fígado cirrótico, cujos sinusoides (pequenos vasos dentro do fígado) estão comprimidos e distorcidos pelas cicatrizes (fibrose) e pelos nódulos regenerativos. É como tentar passar muito mais água por um cano entupido e torto - a pressão aumenta muito. Esse estado de "circulação acelerada" com muito sangue circulando, coração batendo forte e vasos dilatados é o que chamamos de hiperdinâmico - o oposto de hipodinâmico (que seria uma circulação lenta e fraca). Essa circulação hiperdinâmica piora a hipertensão portal e leva às complicações como varizes do esôfago (vasos dilatados que podem sangrar), aumento do baço e acúmulo de líquido na barriga (ascite).
+A4: As alterações das células endoteliais sinusoidais que contribuem para a vasoconstrição intra-hepática associada à hipertensão portal incluem diminuição da produção de óxido nítrico (NO) e liberação aumentada de endotelina-1, angiotensinogênio e eicosanoides.
+G: V
+A5: As quatro principais consequências da hipertensão portal são: (1) encefalopatia hepática (descrita na seção sobre insuficiência hepática); (2) ascite; (3) formação de derivações venosas portossistêmicas; e (4) esplenomegalia congestiva.
+G: V
+A5: As quatro principais consequências da hipertensão portal são: (1) encefalopatia hepática (descrita na seção sobre insuficiência hepática); (2) hemorragia; (3) formação de derivações venosas portossistêmicas; e (4) esplenomegalia congestiva.
+G: F
+C: As quatro principais consequências da hipertensão portal são: (1) encefalopatia hepática (descrita na seção sobre insuficiência hepática); (2) <b>ascite</b>; (3) formação de derivações venosas portossistêmicas; e (4) esplenomegalia congestiva.
+A6: Em geral, a ascite torna-se clinicamente detectável quando há acúmulo de pelo menos 500 mℓ.
+G: V
+A6: Em geral, a ascite torna-se clinicamente detectável quando há acúmulo de pelo menos 1000 mℓ.
+G: F
+C: Pelo menos <b>500 mℓ</b>.
+A6: Em geral, a ascite torna-se clinicamente detectável quando há acúmulo de pelo menos 300 mℓ.
+G: F
+C: Pelo menos <b>500 mℓ</b>.
+A7: Na ascite de longa duração, a infiltração de líquido peritoneal através dos linfáticos transdiafragmáticos pode produzir icterícia.
+G: F
+C: Pode produzir <b>hidrotórax</b>, geralmente do lado direito.
+A8: Os principais locais para as derivações portossistêmicas são as veias ao redor e dentro do reto (cuja manifestação consiste em hemorroidas), a junção epiderme e derme, o retroperitônio e o ligamento falciforme do fígado (envolvendo colaterais periumbilicais e da parede abdominal).
+G: F
+C: Os principais locais são as veias ao redor e dentro do reto (cuja manifestação consiste em hemorroidas), <b>a junção gastresofágica (produzindo varizes)</b>, o retroperitônio e o ligamento falciforme do fígado (envolvendo colaterais periumbilicais e da parede abdominal).
+A8: Os principais locais são as veias ao redor e dentro do reto (cuja manifestação consiste em hemorroidas), a junção gastresofágica (produzindo varizes), o retroperitônio e o ligamento falciforme do fígado (envolvendo colaterais periumbilicais e da parede abdominal).
+G: V
+A9: A hipertensão portal de longa duração pode causar esplenomegalia congestiva.
+G: V
+C: O grau de aumento do baço varia amplamente, e o peso do órgão pode alcançar até 1.000 g (cinco a seis vezes o normal), porém não apresenta necessariamente uma correlação com outras características da hipertensão portal. A esplenomegalia pode induzir secundariamente anormalidades hematológicas atribuíveis ao “hiperesplenismo”, particularmente trombocitopenia ou até mesmo pancitopenia, em grande parte devido ao sequestro de elementos sanguíneos na polpa vermelha expandida do baço.
+A10: São complicações pulmonares da insuficiência hepática e hipertensão portal: Síndrome hepatopulmonar e hipertensão portopulmonar.
+G: V
+A10: São complicações pulmonares da insuficiência hepática e hipertensão portal: Síndrome hepatopulmonar e embolia pulmonar.
+G: F
+C: Síndrome hepatopulmonar e <b>hipertensão portopulmona</b>.
+
+Q:Um paciente de 58 anos com cirrose hepática por hepatite C crônica e hipertensão portal documentada apresenta-se ao ambulatório com queixa de dispneia progressiva há 3 meses. Durante a anamnese, relata que a falta de ar piora significativamente quando fica em pé e melhora ao deitar-se. Ao exame físico, apresenta icterícia leve, telangiectasias, ascite moderada e saturação de oxigênio de 88% em ar ambiente na posição ortostática.
+<br>Sobre as <b>complicações pulmonares associadas à doença hepática crônica e hipertensão portal</b>, assinale a alternativa <b>CORRETA</b>:
+A) A síndrome hepatopulmonar é caracterizada por vasoconstrição pulmonar excessiva e remodelamento vascular, causando hipertensão arterial pulmonar.
+B) A dispneia que piora na posição ortostática (platipneia) é característica da hipertensão portopulmonar e ocorre devido ao aumento da gravidade sobre vasos pulmonares constrictos.
+C) A síndrome hepatopulmonar resulta da dilatação de capilares e vasos pré-capilares intrapulmonares, causando shunt direita-esquerda e hipoxemia, com dispneia que piora ao ficar em pé.
+D) A hipertensão portopulmonar acomete até 30% dos pacientes com cirrose e hipertensão portal, sendo mais frequente que a síndrome hepatopulmonar.
+E) Ambas as síndromes pulmonares têm fisiopatologia bem estabelecida, relacionada principalmente à falha na eliminação hepática de óxido nítrico.
+G: C
+C:
+{A}Esta alternativa descreve erroneamente a hipertensão portopulmonar, não a síndrome hepatopulmonar. A síndrome hepatopulmonar é caracterizada por vasodilatação (e não vasoconstrição) de capilares e vasos pré-capilares intrapulmonares. É a hipertensão portopulmonar que apresenta vasoconstrição pulmonar excessiva e remodelamento vascular, levando ao aumento da pressão arterial pulmonar. As duas síndromes têm mecanismos fisiopatológicos opostos em relação ao tônus vascular pulmonar.{/A}
+{B}A platipneia (dispneia que piora na posição ortostática) é característica da síndrome hepatopulmonar, não da hipertensão portopulmonar. Na síndrome hepatopulmonar, a gravidade exacerba o desequilíbrio ventilação-perfusão porque aumenta o fluxo sanguíneo para as bases pulmonares, onde os vasos dilatados estão mais concentrados, piorando o shunt e a hipoxemia. Já na hipertensão portopulmonar, a dispneia ocorre principalmente aos esforços e não tem essa relação característica com a posição.{/B}
+{C}Esta alternativa descreve corretamente a síndrome hepatopulmonar. A síndrome é causada pela dilatação de capilares e vasos pré-capilares intrapulmonares (que podem atingir até 500 μm). Essa dilatação causa derivação (shunt) do sangue da direita para a esquerda através dos vasos dilatados, produzindo desigualdade ventilação-perfusão e comprometendo a oxigenação sanguínea, resultando em hipoxemia. A característica clínica marcante é a dispneia que piora na posição ortostática (platipneia) e melhora em decúbito, devido ao efeito da gravidade sobre o desequilíbrio ventilação-perfusão.{/C}
+{D}Os dados epidemiológicos estão invertidos. A síndrome hepatopulmonar é que acomete até cerca de 30% dos pacientes com cirrose hepática e hipertensão portal, sendo mais frequente que a hipertensão portopulmonar. A hipertensão portopulmonar é menos comum, ocorrendo em uma porcentagem menor de pacientes cirróticos. Esta inversão torna a alternativa incorreta.{/D}
+{E}Esta alternativa é incorreta por duas razões: primeiro, a fisiopatologia de ambas as síndromes não está bem estabelecida - o texto deixa claro que "a patogênese ainda não está esclarecida" para a síndrome hepatopulmonar e que a hipertensão portopulmonar "também não está bem compreendida". Segundo, embora exista a hipótese de que a falha na eliminação de fatores vasoativos (como endotelina-1, que estimula a produção de óxido nítrico) possa estar envolvida na síndrome hepatopulmonar, isso não está definitivamente estabelecido e não explica ambas as condições de forma clara.{/E}
+Isso mesmo!
