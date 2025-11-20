@@ -219,6 +219,42 @@
             ]
           }
         ]
+      },
+      {
+        "type": "folder",
+        "name": "2º Bimestre",
+        "children": [
+          {
+            "type": "file",
+            "name": "Antraz - Estratégia Med.txt",
+            "path": "quizes-da-nuvem/Tutorias/2º Bimestre/Antraz - Estratégia Med.txt"
+          },
+          {
+            "type": "file",
+            "name": "Coqueluche - Estratégia Med.txt",
+            "path": "quizes-da-nuvem/Tutorias/2º Bimestre/Coqueluche - Estratégia Med.txt"
+          },
+          {
+            "type": "file",
+            "name": "Difteria - Estratégia Med.txt",
+            "path": "quizes-da-nuvem/Tutorias/2º Bimestre/Difteria - Estratégia Med.txt"
+          },
+          {
+            "type": "file",
+            "name": "Doença de lyme-símile - Estratégia Med.txt",
+            "path": "quizes-da-nuvem/Tutorias/2º Bimestre/Doença de lyme-símile - Estratégia Med.txt"
+          },
+          {
+            "type": "file",
+            "name": "Escarlatina - Estratégia Med.txt",
+            "path": "quizes-da-nuvem/Tutorias/2º Bimestre/Escarlatina - Estratégia Med.txt"
+          },
+          {
+            "type": "file",
+            "name": "Staphylococcus - Estratégia Med.txt",
+            "path": "quizes-da-nuvem/Tutorias/2º Bimestre/Staphylococcus - Estratégia Med.txt"
+          }
+        ]
       }
     ]
   },
